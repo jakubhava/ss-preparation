@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1527792585871,"sparkVersion":"2.3.0","uid":"SQLTransformer_4a1488deae9dd66d9b06","paramMap":{"statement":"SELECT * FROM __THIS__ where t_total > 100"}}

@@ -1,0 +1,44 @@
+//
+// Script tests support
+//
+
+sourceSets {
+    scriptsTest {
+        scala.srcDir file('src/scriptsTest/scala')
+        resources.srcDir file('src/scriptsTest/resources')
+
+        compileClasspath += main.output + test.output
+        runtimeClasspath += main.output + test.output
+    }
+}
+
+configurations {
+    scriptsTestCompile.extendsFrom testCompile
+    scriptsTestRuntime.extendsFrom testRuntime
+}
+
+
+task scriptsTest(type: Test) {
+    group = 'Verification'
+    description = 'Runs all scripts tests'
+
+    testClassesDirs = sourceSets.scriptsTest.output.classesDirs
+    classpath = sourceSets.scriptsTest.runtimeClasspath
+
+    // Also setup expected Scala version for Spark launcher
+    environment "SPARK_SCALA_VERSION", "$scalaBaseVersion"
+}
+
+// Create jar containing scripts test classes
+task scriptsTestJar(type: Jar, dependsOn: scriptsTestClasses) {
+    group = "Build"
+    description = "Assembles a jar archive with scripts test classes."
+    baseName = "${project.name}_${scalaBaseVersion}"
+    appendix = 'scriptsTest'
+    from sourceSets.scriptsTest.output
+}
+
+// Dependencies
+scriptsTest.dependsOn ":sparkling-water-assembly:shadowJar"
+
+

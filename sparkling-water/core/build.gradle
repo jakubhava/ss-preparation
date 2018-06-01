@@ -1,0 +1,165 @@
+description = "Sparkling Water Core"
+
+apply from: "$rootDir/gradle/utils.gradle"
+apply from: "$rootDir/gradle/sparkTest.gradle"
+
+project.ext.cssResources = project.file("flow-css")
+
+sourceSets {
+    main {
+        resources {
+            srcDir("flow-css")
+        }
+    }
+}
+
+jar {
+    eachFile { f ->
+        if(new File(cssResources, f.file.name).exists()) {
+            f.path = "www/flow/css/$f.name"
+        }
+    }
+}
+
+dependencies {
+  // Generic model support
+  compile("ai.h2o:h2o-genmodel:${h2oVersion}")
+  // H2O core
+  compile("ai.h2o:h2o-core:${h2oVersion}") {
+      //
+      // Exclude all dependencies provided by Spark environment already
+      // The motivation is to catch error at compile time
+      exclude(group: "net.java.dev.jets3t", module: "jets3t")
+      exclude(group: "commons-collections", module: "commons-collections")
+  }
+  // H2O algorithms
+  compile "ai.h2o:h2o-algos:${h2oVersion}"
+  // H2O web
+  compile "ai.h2o:h2o-web:${h2oVersion}"
+  // H2O Avro parser support 
+  compile("ai.h2o:h2o-avro-parser:${h2oVersion}") {
+      exclude group: 'org.apache.avro', module: 'avro'
+      exclude group: 'ai.h2o', module: 'h2o-core'
+  }
+
+  // H2O XGBoost
+  compile "ai.h2o:h2o-ext-xgboost:${h2oVersion}"
+  compile "ai.h2o:h2o-genmodel-ext-xgboost:${h2oVersion}"
+
+  // H2O Parquet parser support
+  compile("ai.h2o:h2o-parquet-parser:${h2oVersion}") {
+      exclude group: 'org.apache.hadoop', module: 'hadoop-common'
+      exclude group: 'ai.h2o', module: 'h2o-persist-hdfs'
+      exclude group: 'ai.h2o', module: 'h2o-core'
+      exclude group: 'org.apache.parquet', module: 'parquet-hadoop'
+  }
+  // H2O Orc  parser support
+  compile("ai.h2o:h2o-orc-parser:${h2oVersion}") {
+      exclude group: 'org.apache.hive', module: 'hive-exec'
+      exclude group: 'org.apache.hadoop', module: 'hadoop-common'
+      exclude group: 'ai.h2o', module: 'h2o-persist-hdfs'
+      exclude group: 'ai.h2o', module: 'h2o-core'
+  }
+  // H2O Scala API
+  compile "ai.h2o:h2o-scala_${scalaBaseVersion}:${h2oVersion}"
+  // H2O HDFS Persistent layer
+  compile("ai.h2o:h2o-persist-hdfs:${h2oVersion}") {
+      // Cannot use here: transitive = false since Gradle is producing wrong POM file
+      // Hence the exlusions are listed manually
+      exclude(group: "org.apache.hadoop", module: "hadoop-client")
+  }
+  // H2O S3 persistance support
+  compile("ai.h2o:h2o-persist-s3:${h2oVersion}") {
+      exclude(group: "com.fasterxml.jackson.core")
+  }
+  // H2O AutoML
+  compile "ai.h2o:h2o-automl:${h2oVersion}"
+
+  // Sparkling Water REPL
+  compile project(':sparkling-water-repl')
+
+  // Add joda optional convert library which is required in Scala environment
+  compile "org.joda:joda-convert:1.7"
+
+  // And Scala library
+  compile "org.scala-lang:scala-library:${scalaVersion}"
+
+
+  // TEST DEPENDENCIES
+
+  // Spark components
+  // - core
+  compileOnly "org.apache.spark:spark-core_${scalaBaseVersion}:${sparkVersion}"
+  testCompile "org.apache.spark:spark-core_${scalaBaseVersion}:${sparkVersion}"
+
+  // - SQL component
+  compileOnly "org.apache.spark:spark-sql_${scalaBaseVersion}:${sparkVersion}"
+  testCompile "org.apache.spark:spark-sql_${scalaBaseVersion}:${sparkVersion}"
+
+  // - MLLib component
+  compileOnly "org.apache.spark:spark-mllib_${scalaBaseVersion}:${sparkVersion}"
+  testCompile "org.apache.spark:spark-mllib_${scalaBaseVersion}:${sparkVersion}"
+
+  testCompile "org.apache.spark:spark-repl_${scalaBaseVersion}:${sparkVersion}"
+
+
+  // And use scalatest for Scala testing
+  testCompile "org.scalatest:scalatest_${scalaBaseVersion}:2.2.1"
+  testCompile "junit:junit:4.11"
+  testCompile(project(":sparkling-water-extension-stack-trace"))
+
+  // Integration tests requirements
+  integTestCompile "org.scalatest:scalatest_${scalaBaseVersion}:2.2.1"
+  integTestCompile "junit:junit:4.11"
+  integTestCompile(project(":sparkling-water-extension-stack-trace"))
+
+  // Put Spark Assembly on runtime path
+  integTestRuntime fileTree(dir: new File((String) sparkHome, "lib/"), include: '*.jar' )
+}
+
+task createSparkVersionFile {
+    doLast {
+        File version_file = file("src/main/resources/spark.version")
+        // Create parent directories if not created yet
+        version_file.getParentFile().mkdirs()
+        version_file.write(sparkVersion)
+    }
+}
+
+task createH2OVersionFile {
+    doLast {
+        File version_file = file("src/main/resources/h2o.version")
+        // Create parent directories if not created yet
+        version_file.getParentFile().mkdirs()
+        version_file.write(h2oVersion)
+    }
+}
+
+task createSparklingWaterVersionFile {
+    doLast {
+        File version_file = file("src/main/resources/sw.version")
+        // Create parent directories if not created yet
+        version_file.getParentFile().mkdirs()
+        version_file.write(version)
+    }
+}
+test.dependsOn testJar
+processResources.dependsOn createSparkVersionFile
+processResources.dependsOn createH2OVersionFile
+processResources.dependsOn createSparklingWaterVersionFile
+
+integTest {
+    // Pass references to libraries to test launcher
+    systemProperty "spark.ext.h2o.backend.cluster.mode", detectBackendClusterMode()
+    systemProperty "spark.ext.h2o.external.start.mode", detectExternalBackendStartMode()
+
+    systemProperty "spark.testing",   "true"
+    systemProperty "spark.test.home", "${sparkHome}"
+    systemProperty "sparkling.test.hdp.version", "${hdpVersion}"
+
+    // Pass list of jars required for testing
+    systemProperty "sparkling.assembly.jar", "${project(":sparkling-water-assembly").configurations.shadow.artifacts.file.join(',')}"
+    systemProperty "sparkling.itest.jar", "${integTestJar.archivePath}"
+
+    // testLogging.showStandardStreams = true
+}

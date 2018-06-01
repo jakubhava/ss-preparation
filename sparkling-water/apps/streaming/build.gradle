@@ -1,0 +1,30 @@
+description = "Sparkling Water Pipelining"
+
+// Support local launch of application 
+apply plugin: 'application'
+mainClassName = "ai.h2o.PipelineDemo"
+// Disable distribution tasks
+distZip.enabled = false
+distTar.enabled = false
+// - and remove its dependencies
+configurations.archives.artifacts.removeAll { it.archiveTask.is(distZip) || it.archiveTask.is(distTar) }
+
+dependencies {
+  // Sparkling Water Core
+  compile( project(":sparkling-water-core") ) {
+    exclude group: "javax.servlet", module: "servlet-api"
+  }
+  // Spark Core
+  compile "org.apache.spark:spark-core_${scalaBaseVersion}:${sparkVersion}"
+  // Spark SQL
+  compile "org.apache.spark:spark-sql_${scalaBaseVersion}:${sparkVersion}"
+  // Spark MLLib
+  compile "org.apache.spark:spark-mllib_${scalaBaseVersion}:${sparkVersion}"
+
+  // Spark Streaming
+  compile "org.apache.spark:spark-streaming_${scalaBaseVersion}:${sparkVersion}"
+
+  // Add Scala library
+  compile "org.scala-lang:scala-library:${scalaVersion}"
+}
+

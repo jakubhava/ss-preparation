@@ -1,0 +1,27 @@
+description = "Sparkling Water ML Pipelines"
+
+apply from: "$rootDir/gradle/sparkTest.gradle"
+
+dependencies {
+  // Sparkling Water Core
+  compile( project(":sparkling-water-core") ) { 
+    exclude group: "javax.servlet", module: "servlet-api"
+  }
+  // MLLIb pipelines
+  compileOnly "org.apache.spark:spark-mllib_${scalaBaseVersion}:${sparkVersion}"
+  testCompile "org.apache.spark:spark-mllib_${scalaBaseVersion}:${sparkVersion}"
+
+  // And Scala library
+  compile "org.scala-lang:scala-library:${scalaVersion}"
+
+  testCompile "org.apache.spark:spark-repl_${scalaBaseVersion}:${sparkVersion}"
+
+  compileOnly "ai.h2o:mojo2-runtime:${mojoPipelineVersion}"
+  testCompile "ai.h2o:mojo2-runtime:${mojoPipelineVersion}"
+  // And use scalatest for Scala testing
+  testCompile "org.scalatest:scalatest_${scalaBaseVersion}:2.2.1"
+  testCompile "junit:junit:4.11"
+  testCompile project(path: ':sparkling-water-core', configuration: 'testArchives')
+  testCompile(project(":sparkling-water-extension-stack-trace"))
+
+}

@@ -1,0 +1,23 @@
+rootProject.name = 'sparkling-water'
+
+include 'core'
+include 'examples'
+// Disable for now
+include 'ml'
+include 'assembly'
+include 'assembly-h2o'
+include 'py'
+include 'repl'
+include 'docker'
+include 'app-streaming'
+include 'package'
+include 'doc'
+include 'extension-stack-trace'
+
+// Prefix all projects with sparkling-water name
+rootProject.children.each { project ->
+    if (project.name.startsWith("app-")) {
+        project.projectDir = new File(settingsDir, "apps/" + project.name.replaceAll("app-", "")) 
+    }
+    project.name = rootProject.name + "-" + project.name 
+}
