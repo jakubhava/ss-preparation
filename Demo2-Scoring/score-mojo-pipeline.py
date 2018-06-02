@@ -10,6 +10,7 @@ print("Mojo Pipeline Loaded")
 
 from pyspark.sql import *
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("OFF")
 schema = StructType([
     StructField("GPU", BooleanType(), True),
     StructField("sys_CPU", DoubleType(), True),
