@@ -20,7 +20,7 @@ The folder ``Demo1-Training`` also contains:
 
 ## Scoring Demo
 
-For Scoring, the following properties needs to be defined, easiest is to put them into ``spark-env.sh`` in your ``$SPARK_HOME/conf`` directory
+For Scoring, the following properties needs to be defined, easiest is to put them into ``spark-env.sh`` in your ``$SPARK_HOME/conf`` directory.
 
 ``AWS_ACCESS_KEY_ID``
 ``AWS_SECRET_ACCESS_KEY``
