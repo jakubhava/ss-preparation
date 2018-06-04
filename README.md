@@ -21,4 +21,11 @@ deploy_dai_pipeline.sh and deploy_sw_pipeline.sh
 
 use: ( so far only dai-pipeline is implemented)
 
+## Deploying Driverless AI Pipeline
+
 ./deploy-dai-pipeline.sh ../Demo1-Training/dai.pipeline/pipeline.mojo ../Demo1-Training/dai.pipeline/mojo2-runtime.jar
+
+
+## Deploying Sparkling Water Pipeline
+
+./deploy-sw-pipeline.sh ../Demo1-Training/sw.pipeline

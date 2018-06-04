@@ -1,9 +1,0 @@
-06-01 15:09:55.735 127.0.0.1:54321       35     main      WARN: Raw Key (not KeySchema) in Schema: class water.api.InterpretV3 field: pdp_id
-06-01 15:09:55.737 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.isClassification
-06-01 15:09:55.738 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.leafRemovalMethod
-06-01 15:09:55.739 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.loggedResponse
-06-01 15:09:55.740 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.clusterCol
-06-01 15:09:55.741 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.weightCol
-06-01 15:09:55.743 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.klimeNfolds
-06-01 15:09:55.744 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.currentJob
-06-01 15:09:55.745 127.0.0.1:54321       35     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.runLOCO

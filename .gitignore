@@ -1,1 +1,11 @@
 Demo2-Scoring/license.file
+Demo1-Training/dai_exp_munged_050918.csv
+Demo1-Training/.ipynb_checkpoints/
+Demo1-Training/h2ologs/
+Demo1-Training/metastore_db/
+Demo1-Training/tmp
+Demo1-Training/derby.log
+Demo2-Scoring/spark-warehouse
+Demo2-Scoring/.DS_Store
+Demo1-Scoring/.DS_Store
+Demo2-Scoring/spark-summit-demo-data/
