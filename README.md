@@ -1,31 +1,41 @@
 # Preparation for Spark Summit
+
  Content:
   - Slides
   - Demo for Training
   - Demo for Scoring
 
+## Training Demo
 
-Demo for Training contains 2 scripts:
+Demo for Training contains two scripts:
 
- start_jupiter.sh - use to start jupiter and open prepared notebook with pipeline
+ - ``start_jupiter.sh`` - use to start Jupiter and train Sparkling Water pipeline
 
- start_dai.sh - use to start dai and create mojo pipeline
+ - ``start_dai.sh`` - use to start Driverless AI and create Mojo Pipeline
 
- this folder also contains files with both trained pipelines
+The folder ``Demo1-Training`` also contains:
+
+ - ``sw.pipeline`` - train Sparkling Water pipeline
+ - ``dai.pipeline`` - train Driverless AI pipeline
+
+## Scoring Demo
+
+For Scoring, the following properties needs to be defined, easiest is to put them into ``spark-env.sh`` in your ``$SPARK_HOME/conf`` directory
+
+``AWS_ACCESS_KEY_ID``
+``AWS_SECRET_ACCESS_KEY``
+
+### Deploying Driverless AI Pipeline
+
+For scoring, ``license.file`` needs to be in the ``Demo2-Training`` folder and needs to contain valid DAI license
+
+.. code:: bash
+
+	./deploy-dai-pipeline.sh ../Demo1-Training/dai.pipeline/pipeline.mojo ../Demo1-Training/dai.pipeline/mojo2-runtime.jar
 
 
-Demo for Scoring contains several scripts, the most important ones are:
+### Deploying Sparkling Water Pipeline
 
-For scoring, license.file needs to be in the Demo2 folder and needs to contain valid DAI license
-deploy_dai_pipeline.sh and deploy_sw_pipeline.sh
+.. code:: bash
 
-use: ( so far only dai-pipeline is implemented)
-
-## Deploying Driverless AI Pipeline
-
-./deploy-dai-pipeline.sh ../Demo1-Training/dai.pipeline/pipeline.mojo ../Demo1-Training/dai.pipeline/mojo2-runtime.jar
-
-
-## Deploying Sparkling Water Pipeline
-
-./deploy-sw-pipeline.sh ../Demo1-Training/sw.pipeline
+	./deploy-sw-pipeline.sh ../Demo1-Training/sw.pipeline
