@@ -1,0 +1,242 @@
+2018-06-05 12:55:29,517 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,519 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :      __ _____  ____        _    H2O.ai 1.1.3 (build 18)
+2018-06-05 12:55:29,520 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :     / // /_  |/ __ \ ___ _(_)   
+2018-06-05 12:55:29,522 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :    / _  / __// /_/ // _ `/ /    IP   : 127.0.0.1
+2018-06-05 12:55:29,523 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :   /_//_/____/\____(_)_,_/_/     Port : 12345
+2018-06-05 12:55:29,525 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :                                 PID  : 7
+2018-06-05 12:55:29,526 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,527 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : App Version            : 1.1.3
+2018-06-05 12:55:29,528 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : App Build              : 18
+2018-06-05 12:55:29,529 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : App Address            : http://127.0.0.1:12345
+2018-06-05 12:55:29,530 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Auth Enabled           : True
+2018-06-05 12:55:29,531 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Python Version         : 3.6.4
+2018-06-05 12:55:29,532 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Python Implementation  : CPython
+2018-06-05 12:55:29,533 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Python Compiler        : GCC 5.4.0 20160609
+2018-06-05 12:55:29,534 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Python Build Number    : default
+2018-06-05 12:55:29,535 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Python Build Date      : Mar  7 2018 22:23:19
+2018-06-05 12:55:29,536 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Procsy Address         : http://127.0.0.1:8080
+2018-06-05 12:55:29,537 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : H2O Address            : http://127.0.0.1:54321
+2018-06-05 12:55:29,538 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Docker                 : True
+2018-06-05 12:55:29,539 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Docker Host System     : Darwin
+2018-06-05 12:55:29,540 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : System                 : Linux
+2018-06-05 12:55:29,541 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Node                   : c0162ba1d91d
+2018-06-05 12:55:29,542 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Release                : 4.9.87-linuxkit-aufs
+2018-06-05 12:55:29,543 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Version                : #1 SMP Wed Mar 14 15:12:16 UTC 2018
+2018-06-05 12:55:29,544 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Machine                : x86_64
+2018-06-05 12:55:29,545 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Processor              : x86_64
+2018-06-05 12:55:29,546 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,548 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : License manager initialized
+2018-06-05 12:55:29,549 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,550 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Checking whether we have a valid license...
+2018-06-05 12:55:29,552 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : No Cloud provider found
+2018-06-05 12:55:29,553 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Read License from file as it was invalidated from environment
+2018-06-05 12:55:29,555 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : License file exists (/license/license.sig)
+2018-06-05 12:55:29,559 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : 
+2018-06-05 12:55:29,560 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : license_version:1
+2018-06-05 12:55:29,561 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : serial_number:26
+2018-06-05 12:55:29,563 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : licensee_organization:H2O.ai
+2018-06-05 12:55:29,564 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : licensee_email:magnus@h2o.ai
+2018-06-05 12:55:29,564 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : licensee_user_id:26
+2018-06-05 12:55:29,565 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : is_h2o_internal_use:true
+2018-06-05 12:55:29,566 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : created_by_email:magnus@h2o.ai
+2018-06-05 12:55:29,567 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : creation_date:2017/12/22
+2018-06-05 12:55:29,568 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : product:DriverlessAI
+2018-06-05 12:55:29,569 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : license_type:developer
+2018-06-05 12:55:29,570 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : expiration_date:2018/07/01
+2018-06-05 12:55:29,571 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : 
+2018-06-05 12:55:29,575 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : License is valid
+2018-06-05 12:55:29,576 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,577 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/license/stats/expiration_date/2018-07-01|License expiration date|
+2018-06-05 12:55:29,578 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/license/valid|License valid|
+2018-06-05 12:55:29,579 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |License|License valid|H2O.ai|0|
+2018-06-05 12:55:29,581 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,582 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/version/1.1.3|Software version|
+2018-06-05 12:55:29,585 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/host/memory_in_gb/8|Host memory in GB|
+2018-06-05 12:55:29,587 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Host memory in GB|H2O.ai|8|
+2018-06-05 12:55:29,588 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/host/num_cpus/4|Number of CPUs|
+2018-06-05 12:55:29,589 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Number of CPUs|H2O.ai|4|
+2018-06-05 12:55:29,590 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/gpu/present/false|Whether GPUs are present|
+2018-06-05 12:55:29,591 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Whether GPUs are present|H2O.ai|0|
+2018-06-05 12:55:29,592 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/gpu/num_gpus/0|Number of GPUs|
+2018-06-05 12:55:29,593 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Number of GPUs|H2O.ai|0|
+2018-06-05 12:55:29,596 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/gpu/memory_in_gb/0|GPU memory in GB|
+2018-06-05 12:55:29,597 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|GPU memory in GB|H2O.ai|0|
+2018-06-05 12:55:29,598 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/gpu/gpu_type/0|Type of GPUs if present|
+2018-06-05 12:55:29,599 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/host/os/Linux|Host System|
+2018-06-05 12:55:29,600 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Host System|H2O.ai|Linux|
+2018-06-05 12:55:29,602 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/docker/True|Whether Docker is used|
+2018-06-05 12:55:29,603 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Whether Docker is used|H2O.ai|True|
+2018-06-05 12:55:29,604 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [usage] |/system/docker_host/Darwin|Docker Host System|
+2018-06-05 12:55:29,606 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : [event] |System|Docker Host System|H2O.ai|Darwin|
+2018-06-05 12:55:29,607 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,608 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : 
+
+PLEASE READ THIS H2O.AI DRIVERLESS AI EVALUATION AGREEMENT ('AGREEMENT') CAREFULLY BEFORE USING THE EVALUATION SOFTWARE OFFERED BY H2O.AI, INC. ('H2O.AI').  BY CLICKING THE 'AGREE' (OR SIMILAR) BUTTON ON AN ONLINE ORDER FORM, BY USING THE EVALUATION SOFTWARE IN ANY MANNER, OR BY SIGNING AN ORDER FORM WHICH REFERENCES THESE EVALUATION TERMS AND CONDITIONS (AS APPLICABLE) YOU OR THE ENTITY YOU REPRESENT ('LICENSEE') AGREE THAT YOU HAVE READ AND AGREE TO BE BOUND BY AND A PARTY TO THE TERMS AND CONDITIONS OF THIS AGREEMENT TO THE EXCLUSION OF ALL OTHER TERMS, YOU REPRESENT AND WARRANT THAT YOU ARE AUTHORIZED TO BIND LICENSEE.  IF THE TERMS OF THIS AGREEMENT ARE CONSIDERED AN OFFER, ACCEPTANCE IS EXPRESSLY LIMITED TO SUCH TERMS.
+
+H2O.AI DRIVERLESS AI EVALUATION AGREEMENT
+
+  WHEREAS, H2O.ai is willing to supply, within the protection of a confidential relationship, the software, services and related materials provided in connection with this Agreement (collectively, the 'Evaluation Software') to Licensee solely for internal evaluation purposes and not for any production use ('Evaluation');
+
+  NOW, THEREFORE, in consideration of the foregoing and the mutual covenants hereinafter set forth, the parties hereby agree as follows:
+      1. Use of Evaluation Software. Subject to the terms of this Agreement, H2O.ai hereby grants to Licensee a personal, nontransferable, nonsublicensable, nonexclusive, revocable license to access and use the Evaluation Software only in accordance with all documentation supplied by H2O.ai solely for Licensee's internal Evaluation purposes during the term of this Agreement. H2O.ai shall at all times retain all title to and ownership of the Evaluation Software and all intellectual property rights relating thereto. Licensee agrees to use the Evaluation Software only in the ordinary course of its Evaluation. Licensee shall not (and shall not allow any third party to): (a) decompile, disassemble, or otherwise reverse engineer any portion of the Evaluation Software; (b) remove, alter or obscure any product identification, copyright or other notices contained on or in the Evaluation Software; (c) disclose, provide, distribute, resell, lease, lend or allow access to the Evaluation Software to any third party; (d) use the Evaluation Software for timesharing or service bureau purposes, or otherwise for the benefit of any third party; (e) copy, modify, adapt or create a derivative work of any part of the Evaluation Software; (f) use the Evaluation Software in excess of any limitations provided by H2O.ai;(g) use the Evaluation Software to help develop any competitive product or service; (h) remove or export the Evaluation Software or any direct product thereof from the United States. H2O
+      2. Feedback. If Licensee proposes any modifications, derivatives, enhancements or improvements to the Evaluation Software ('Feedback'), then notwithstanding anything else, Licensee hereby grants H2O.ai a perpetual, irrevocable, royalty free, fully paid-up, sub-licensable, right and license to use, display, reproduce, distribute and otherwise fully exploit such Feedback for any purposes.
+      3. Warning. THE EVALUATION SOFTWARE MAY CONTAIN A ROUTINE THAT CAUSES THE EVALUATION SOFTWARE TO CEASE PROPER FUNCTIONING AFTER A CERTAIN PERIOD OF TIME. THIS MAY OCCUR BEFORE OR AFTER TERMINATION OF THE LICENSE, SO LICENSEE MUST BE PREPARED AT ALL TIMES AND MAY NOT RELY ON THE EVALUATION SOFTWARE
+      4. Warranty Disclaimer.  The parties acknowledge that the Evaluation Software are provided 'AS IS' and may not be functional on any machine or in any environment. H2O.AI DISCLAIMS ALL WARRANTIES RELATING TO THE EVALUATION SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AGAINST INFRINGEMENT OF THIRD-PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+      5. Limitation of Remedies and Damages. H2O.AI SHALL NOT BE RESPONSIBLE OR LIABLE TO THE OTHER PARTY WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY (A) FOR LOSS OR INACCURACY OF DATA OR COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY, (B) FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, RELIANCE, OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO LOSS OF REVENUES AND LOSS OF PROFITS, OR (C) FOR DAMAGES OF ANY KIND WHATSOEVER ARISING OUT OF THIS AGREEMENT IN EXCESS OF $100. H2O.AI SHALL NOT BE RESPONSIBLE FOR ANY MATTER BEYOND ITS REASONABLE CONTROL.
+      6. Nonassignability. Although fully assignable and transferable by H2O.ai, neither the rights nor the obligations arising under this Agreement are assignable or transferable by Licensee, and any such attempted assignment or transfer shall be void and without effect.
+      7. Controlling Law, Attorneys' Fees and Severability. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of laws provisions therein. In any action to enforce this Agreement the prevailing party will be entitled to costs and attorneys' fees. In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.
+      8. Entire Agreement. This Agreement constitutes the entire agreement between the parties pertaining to the subject matter hereof.  Any modifications of this Agreement must be in writing and signed by both parties.
+      9. Term; Termination. This Agreement shall become effective upon Licensee's first access to or use of the Evaluation Software ('Start Date'). This Agreement may be terminated by either party for any reason or no reason upon written notice to the other party, or immediately upon notice of any breach by Licensee of the provisions of this Agreement, and in any case will terminate twenty-one (21) days from the Start Date, unless extended by H2O.ai in writing.  Upon termination, the license granted hereunder will terminate and Licensee shall promptly cease accessing the Evaluation Software, and shall return any and all documents, notes and other materials regarding the Evaluation Software to H2O.ai, including, without limitation, all copies and extracts of the foregoing, but the terms of this Agreement will otherwise remain in effect.
+
+GDSVF&H\2472254.1
+
+
+
+2018-06-05 12:55:29,609 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,611 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Driverless AI Config Settings
+2018-06-05 12:55:29,612 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Modify config.toml or set DRIVERLESS_AI_<KEY>=<VALUE> to override (double-quote arrays)
+2018-06-05 12:55:29,613 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : 
+2018-06-05 12:55:29,613 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : process_server_ip                                  : 127.0.0.1 
+2018-06-05 12:55:29,614 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : process_server_port                                : 8080 
+2018-06-05 12:55:29,615 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : h2o_ip                                             : 127.0.0.1 
+2018-06-05 12:55:29,616 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : h2o_port                                           : 54321 
+2018-06-05 12:55:29,618 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : ip                                                 : 127.0.0.1 
+2018-06-05 12:55:29,619 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : port                                               : 12345 
+2018-06-05 12:55:29,623 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : data_directory                                     : ./tmp 
+2018-06-05 12:55:29,624 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : debug                                              : False 
+2018-06-05 12:55:29,626 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : enable_benchmark                                   : False 
+2018-06-05 12:55:29,627 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : enable_startup_checks                              : True 
+2018-06-05 12:55:29,628 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : usage_stats_opt_in                                 : False 
+2018-06-05 12:55:29,629 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : datatable_verbose_log                              : False 
+2018-06-05 12:55:29,631 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : make_python_scoring_pipeline                       : True 
+2018-06-05 12:55:29,632 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : make_mojo_scoring_pipeline                         : False 
+2018-06-05 12:55:29,633 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : authentication_method                              : unvalidated 
+2018-06-05 12:55:29,635 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : ldap_server                                        :  
+2018-06-05 12:55:29,636 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : ldap_port                                          :  
+2018-06-05 12:55:29,637 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : ldap_dc                                            :  
+2018-06-05 12:55:29,639 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : supported_file_types                               : ['csv', 'tsv', 'txt', 'dat', 'tgz', 'gz', 'zip', 'xz', 'xls', 'xlsx', 'nff', 'feather', 'bin', 'arff'] 
+2018-06-05 12:55:29,640 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : enabled_file_systems                               : ['file', 'hdfs', 's3'] 
+2018-06-05 12:55:29,641 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : do_not_log_list                                    : local_htpasswd_file, aws_access_key_id, aws_secret_access_key 
+2018-06-05 12:55:29,643 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_cores                                          : 0 
+2018-06-05 12:55:29,644 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : num_gpus                                           : 1 
+2018-06-05 12:55:29,645 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : gpu_id_start                                       : 0 
+2018-06-05 12:55:29,647 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_workers                                        : 1 
+2018-06-05 12:55:29,648 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : ping_period                                        : 60 
+2018-06-05 12:55:29,649 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : disk_limit_gb                                      : 5 
+2018-06-05 12:55:29,651 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : memory_limit_gb                                    : 5 
+2018-06-05 12:55:29,652 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : min_num_rows                                       : 100 
+2018-06-05 12:55:29,654 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : data_precision                                     : float64 
+2018-06-05 12:55:29,655 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : transformer_precision                              : auto 
+2018-06-05 12:55:29,656 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : missing_values                                     : ['', '?', 'None', 'nan', 'NA', 'N/A', 'inf', '-inf', '1.7976931348623157e+308', '-1.7976931348623157e+308'] 
+2018-06-05 12:55:29,658 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : statistical_threshold_data_size_small              : 100000 
+2018-06-05 12:55:29,659 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : statistical_threshold_data_size_large              : 100000000 
+2018-06-05 12:55:29,660 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_cols                                           : 10000 
+2018-06-05 12:55:29,662 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_fold_uniques                                   : 100000 
+2018-06-05 12:55:29,663 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : num_folds                                          : 3 
+2018-06-05 12:55:29,665 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : full_cv_accuracy_switch                            : 8 
+2018-06-05 12:55:29,666 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : num_ensemble_folds                                 : 5 
+2018-06-05 12:55:29,667 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : fold_reps                                          : 1 
+2018-06-05 12:55:29,669 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_int_as_cat_uniques                             : 100000 
+2018-06-05 12:55:29,670 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_num_classes                                    : 100 
+2018-06-05 12:55:29,671 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : early_stopping                                     : True 
+2018-06-05 12:55:29,672 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : string_col_as_text_threshold                       : 0.5 
+2018-06-05 12:55:29,673 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : monotonicity_constraints_interpretability_switch   : 7 
+2018-06-05 12:55:29,674 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : tune_target_transform_accuracy_switch              : 3 
+2018-06-05 12:55:29,676 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : tune_parameters_accuracy_switch                    : 3 
+2018-06-05 12:55:29,677 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : num_individuals                                    : 2 
+2018-06-05 12:55:29,678 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : black_list_transformers                            :  
+2018-06-05 12:55:29,680 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : black_list_genes                                   :  
+2018-06-05 12:55:29,681 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : glm_interpretability_switch                        : 10 
+2018-06-05 12:55:29,682 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : glm_interpretability_exclusive_switch              : 10 
+2018-06-05 12:55:29,684 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : glm_enable_exclusive                               : False 
+2018-06-05 12:55:29,685 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : time_series_recipe                                 : True 
+2018-06-05 12:55:29,686 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : check_distribution_shift                           : True 
+2018-06-05 12:55:29,688 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : max_nestimators                                    : 2000 
+2018-06-05 12:55:29,689 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : mli_fast_approx                                    : True 
+2018-06-05 12:55:29,690 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : mli_sample_above                                   : 100000 
+2018-06-05 12:55:29,691 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : mli_sample_size                                    : 100000 
+2018-06-05 12:55:29,693 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : mli_num_quantiles                                  : 10 
+2018-06-05 12:55:29,694 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : core_site_xml_path                                 :  
+2018-06-05 12:55:29,696 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : key_tab_path                                       :  
+2018-06-05 12:55:29,697 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : hdfs_auth_type                                     : noauth 
+2018-06-05 12:55:29,699 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : hdfs_app_principal_user                            :  
+2018-06-05 12:55:29,701 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : hdfs_app_login_user                                :  
+2018-06-05 12:55:29,702 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : hdfs_app_jvm_args                                  :  
+2018-06-05 12:55:29,704 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : hdfs_app_classpath                                 :  
+2018-06-05 12:55:29,706 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : aws_auth                                           : False 
+2018-06-05 12:55:29,707 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : gcs_path_to_service_account_json                   :  
+2018-06-05 12:55:29,709 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : 
+2018-06-05 12:55:29,710 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,712 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : Environment Variables                                            
+2018-06-05 12:55:29,713 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   :                                                                  
+2018-06-05 12:55:29,715 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : CUDNN_VERSION               : 5.1.10 
+2018-06-05 12:55:29,716 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : HOSTNAME                    : c0162ba1d91d 
+2018-06-05 12:55:29,718 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : NVIDIA_REQUIRE_CUDA         : cuda>=8.0 
+2018-06-05 12:55:29,719 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : TERM                        : xterm 
+2018-06-05 12:55:29,721 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : DISABLETRACE                : 0 
+2018-06-05 12:55:29,723 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : LLVM4                       : /opt/clang 
+2018-06-05 12:55:29,724 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : NVIDIA_VISIBLE_DEVICES      : all 
+2018-06-05 12:55:29,726 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : LD_LIBRARY_PATH             : /usr/local/cuda/lib64:/opt/clang/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64 
+2018-06-05 12:55:29,728 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : NVIDIA_DRIVER_CAPABILITIES  : compute,utility 
+2018-06-05 12:55:29,729 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : VIRTUAL_ENV                 : /h2oai_env 
+2018-06-05 12:55:29,731 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : PATH                        : /h2oai_env/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin 
+2018-06-05 12:55:29,732 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : PWD                         : / 
+2018-06-05 12:55:29,733 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : JAVA_HOME                   : /opt/java 
+2018-06-05 12:55:29,735 C:▂▅▃█ D:584.1GB M:7.4GB 7     INFO   : LANG                        : en_US.utf8 
+2018-06-05 12:55:29,739 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CUDA_PKG_VERSION            : 8-0=8.0.61-1 
+2018-06-05 12:55:29,741 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : PS1                         : (h2oai_env)  
+2018-06-05 12:55:29,742 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : LLVM_CONFIG                 : /opt/clang/llvm-config 
+2018-06-05 12:55:29,743 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CUDA_VERSION                : 8.0.61 
+2018-06-05 12:55:29,745 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CLANG                       : /opt/clang/bin/clang 
+2018-06-05 12:55:29,746 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : SHLVL                       : 0 
+2018-06-05 12:55:29,748 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : HOME                        : / 
+2018-06-05 12:55:29,749 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : DEBIAN_FRONTEND             : noninteractive 
+2018-06-05 12:55:29,751 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : MPLCONFIGDIR                : /tmp/matplotlib-a3lksttu 
+2018-06-05 12:55:29,753 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : DRIVERLESS_AI_INSTANCE_ID   : dbd566e4-5bae-43c3-a6c5-e08e5177d7be 
+2018-06-05 12:55:29,754 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : DRIVERLESS_AI_LICENSE_KEY   : oLqLZXMI0ym2sn0S9tPbeMnFVe6yj7YngPzy1TOi9680u1_YVup7SlEzN_p9nlMRUyztOmRE7UjakCiXbklEk58DIjO2NI4vgaRq7lFVSRN6LgfLyyJxTI71ib-M9UjHJtjKAqm3Om72-VwoCqlpa-aZdvSAKkgeapTbpWPCcz9AsguU3N3X0XjOxbzTdMcxJpj_L39Q_tYa5-saJo2OMejsbRpVhZzWs-RMvusbxh8afoiTeH2ltP9h1hBLY4SfBLl7FP9UhYfDX439VNzM4uMBT1nsROpR-aqQN-ty7-j10q3zGftTxKS8V_hkecx2Rvt4BJfS1vaaaQuCPNFbM2xpY2Vuc2VfdmVyc2lvbjoxCnNlcmlhbF9udW1iZXI6MjYKbGljZW5zZWVfb3JnYW5pemF0aW9uOkgyTy5haQpsaWNlbnNlZV9lbWFpbDptYWdudXNAaDJvLmFpCmxpY2Vuc2VlX3VzZXJfaWQ6MjYKaXNfaDJvX2ludGVybmFsX3VzZTp0cnVlCmNyZWF0ZWRfYnlfZW1haWw6bWFnbnVzQGgyby5haQpjcmVhdGlvbl9kYXRlOjIwMTcvMTIvMjIKcHJvZHVjdDpEcml2ZXJsZXNzQUkKbGljZW5zZV90eXBlOmRldmVsb3BlcgpleHBpcmF0aW9uX2RhdGU6MjAxOC8wNy8wMQo=
+2018-06-05 12:55:29,756 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :  
+2018-06-05 12:55:29,757 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : 
+2018-06-05 12:55:29,759 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,770 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Architecture:          x86_64
+2018-06-05 12:55:29,772 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CPU op-mode(s):        32-bit, 64-bit
+2018-06-05 12:55:29,773 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Byte Order:            Little Endian
+2018-06-05 12:55:29,774 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CPU(s):                4
+2018-06-05 12:55:29,775 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : On-line CPU(s) list:   0-3
+2018-06-05 12:55:29,776 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Thread(s) per core:    1
+2018-06-05 12:55:29,778 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Core(s) per socket:    1
+2018-06-05 12:55:29,779 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Socket(s):             4
+2018-06-05 12:55:29,780 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Vendor ID:             GenuineIntel
+2018-06-05 12:55:29,780 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CPU family:            6
+2018-06-05 12:55:29,781 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Model:                 70
+2018-06-05 12:55:29,782 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Model name:            Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+2018-06-05 12:55:29,783 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Stepping:              1
+2018-06-05 12:55:29,784 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : CPU MHz:               2793.054
+2018-06-05 12:55:29,785 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : BogoMIPS:              5587.52
+2018-06-05 12:55:29,786 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Hypervisor vendor:     vertical
+2018-06-05 12:55:29,787 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Virtualization type:   full
+2018-06-05 12:55:29,788 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : L1d cache:             32K
+2018-06-05 12:55:29,789 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : L1i cache:             32K
+2018-06-05 12:55:29,790 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : L2 cache:              256K
+2018-06-05 12:55:29,791 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : L3 cache:              6144K
+2018-06-05 12:55:29,792 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : L4 cache:              131072K
+2018-06-05 12:55:29,793 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht pbe syscall nx pdpe1gb lm constant_tsc rep_good nopl xtopology nonstop_tsc eagerfpu pni pclmulqdq dtes64 ds_cpl ssse3 sdbg fma cx16 xtpr pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm kaiser fsgsbase bmi1 avx2 bmi2 erms xsaveopt arat
+2018-06-05 12:55:29,794 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : 
+2018-06-05 12:55:29,795 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,805 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,807 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:29,808 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :      System check:                                               
+2018-06-05 12:55:29,810 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :      - Memory: PASSED                                        
+2018-06-05 12:55:29,812 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :      - Disk:   PASSED                                        
+2018-06-05 12:55:30,107 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :      - Java:   PASSED                                        
+2018-06-05 12:55:30,110 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:30,112 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:55:30,114 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   :      Connect to Driverless AI:  http://127.0.0.1:12345
+2018-06-05 12:55:30,116 C:▂▆▄▄ D:584.1GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 12:56:30,940 C:     D:585.1GB M:7.2GB 7     WARNING: 404 GET /favicon.ico (172.17.0.1) 2.75ms
+2018-06-05 12:56:31,033 C:     D:585.1GB M:7.2GB 7     WARNING: 404 GET /favicon.ico (172.17.0.1) 3.14ms
+2018-06-05 12:56:31,046 C:     D:585.1GB M:7.2GB 7     WARNING: 404 GET /apple-touch-icon.png (172.17.0.1) 2.00ms
+2018-06-05 12:56:39,004 C:     D:585.1GB M:7.1GB 7     INFO   : User logged in: admin
+2018-06-05 12:56:39,022 C:     D:585.1GB M:7.1GB 7     INFO   : Reload: user=admin, ip=172.17.0.1
+2018-06-05 12:56:44,916 C:     D:585.1GB M:7.1GB 7     INFO   : Stopping server
+2018-06-05 12:56:44,922 C:     D:585.1GB M:7.1GB 7     INFO   : Will shutdown in 1 seconds ...
+2018-06-05 12:56:45,928 C:     D:585.1GB M:7.2GB 7     INFO   : Exit...

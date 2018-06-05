@@ -9,5 +9,5 @@ do
     python generate_single_row.py $counter
     s3cmd put --acl-public spark-summit-demo-data/$counter.csv s3://h2o-spark-summit-data/$counter.csv
 	counter=$((counter+1))
-    sleep 1
+    sleep 2
 done
