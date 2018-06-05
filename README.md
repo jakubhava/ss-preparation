@@ -38,4 +38,4 @@ For scoring, ``license.file`` needs to be in the ``Demo2-Training`` folder and n
 
 .. code:: bash
 
-	./deploy-sw-pipeline.sh ../Demo1-Training/sw.pipeline
+	./deploy-spark-pipeline.sh ../Demo1-Training/sw.pipeline
