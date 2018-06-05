@@ -37,4 +37,4 @@ output_data_stream.writeStream.format("memory").queryName("predictions").start()
 while True:
    time.sleep(2)
    print("Showing Results")
-   spark.sql("select * from predictions").show()
+   spark.sql("select current_timestamp() as ID, prediction_output from predictions").show()
