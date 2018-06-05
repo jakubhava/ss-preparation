@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1528203508935,"sparkVersion":"2.3.0","uid":"SQLTransformer_40538a3501a929031fae","paramMap":{"statement":"SELECT * FROM __THIS__ WHERE nrows_train > 100"}}

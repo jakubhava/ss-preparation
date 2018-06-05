@@ -1,0 +1,756 @@
+2018-06-05 13:16:39,206 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,207 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :      __ _____  ____        _    H2O.ai 1.1.3 (build 18)
+2018-06-05 13:16:39,208 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :     / // /_  |/ __ \ ___ _(_)   
+2018-06-05 13:16:39,209 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :    / _  / __// /_/ // _ `/ /    IP   : 127.0.0.1
+2018-06-05 13:16:39,210 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :   /_//_/____/\____(_)_,_/_/     Port : 12345
+2018-06-05 13:16:39,212 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :                                 PID  : 7
+2018-06-05 13:16:39,213 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,214 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : App Version            : 1.1.3
+2018-06-05 13:16:39,215 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : App Build              : 18
+2018-06-05 13:16:39,216 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : App Address            : http://127.0.0.1:12345
+2018-06-05 13:16:39,217 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Auth Enabled           : True
+2018-06-05 13:16:39,219 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Python Version         : 3.6.4
+2018-06-05 13:16:39,220 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Python Implementation  : CPython
+2018-06-05 13:16:39,221 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Python Compiler        : GCC 5.4.0 20160609
+2018-06-05 13:16:39,222 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Python Build Number    : default
+2018-06-05 13:16:39,223 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Python Build Date      : Mar  7 2018 22:23:19
+2018-06-05 13:16:39,233 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Procsy Address         : http://127.0.0.1:8080
+2018-06-05 13:16:39,251 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : H2O Address            : http://127.0.0.1:54321
+2018-06-05 13:16:39,252 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Docker                 : True
+2018-06-05 13:16:39,253 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Docker Host System     : Darwin
+2018-06-05 13:16:39,254 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : System                 : Linux
+2018-06-05 13:16:39,255 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Node                   : cb5897ba7ed8
+2018-06-05 13:16:39,256 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Release                : 4.9.87-linuxkit-aufs
+2018-06-05 13:16:39,257 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Version                : #1 SMP Wed Mar 14 15:12:16 UTC 2018
+2018-06-05 13:16:39,259 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Machine                : x86_64
+2018-06-05 13:16:39,260 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Processor              : x86_64
+2018-06-05 13:16:39,261 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,263 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : License manager initialized
+2018-06-05 13:16:39,264 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,265 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Checking whether we have a valid license...
+2018-06-05 13:16:39,266 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : No Cloud provider found
+2018-06-05 13:16:39,267 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Read License from file as it was invalidated from environment
+2018-06-05 13:16:39,270 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : License file exists (/license/license.sig)
+2018-06-05 13:16:39,274 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,276 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : license_version:1
+2018-06-05 13:16:39,277 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : serial_number:26
+2018-06-05 13:16:39,278 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : licensee_organization:H2O.ai
+2018-06-05 13:16:39,279 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : licensee_email:magnus@h2o.ai
+2018-06-05 13:16:39,280 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : licensee_user_id:26
+2018-06-05 13:16:39,281 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : is_h2o_internal_use:true
+2018-06-05 13:16:39,282 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : created_by_email:magnus@h2o.ai
+2018-06-05 13:16:39,283 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : creation_date:2017/12/22
+2018-06-05 13:16:39,284 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : product:DriverlessAI
+2018-06-05 13:16:39,285 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : license_type:developer
+2018-06-05 13:16:39,286 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : expiration_date:2018/07/01
+2018-06-05 13:16:39,287 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,290 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : License is valid
+2018-06-05 13:16:39,291 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,292 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/license/stats/expiration_date/2018-07-01|License expiration date|
+2018-06-05 13:16:39,293 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/license/valid|License valid|
+2018-06-05 13:16:39,294 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |License|License valid|H2O.ai|0|
+2018-06-05 13:16:39,295 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,296 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/version/1.1.3|Software version|
+2018-06-05 13:16:39,300 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/host/memory_in_gb/8|Host memory in GB|
+2018-06-05 13:16:39,301 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Host memory in GB|H2O.ai|8|
+2018-06-05 13:16:39,302 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/host/num_cpus/4|Number of CPUs|
+2018-06-05 13:16:39,303 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Number of CPUs|H2O.ai|4|
+2018-06-05 13:16:39,304 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/gpu/present/false|Whether GPUs are present|
+2018-06-05 13:16:39,305 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Whether GPUs are present|H2O.ai|0|
+2018-06-05 13:16:39,306 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/gpu/num_gpus/0|Number of GPUs|
+2018-06-05 13:16:39,307 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Number of GPUs|H2O.ai|0|
+2018-06-05 13:16:39,308 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/gpu/memory_in_gb/0|GPU memory in GB|
+2018-06-05 13:16:39,309 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|GPU memory in GB|H2O.ai|0|
+2018-06-05 13:16:39,310 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/gpu/gpu_type/0|Type of GPUs if present|
+2018-06-05 13:16:39,311 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/host/os/Linux|Host System|
+2018-06-05 13:16:39,312 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Host System|H2O.ai|Linux|
+2018-06-05 13:16:39,315 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/docker/True|Whether Docker is used|
+2018-06-05 13:16:39,316 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Whether Docker is used|H2O.ai|True|
+2018-06-05 13:16:39,318 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [usage] |/system/docker_host/Darwin|Docker Host System|
+2018-06-05 13:16:39,319 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : [event] |System|Docker Host System|H2O.ai|Darwin|
+2018-06-05 13:16:39,320 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,322 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+
+PLEASE READ THIS H2O.AI DRIVERLESS AI EVALUATION AGREEMENT ('AGREEMENT') CAREFULLY BEFORE USING THE EVALUATION SOFTWARE OFFERED BY H2O.AI, INC. ('H2O.AI').  BY CLICKING THE 'AGREE' (OR SIMILAR) BUTTON ON AN ONLINE ORDER FORM, BY USING THE EVALUATION SOFTWARE IN ANY MANNER, OR BY SIGNING AN ORDER FORM WHICH REFERENCES THESE EVALUATION TERMS AND CONDITIONS (AS APPLICABLE) YOU OR THE ENTITY YOU REPRESENT ('LICENSEE') AGREE THAT YOU HAVE READ AND AGREE TO BE BOUND BY AND A PARTY TO THE TERMS AND CONDITIONS OF THIS AGREEMENT TO THE EXCLUSION OF ALL OTHER TERMS, YOU REPRESENT AND WARRANT THAT YOU ARE AUTHORIZED TO BIND LICENSEE.  IF THE TERMS OF THIS AGREEMENT ARE CONSIDERED AN OFFER, ACCEPTANCE IS EXPRESSLY LIMITED TO SUCH TERMS.
+
+H2O.AI DRIVERLESS AI EVALUATION AGREEMENT
+
+  WHEREAS, H2O.ai is willing to supply, within the protection of a confidential relationship, the software, services and related materials provided in connection with this Agreement (collectively, the 'Evaluation Software') to Licensee solely for internal evaluation purposes and not for any production use ('Evaluation');
+
+  NOW, THEREFORE, in consideration of the foregoing and the mutual covenants hereinafter set forth, the parties hereby agree as follows:
+      1. Use of Evaluation Software. Subject to the terms of this Agreement, H2O.ai hereby grants to Licensee a personal, nontransferable, nonsublicensable, nonexclusive, revocable license to access and use the Evaluation Software only in accordance with all documentation supplied by H2O.ai solely for Licensee's internal Evaluation purposes during the term of this Agreement. H2O.ai shall at all times retain all title to and ownership of the Evaluation Software and all intellectual property rights relating thereto. Licensee agrees to use the Evaluation Software only in the ordinary course of its Evaluation. Licensee shall not (and shall not allow any third party to): (a) decompile, disassemble, or otherwise reverse engineer any portion of the Evaluation Software; (b) remove, alter or obscure any product identification, copyright or other notices contained on or in the Evaluation Software; (c) disclose, provide, distribute, resell, lease, lend or allow access to the Evaluation Software to any third party; (d) use the Evaluation Software for timesharing or service bureau purposes, or otherwise for the benefit of any third party; (e) copy, modify, adapt or create a derivative work of any part of the Evaluation Software; (f) use the Evaluation Software in excess of any limitations provided by H2O.ai;(g) use the Evaluation Software to help develop any competitive product or service; (h) remove or export the Evaluation Software or any direct product thereof from the United States. H2O
+      2. Feedback. If Licensee proposes any modifications, derivatives, enhancements or improvements to the Evaluation Software ('Feedback'), then notwithstanding anything else, Licensee hereby grants H2O.ai a perpetual, irrevocable, royalty free, fully paid-up, sub-licensable, right and license to use, display, reproduce, distribute and otherwise fully exploit such Feedback for any purposes.
+      3. Warning. THE EVALUATION SOFTWARE MAY CONTAIN A ROUTINE THAT CAUSES THE EVALUATION SOFTWARE TO CEASE PROPER FUNCTIONING AFTER A CERTAIN PERIOD OF TIME. THIS MAY OCCUR BEFORE OR AFTER TERMINATION OF THE LICENSE, SO LICENSEE MUST BE PREPARED AT ALL TIMES AND MAY NOT RELY ON THE EVALUATION SOFTWARE
+      4. Warranty Disclaimer.  The parties acknowledge that the Evaluation Software are provided 'AS IS' and may not be functional on any machine or in any environment. H2O.AI DISCLAIMS ALL WARRANTIES RELATING TO THE EVALUATION SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AGAINST INFRINGEMENT OF THIRD-PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+      5. Limitation of Remedies and Damages. H2O.AI SHALL NOT BE RESPONSIBLE OR LIABLE TO THE OTHER PARTY WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY (A) FOR LOSS OR INACCURACY OF DATA OR COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY, (B) FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, RELIANCE, OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO LOSS OF REVENUES AND LOSS OF PROFITS, OR (C) FOR DAMAGES OF ANY KIND WHATSOEVER ARISING OUT OF THIS AGREEMENT IN EXCESS OF $100. H2O.AI SHALL NOT BE RESPONSIBLE FOR ANY MATTER BEYOND ITS REASONABLE CONTROL.
+      6. Nonassignability. Although fully assignable and transferable by H2O.ai, neither the rights nor the obligations arising under this Agreement are assignable or transferable by Licensee, and any such attempted assignment or transfer shall be void and without effect.
+      7. Controlling Law, Attorneys' Fees and Severability. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of laws provisions therein. In any action to enforce this Agreement the prevailing party will be entitled to costs and attorneys' fees. In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.
+      8. Entire Agreement. This Agreement constitutes the entire agreement between the parties pertaining to the subject matter hereof.  Any modifications of this Agreement must be in writing and signed by both parties.
+      9. Term; Termination. This Agreement shall become effective upon Licensee's first access to or use of the Evaluation Software ('Start Date'). This Agreement may be terminated by either party for any reason or no reason upon written notice to the other party, or immediately upon notice of any breach by Licensee of the provisions of this Agreement, and in any case will terminate twenty-one (21) days from the Start Date, unless extended by H2O.ai in writing.  Upon termination, the license granted hereunder will terminate and Licensee shall promptly cease accessing the Evaluation Software, and shall return any and all documents, notes and other materials regarding the Evaluation Software to H2O.ai, including, without limitation, all copies and extracts of the foregoing, but the terms of this Agreement will otherwise remain in effect.
+
+GDSVF&H\2472254.1
+
+
+
+2018-06-05 13:16:39,324 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,325 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Driverless AI Config Settings
+2018-06-05 13:16:39,329 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Modify config.toml or set DRIVERLESS_AI_<KEY>=<VALUE> to override (double-quote arrays)
+2018-06-05 13:16:39,330 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,331 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : process_server_ip                                  : 127.0.0.1 
+2018-06-05 13:16:39,332 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : process_server_port                                : 8080 
+2018-06-05 13:16:39,333 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : h2o_ip                                             : 127.0.0.1 
+2018-06-05 13:16:39,334 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : h2o_port                                           : 54321 
+2018-06-05 13:16:39,335 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : ip                                                 : 127.0.0.1 
+2018-06-05 13:16:39,336 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : port                                               : 12345 
+2018-06-05 13:16:39,337 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : data_directory                                     : ./tmp 
+2018-06-05 13:16:39,338 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : debug                                              : False 
+2018-06-05 13:16:39,339 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : enable_benchmark                                   : False 
+2018-06-05 13:16:39,340 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : enable_startup_checks                              : True 
+2018-06-05 13:16:39,341 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : usage_stats_opt_in                                 : False 
+2018-06-05 13:16:39,342 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : datatable_verbose_log                              : False 
+2018-06-05 13:16:39,343 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : make_python_scoring_pipeline                       : True 
+2018-06-05 13:16:39,344 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : make_mojo_scoring_pipeline                         : False 
+2018-06-05 13:16:39,345 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : authentication_method                              : unvalidated 
+2018-06-05 13:16:39,346 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : ldap_server                                        :  
+2018-06-05 13:16:39,347 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : ldap_port                                          :  
+2018-06-05 13:16:39,348 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : ldap_dc                                            :  
+2018-06-05 13:16:39,349 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : supported_file_types                               : ['csv', 'tsv', 'txt', 'dat', 'tgz', 'gz', 'zip', 'xz', 'xls', 'xlsx', 'nff', 'feather', 'bin', 'arff'] 
+2018-06-05 13:16:39,350 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : enabled_file_systems                               : ['file', 'hdfs', 's3'] 
+2018-06-05 13:16:39,351 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : do_not_log_list                                    : local_htpasswd_file, aws_access_key_id, aws_secret_access_key 
+2018-06-05 13:16:39,352 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_cores                                          : 0 
+2018-06-05 13:16:39,353 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : num_gpus                                           : 1 
+2018-06-05 13:16:39,354 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : gpu_id_start                                       : 0 
+2018-06-05 13:16:39,355 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_workers                                        : 1 
+2018-06-05 13:16:39,356 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : ping_period                                        : 60 
+2018-06-05 13:16:39,357 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : disk_limit_gb                                      : 5 
+2018-06-05 13:16:39,358 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : memory_limit_gb                                    : 5 
+2018-06-05 13:16:39,359 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : min_num_rows                                       : 100 
+2018-06-05 13:16:39,361 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : data_precision                                     : float64 
+2018-06-05 13:16:39,362 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : transformer_precision                              : auto 
+2018-06-05 13:16:39,363 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : missing_values                                     : ['', '?', 'None', 'nan', 'NA', 'N/A', 'inf', '-inf', '1.7976931348623157e+308', '-1.7976931348623157e+308'] 
+2018-06-05 13:16:39,364 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : statistical_threshold_data_size_small              : 100000 
+2018-06-05 13:16:39,365 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : statistical_threshold_data_size_large              : 100000000 
+2018-06-05 13:16:39,366 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_cols                                           : 10000 
+2018-06-05 13:16:39,367 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_fold_uniques                                   : 100000 
+2018-06-05 13:16:39,368 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : num_folds                                          : 3 
+2018-06-05 13:16:39,369 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : full_cv_accuracy_switch                            : 8 
+2018-06-05 13:16:39,370 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : num_ensemble_folds                                 : 5 
+2018-06-05 13:16:39,371 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : fold_reps                                          : 1 
+2018-06-05 13:16:39,372 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_int_as_cat_uniques                             : 100000 
+2018-06-05 13:16:39,373 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_num_classes                                    : 100 
+2018-06-05 13:16:39,374 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : early_stopping                                     : True 
+2018-06-05 13:16:39,375 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : string_col_as_text_threshold                       : 0.5 
+2018-06-05 13:16:39,376 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : monotonicity_constraints_interpretability_switch   : 7 
+2018-06-05 13:16:39,377 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : tune_target_transform_accuracy_switch              : 3 
+2018-06-05 13:16:39,378 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : tune_parameters_accuracy_switch                    : 3 
+2018-06-05 13:16:39,379 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : num_individuals                                    : 2 
+2018-06-05 13:16:39,381 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : black_list_transformers                            :  
+2018-06-05 13:16:39,382 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : black_list_genes                                   :  
+2018-06-05 13:16:39,383 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : glm_interpretability_switch                        : 10 
+2018-06-05 13:16:39,384 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : glm_interpretability_exclusive_switch              : 10 
+2018-06-05 13:16:39,385 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : glm_enable_exclusive                               : False 
+2018-06-05 13:16:39,386 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : time_series_recipe                                 : True 
+2018-06-05 13:16:39,387 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : check_distribution_shift                           : True 
+2018-06-05 13:16:39,388 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : max_nestimators                                    : 2000 
+2018-06-05 13:16:39,389 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : mli_fast_approx                                    : True 
+2018-06-05 13:16:39,390 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : mli_sample_above                                   : 100000 
+2018-06-05 13:16:39,391 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : mli_sample_size                                    : 100000 
+2018-06-05 13:16:39,393 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : mli_num_quantiles                                  : 10 
+2018-06-05 13:16:39,394 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : core_site_xml_path                                 :  
+2018-06-05 13:16:39,395 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : key_tab_path                                       :  
+2018-06-05 13:16:39,396 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : hdfs_auth_type                                     : noauth 
+2018-06-05 13:16:39,397 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : hdfs_app_principal_user                            :  
+2018-06-05 13:16:39,398 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : hdfs_app_login_user                                :  
+2018-06-05 13:16:39,399 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : hdfs_app_jvm_args                                  :  
+2018-06-05 13:16:39,400 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : hdfs_app_classpath                                 :  
+2018-06-05 13:16:39,402 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : aws_auth                                           : False 
+2018-06-05 13:16:39,403 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : gcs_path_to_service_account_json                   :  
+2018-06-05 13:16:39,404 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,405 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,406 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Environment Variables                                            
+2018-06-05 13:16:39,407 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :                                                                  
+2018-06-05 13:16:39,408 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CUDNN_VERSION               : 5.1.10 
+2018-06-05 13:16:39,410 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : HOSTNAME                    : cb5897ba7ed8 
+2018-06-05 13:16:39,411 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : NVIDIA_REQUIRE_CUDA         : cuda>=8.0 
+2018-06-05 13:16:39,412 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : TERM                        : xterm 
+2018-06-05 13:16:39,413 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : DISABLETRACE                : 0 
+2018-06-05 13:16:39,414 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : LLVM4                       : /opt/clang 
+2018-06-05 13:16:39,415 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : NVIDIA_VISIBLE_DEVICES      : all 
+2018-06-05 13:16:39,416 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : LD_LIBRARY_PATH             : /usr/local/cuda/lib64:/opt/clang/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64 
+2018-06-05 13:16:39,418 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : NVIDIA_DRIVER_CAPABILITIES  : compute,utility 
+2018-06-05 13:16:39,419 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : VIRTUAL_ENV                 : /h2oai_env 
+2018-06-05 13:16:39,420 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : PATH                        : /h2oai_env/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin 
+2018-06-05 13:16:39,421 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : PWD                         : / 
+2018-06-05 13:16:39,422 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : JAVA_HOME                   : /opt/java 
+2018-06-05 13:16:39,423 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : LANG                        : en_US.utf8 
+2018-06-05 13:16:39,424 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CUDA_PKG_VERSION            : 8-0=8.0.61-1 
+2018-06-05 13:16:39,425 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : PS1                         : (h2oai_env)  
+2018-06-05 13:16:39,427 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : LLVM_CONFIG                 : /opt/clang/llvm-config 
+2018-06-05 13:16:39,428 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CUDA_VERSION                : 8.0.61 
+2018-06-05 13:16:39,429 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CLANG                       : /opt/clang/bin/clang 
+2018-06-05 13:16:39,430 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : SHLVL                       : 0 
+2018-06-05 13:16:39,432 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : HOME                        : / 
+2018-06-05 13:16:39,433 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : DEBIAN_FRONTEND             : noninteractive 
+2018-06-05 13:16:39,434 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : MPLCONFIGDIR                : /tmp/matplotlib-5lczveqg 
+2018-06-05 13:16:39,435 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : DRIVERLESS_AI_INSTANCE_ID   : a78efc74-b34e-49e3-8e58-f77f38792745 
+2018-06-05 13:16:39,437 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : DRIVERLESS_AI_LICENSE_KEY   : oLqLZXMI0ym2sn0S9tPbeMnFVe6yj7YngPzy1TOi9680u1_YVup7SlEzN_p9nlMRUyztOmRE7UjakCiXbklEk58DIjO2NI4vgaRq7lFVSRN6LgfLyyJxTI71ib-M9UjHJtjKAqm3Om72-VwoCqlpa-aZdvSAKkgeapTbpWPCcz9AsguU3N3X0XjOxbzTdMcxJpj_L39Q_tYa5-saJo2OMejsbRpVhZzWs-RMvusbxh8afoiTeH2ltP9h1hBLY4SfBLl7FP9UhYfDX439VNzM4uMBT1nsROpR-aqQN-ty7-j10q3zGftTxKS8V_hkecx2Rvt4BJfS1vaaaQuCPNFbM2xpY2Vuc2VfdmVyc2lvbjoxCnNlcmlhbF9udW1iZXI6MjYKbGljZW5zZWVfb3JnYW5pemF0aW9uOkgyTy5haQpsaWNlbnNlZV9lbWFpbDptYWdudXNAaDJvLmFpCmxpY2Vuc2VlX3VzZXJfaWQ6MjYKaXNfaDJvX2ludGVybmFsX3VzZTp0cnVlCmNyZWF0ZWRfYnlfZW1haWw6bWFnbnVzQGgyby5haQpjcmVhdGlvbl9kYXRlOjIwMTcvMTIvMjIKcHJvZHVjdDpEcml2ZXJsZXNzQUkKbGljZW5zZV90eXBlOmRldmVsb3BlcgpleHBpcmF0aW9uX2RhdGU6MjAxOC8wNy8wMQo=
+2018-06-05 13:16:39,438 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :  
+2018-06-05 13:16:39,439 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,440 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,450 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Architecture:          x86_64
+2018-06-05 13:16:39,452 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CPU op-mode(s):        32-bit, 64-bit
+2018-06-05 13:16:39,454 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Byte Order:            Little Endian
+2018-06-05 13:16:39,456 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CPU(s):                4
+2018-06-05 13:16:39,457 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : On-line CPU(s) list:   0-3
+2018-06-05 13:16:39,458 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Thread(s) per core:    1
+2018-06-05 13:16:39,459 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Core(s) per socket:    1
+2018-06-05 13:16:39,461 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Socket(s):             4
+2018-06-05 13:16:39,462 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Vendor ID:             GenuineIntel
+2018-06-05 13:16:39,463 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CPU family:            6
+2018-06-05 13:16:39,464 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Model:                 70
+2018-06-05 13:16:39,466 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Model name:            Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+2018-06-05 13:16:39,467 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Stepping:              1
+2018-06-05 13:16:39,468 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : CPU MHz:               2793.054
+2018-06-05 13:16:39,469 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : BogoMIPS:              5587.52
+2018-06-05 13:16:39,470 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Hypervisor vendor:     vertical
+2018-06-05 13:16:39,471 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Virtualization type:   full
+2018-06-05 13:16:39,473 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : L1d cache:             32K
+2018-06-05 13:16:39,474 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : L1i cache:             32K
+2018-06-05 13:16:39,475 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : L2 cache:              256K
+2018-06-05 13:16:39,477 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : L3 cache:              6144K
+2018-06-05 13:16:39,478 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : L4 cache:              131072K
+2018-06-05 13:16:39,479 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht pbe syscall nx pdpe1gb lm constant_tsc rep_good nopl xtopology nonstop_tsc eagerfpu pni pclmulqdq dtes64 ds_cpl ssse3 sdbg fma cx16 xtpr pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm kaiser fsgsbase bmi1 avx2 bmi2 erms xsaveopt arat
+2018-06-05 13:16:39,480 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : 
+2018-06-05 13:16:39,482 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,490 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,492 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,494 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :      System check:                                               
+2018-06-05 13:16:39,495 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :      - Memory: PASSED                                        
+2018-06-05 13:16:39,497 C:▇▄▂█ D:584.8GB M:7.4GB 7     INFO   :      - Disk:   PASSED                                        
+2018-06-05 13:16:39,853 C:▂▆▂▆ D:584.8GB M:7.3GB 7     INFO   :      - Java:   PASSED                                        
+2018-06-05 13:16:39,858 C:▂▆▂▆ D:584.8GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,860 C:▂▆▂▆ D:584.8GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:39,861 C:▂▆▂▆ D:584.8GB M:7.3GB 7     INFO   :      Connect to Driverless AI:  http://127.0.0.1:12345
+2018-06-05 13:16:39,871 C:▂▆▂▆ D:584.8GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-05 13:16:50,915 C:     D:584.8GB M:7.3GB 7     INFO   : User logged in: admin
+2018-06-05 13:16:50,941 C:     D:584.8GB M:7.3GB 7     INFO   : Reload: user=admin, ip=172.17.0.1
+2018-06-05 13:17:25,809 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/start|AutoDL start|
+2018-06-05 13:17:25,811 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/classification/false|AutoDL classification parameter|
+2018-06-05 13:17:25,813 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL classification parameter|H2O.ai|0|
+2018-06-05 13:17:25,814 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/num_dropped_cols/0|AutoDL number of dropped cols parameter|
+2018-06-05 13:17:25,817 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL number of dropped cols parameter|H2O.ai|0|
+2018-06-05 13:17:25,820 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/disable_gpus/true|AutoDL disable GPUs parameter|
+2018-06-05 13:17:25,822 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL disable GPUs parameter|H2O.ai|1|
+2018-06-05 13:17:25,824 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/accuracy/6|AutoDL accuracy parameter|
+2018-06-05 13:17:25,826 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL accuracy parameter|H2O.ai|6|
+2018-06-05 13:17:25,827 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/time/3|AutoDL time parameter|
+2018-06-05 13:17:25,828 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL time parameter|H2O.ai|3|
+2018-06-05 13:17:25,829 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/params/interpretability/3|AutoDL interpretability parameter|
+2018-06-05 13:17:25,830 C: ▅   D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL interpretability parameter|H2O.ai|3|
+2018-06-05 13:17:25,833 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Selected Accuracy: 6 / 10
+2018-06-05 13:17:25,837 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Selected Time: 3 / 10
+2018-06-05 13:17:25,840 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Selected Interpretability: 3 / 10
+2018-06-05 13:17:25,864 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Data shape: (4408, 14)
+2018-06-05 13:17:25,866 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Time to read the training dataset with datatable: 0.022815
+2018-06-05 13:17:26,104 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Turning accuracy/time/interpretability into:
+2018-06-05 13:17:26,107 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   individuals: 4
+2018-06-05 13:17:26,109 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   iterations=30
+2018-06-05 13:17:26,111 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   early_stopping_rounds=5
+2018-06-05 13:17:26,113 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   only_first_fold_model=False
+2018-06-05 13:17:26,115 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   num_folds=4
+2018-06-05 13:17:26,117 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   fold_reps=1
+2018-06-05 13:17:26,119 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   monotonicity_constraints=False
+2018-06-05 13:17:26,121 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   parameter_tune_level=1
+2018-06-05 13:17:26,122 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   auto_tune_target_transform=True
+2018-06-05 13:17:26,124 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   auto_tune_backend=True
+2018-06-05 13:17:26,126 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   ensemble_level=1
+2018-06-05 13:17:26,127 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   num_ensemble_folds=4
+2018-06-05 13:17:26,129 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   max_rows=35700000
+2018-06-05 13:17:26,130 C: ▅   D:584.8GB M:7.0GB 320   INFO   :   strategy=None
+fatal: Not a git repository (or any of the parent directories): .git
+2018-06-05 13:17:26,161 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Using 3 threads.
+2018-06-05 13:17:26,163 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Using seed: 1058615181 that is random
+2018-06-05 13:17:26,167 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Size of file system containing temp dir: 931.6GB
+2018-06-05 13:17:26,169 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:17:26,171 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Temporary directory: /./tmp/h2oai_experiment_vurumudu
+2018-06-05 13:17:26,187 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Physical device for temporary directory: osxfs
+2018-06-05 13:17:26,191 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Pinging every 60 seconds.
+2018-06-05 13:17:26,193 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Using datatable 'write' strategy.
+2018-06-05 13:17:26,195 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Ingesting training data...
+2018-06-05 13:17:26,202 C: ▅   D:584.8GB M:7.0GB 320   DATA   : Training data file name: spark_ai_summit_2018.csv
+2018-06-05 13:17:26,204 C: ▅   D:584.8GB M:7.0GB 320   DATA   : Reading training data from: ./tmp/dagekafo/spark_ai_summit_2018.csv.1528203867.4218943.bin
+2018-06-05 13:17:26,219 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Data shape: (4408, 14)
+2018-06-05 13:17:26,221 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Time to read the training dataset with datatable: 0.014421
+2018-06-05 13:17:26,296 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Checking data integrity...
+2018-06-05 13:17:26,458 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Checking for columns with constant values.
+2018-06-05 13:17:26,541 C: ▅   D:584.8GB M:7.0GB 320   INFO   : No columns with constant values found.
+2018-06-05 13:17:26,545 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Training data (with target): (4408, 14)
+2018-06-05 13:17:26,573 C: ▅   D:584.8GB M:7.0GB 320   DATA   : First 5 rows of training data:
+        GPU  sys_CPU  sys_GPU  config_accu  config_time  config_MLI  \
+0  disabled     16.0      0.0          5.0          5.0         5.0   
+1   enabled      4.0      1.0          5.0          5.0         5.0   
+2   enabled      4.0      1.0          5.0          5.0         5.0   
+3  disabled     16.0      0.0          1.0          1.0         5.0   
+4   enabled     32.0      8.0          5.0          5.0         5.0   
+
+   nrows_train  ncols_train  target_binary_dist  target_nclasses  \
+0      23999.0         25.0                 NaN              NaN   
+1      23999.0         25.0                 NaN              NaN   
+2      23999.0         25.0                 NaN              NaN   
+3      23999.0         25.0                 NaN              NaN   
+4      23999.0         25.0                 NaN              NaN   
+
+   recipe_individuals  train_data_size  weight  t_total  
+0                 4.0         599975.0     1.0   302.78  
+1                 4.0         599975.0     1.0   498.72  
+2                 4.0         599975.0     1.0   352.10  
+3                 4.0         599975.0     1.0   113.76  
+4                16.0         599975.0     1.0   516.92  
+2018-06-05 13:17:26,576 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Using fold_reps=1
+2018-06-05 13:17:26,579 C: ▅   D:584.8GB M:7.0GB 320   WARNING: GPU(s): None visible.  If unexpected and running nvidia-docker, try: sudo systemctl start nvidia-docker
+2018-06-05 13:17:26,581 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Early stopping enabled.
+2018-06-05 13:17:26,607 C: ▅   D:584.8GB M:7.0GB 320   DATA   : Stats for target column 't_total':
+count      4408.000000
+mean       5147.132049
+std       12742.571881
+min          20.310000
+25%         462.605000
+50%        1107.390000
+75%        3749.732500
+max      166400.590000
+Name: t_total, dtype: float64
+2018-06-05 13:17:26,610 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Checking target column...
+2018-06-05 13:17:26,620 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Scorer: RMSE (less is better)
+2018-06-05 13:17:26,652 C: ▅   D:584.8GB M:7.0GB 320   INFO   : Detecting column types...
+2018-06-05 13:17:27,212 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Data shape: (4408, 14)
+2018-06-05 13:17:27,218 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Time to read the train dataset with datatable: 0.024263
+2018-06-05 13:17:27,308 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Time-series check disabled.
+2018-06-05 13:17:27,313 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : Date cols: []
+2018-06-05 13:17:27,314 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : DateTime cols: []
+2018-06-05 13:17:27,316 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : ID cols: []
+2018-06-05 13:17:27,319 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : Categorical cols: ['GPU']
+2018-06-05 13:17:27,321 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : Numerical cols: ['config_MLI', 'config_accu', 'config_time', 'ncols_train', 'nrows_train', 'recipe_individuals', 'sys_CPU', 'sys_GPU', 'target_binary_dist', 'target_nclasses', 'train_data_size', 'weight']
+2018-06-05 13:17:27,323 C:▃▃▃▆ D:584.8GB M:7.0GB 320   DATA   : Text cols: []
+2018-06-05 13:17:27,512 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,515 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Number of individuals: 4
+2018-06-05 13:17:27,519 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated target transform tuning iterations: 3
+2018-06-05 13:17:27,522 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated model and feature parameter tuning iterations: 2
+2018-06-05 13:17:27,525 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated total (tuning + feature evolution) number of iterations: 35
+2018-06-05 13:17:27,527 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated total (backend + tuning + feature evolution + final) number of models to train: 328
+2018-06-05 13:17:27,529 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Backend tuning: 0 model(s)
+2018-06-05 13:17:27,531 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Target transform tuning: 40 model(s)
+2018-06-05 13:17:27,533 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Model and feature tuning: 32 model(s)
+2018-06-05 13:17:27,536 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Feature pre-pruning: 0 model(s)
+2018-06-05 13:17:27,539 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Feature evolution: 248 model(s)
+2018-06-05 13:17:27,541 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Final pipeline: 8 model(s)
+2018-06-05 13:17:27,543 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,580 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,584 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Experiment: vurumudu
+2018-06-05 13:17:27,589 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,591 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : ACCURACY [6/10]:
+2018-06-05 13:17:27,593 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Training data size: *4,408 rows, 14 cols*
+2018-06-05 13:17:27,595 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature evolution: *XGBoost*, *4-fold CV*
+2018-06-05 13:17:27,597 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Final pipeline: *Ensemble (2 x XGBoost), 4-fold CV*
+2018-06-05 13:17:27,598 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,600 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : TIME [3/10]:
+2018-06-05 13:17:27,603 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature evolution: *4 individuals*, up to *35 iterations*
+2018-06-05 13:17:27,606 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Early stopping: After *5* iterations of no improvement
+2018-06-05 13:17:27,607 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,610 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : INTERPRETABILITY [3/10]:
+2018-06-05 13:17:27,612 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature pre-pruning strategy: None
+2018-06-05 13:17:27,614 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Monotonicity constraints: disabled
+2018-06-05 13:17:27,615 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature engineering search space (where applicable): ['Clustering', 'Date', 'FrequencyEncoding', 'Identity', 'Interactions', 'TargetEncoding', 'Text', 'TruncatedSVD', 'WeightOfEvidence']
+2018-06-05 13:17:27,618 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,620 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : XGBoost models to train:
+2018-06-05 13:17:27,622 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Target transform tuning: *40*
+2018-06-05 13:17:27,624 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Model and feature tuning: *32*
+2018-06-05 13:17:27,626 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature evolution: *248*
+2018-06-05 13:17:27,628 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Final pipeline: *8*
+2018-06-05 13:17:27,630 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,632 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated max. total memory usage:
+2018-06-05 13:17:27,633 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - Feature engineering: *8.0MB*
+2018-06-05 13:17:27,637 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : - CPU XGBoost: *112.0MB*
+2018-06-05 13:17:27,639 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,641 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Estimated runtime: *8 minutes*
+2018-06-05 13:17:27,643 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:27,645 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/experiment_preview/Experiment: vurumudu @@@  @@@ ACCURACY [6/10]: @@@ - Training data size: *4,408 rows, 14 cols* @@@ - Feature evolution: *XGBoost*, *4-fold CV* @@@ - Final pipeline: *Ensemble (2 x XGBoost), 4-fold CV* @@@  @@@ TIME [3/10]: @@@ - Feature evolution: *4 individuals*, up to *35 iterations* @@@ - Early stopping: After *5* iterations of no improvement @@@  @@@ INTERPRETABILITY [3/10]: @@@ - Feature pre-pruning strategy: None @@@ - Monotonicity constraints: disabled @@@ - Feature engineering search space (where applicable): ['Clustering', 'Date', 'FrequencyEncoding', 'Identity', 'Interactions', 'TargetEncoding', 'Text', 'TruncatedSVD', 'WeightOfEvidence'] @@@  @@@ XGBoost models to train: @@@ - Target transform tuning: *40* @@@ - Model and feature tuning: *32* @@@ - Feature evolution: *248* @@@ - Final pipeline: *8* @@@  @@@ Estimated max. total memory usage: @@@ - Feature engineering: *8.0MB* @@@ - CPU XGBoost: *112.0MB* @@@  @@@ Estimated runtime: *8 minutes*|AutoDL experiment preview|
+2018-06-05 13:17:27,646 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Preparing validation splits...
+2018-06-05 13:17:27,655 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Not doing time-based splits.
+2018-06-05 13:17:27,663 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Feature engineering validation split #1: 3306 / 1102
+2018-06-05 13:17:27,744 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Doing backend (and target transform) tuning on data of shape (3306, 14) / (1102, 14)
+2018-06-05 13:17:27,883 C:▃▃▃▆ D:584.8GB M:7.0GB 320   INFO   : Feature engineering validation split #2: 3306 / 1102
+2018-06-05 13:17:28,131 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Feature engineering validation split #3: 3306 / 1102
+2018-06-05 13:17:28,393 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Feature engineering validation split #4: 3306 / 1102
+2018-06-05 13:17:28,642 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Final ensemble training / validation split #1: 3306 / 1102
+2018-06-05 13:17:28,646 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Final ensemble training / validation split #2: 3306 / 1102
+2018-06-05 13:17:28,648 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Final ensemble training / validation split #3: 3306 / 1102
+2018-06-05 13:17:28,651 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Final ensemble training / validation split #4: 3306 / 1102
+2018-06-05 13:17:28,764 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Transformers used (accuracy=6, time=3, interpretability=3): ['BulkInteractionsTransformer', 'CVCatNumEncodeF', 'CVTargetEncodeF', 'ClusterDistTransformer', 'ClusterTETransformer', 'DatesTransformer', 'EwmaLagsTransformer', 'FilterTransformer', 'FrequentTransformer', 'LagsTransformer', 'NumCatTETransformer', 'NumToCatTETransformer', 'NumToCatWoETransformer', 'TextLinModelTransformer', 'TextTransformer', 'TruncSVDNumTransformer', 'WeightOfEvidenceTransformer']
+2018-06-05 13:17:28,767 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Genes used (accuracy=6, time=3, interpretability=3): ['BulkInteractionsGene', 'ClusterDistGene', 'ClusterIDTargetEncodeMultiGene', 'ClusterIDTargetEncodeSingleGene', 'CvCatNumEncodeGene', 'CvTargetEncodeMultiGene', 'CvTargetEncodeSingleGene', 'DateGene', 'DateTimeGene', 'EwmaLagsGene', 'FilterGene', 'FrequentGene', 'LagsGene', 'NumCatTargetEncodeMultiGene', 'NumCatTargetEncodeSingleGene', 'NumToCatTargetEncodeMultiGene', 'NumToCatTargetEncodeSingleGene', 'NumToCatWeightOfEvidenceGene', 'TextGene', 'TextLinClassifierGene', 'TextLinRegressorGene', 'TruncSvdNumGene', 'WeightOfEvidenceGene']
+2018-06-05 13:17:28,772 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Tuning modeling backend...
+2018-06-05 13:17:28,781 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Auto-tuning modeling backend: start.
+2018-06-05 13:17:28,810 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Pre-pruning 12 gene(s) from 13 active base genes
+2018-06-05 13:17:28,828 C:▄▄▄▅ D:584.8GB M:7.0GB 320   INFO   : Engineering features.
+2018-06-05 13:17:30,746 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Auto-tuning modeling backend: end : Duration: 1.9651 s
+2018-06-05 13:17:30,932 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:30,935 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Number of individuals: 4
+2018-06-05 13:17:30,937 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Estimated target transform tuning iterations: 3
+2018-06-05 13:17:30,940 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Estimated model and feature parameter tuning iterations: 2
+2018-06-05 13:17:30,943 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Estimated total (tuning + feature evolution) number of iterations: 35
+2018-06-05 13:17:30,945 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Estimated total (backend + tuning + feature evolution + final) number of models to train: 329
+2018-06-05 13:17:30,947 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Backend tuning: 1 model(s)
+2018-06-05 13:17:30,949 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Target transform tuning: 40 model(s)
+2018-06-05 13:17:30,951 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Model and feature tuning: 32 model(s)
+2018-06-05 13:17:30,953 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Feature pre-pruning: 0 model(s)
+2018-06-05 13:17:30,955 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Feature evolution: 248 model(s)
+2018-06-05 13:17:30,959 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Final pipeline: 8 model(s)
+2018-06-05 13:17:30,961 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:31,040 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Regression target transformer tuning...
+2018-06-05 13:17:31,122 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : target transform tuning iterations: 3
+2018-06-05 13:17:31,130 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:17:31,133 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : ============================================================================
+2018-06-05 13:17:31,135 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Starting Iteration: 0
+2018-06-05 13:17:31,137 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : ============================================================================
+2018-06-05 13:17:31,192 C:▄▁▂▃ D:584.8GB M:7.0GB 320   INFO   : Engineering features.
+2018-06-05 13:17:49,962 C:     D:584.8GB M:6.8GB 320   INFO   : Scored 5/329 models on 53 features
+2018-06-05 13:17:49,982 C:     D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:17:49,986 C:     D:584.8GB M:6.8GB 320   INFO   : ['8479.9', '8521.5', '8822.2', '10971']
+2018-06-05 13:17:49,989 C:     D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:17:50,012 C:     D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:17:50,028 C:     D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:17:50,032 C:     D:584.8GB M:6.8GB 320   INFO   : Starting Iteration: 1
+2018-06-05 13:17:50,038 C:     D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:18:08,578 C: █   D:584.8GB M:6.8GB 320   INFO   : Scored 9/329 models on 105 features
+2018-06-05 13:18:08,620 C: █   D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:18:08,627 C: █   D:584.8GB M:6.8GB 320   INFO   : ['8444.7', '8466.6', '8576.5', '12197']
+2018-06-05 13:18:08,632 C: █   D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:18:08,640 C: █   D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:18:08,643 C: █   D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:18:08,646 C: █   D:584.8GB M:6.8GB 320   INFO   : Starting Iteration: 2
+2018-06-05 13:18:08,649 C: █   D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:18:15,779 C:   █ D:584.8GB M:6.8GB 320   INFO   : Scored 11/329 models on 131 features
+2018-06-05 13:18:15,797 C:   █ D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:18:15,800 C:   █ D:584.8GB M:6.8GB 320   INFO   : ['8444.7', '11554', '27500']
+2018-06-05 13:18:15,803 C:   █ D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:18:15,858 C:   █ D:584.8GB M:6.8GB 320   INFO   : Target transform tuning leaderboard (scorer=RMSE):
+
+2018-06-05 13:18:15,865 C:   █ D:584.8GB M:6.8GB 320   INFO   : +-------------+-------------------------------+----------+-------------+--------------+--------------+------------+----------+
+2018-06-05 13:18:15,870 C:   █ D:584.8GB M:6.8GB 320   INFO   : |   job order | transformer                   |   scores |   scores_sd | job status   |   rel_scores |    z-score | isbest   |
+2018-06-05 13:18:15,874 C:   █ D:584.8GB M:6.8GB 320   INFO   : |-------------+-------------------------------+----------+-------------+--------------+--------------+------------+----------|
+2018-06-05 13:18:15,876 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           4 | TargetTransformer_sqrt        |  8444.65 |    1270.09  | PASSED       |     1        |  0         | *        |
+2018-06-05 13:18:15,878 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           7 | TargetTransformer_Anscombe    |  8466.6  |    1291.15  | PASSED       |     0.997408 |  0.0172789 |          |
+2018-06-05 13:18:15,880 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           0 | TargetTransformer_identity    |  8479.91 |    1100.38  | PASSED       |     0.995842 |  0.027761  |          |
+2018-06-05 13:18:15,883 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           1 | TargetTransformer_unit_box    |  8521.47 |    1089.49  | PASSED       |     0.990986 |  0.0604798 |          |
+2018-06-05 13:18:15,886 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           5 | TargetTransformer_double_sqrt |  8576.51 |    1332.7   | PASSED       |     0.984626 |  0.103818  |          |
+2018-06-05 13:18:15,887 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           2 | TargetTransformer_log         |  8822.16 |    1325.92  | PASSED       |     0.957209 |  0.297229  |          |
+2018-06-05 13:18:15,890 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           3 | TargetTransformer_square      | 10971.5  |     815.795 | PASSED       |     0.769692 |  1.98948   |          |
+2018-06-05 13:18:15,892 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           8 | TargetTransformer_logit       | 11554.2  |    2462.94  | PASSED       |     0.730875 |  2.44827   |          |
+2018-06-05 13:18:15,893 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           6 | TargetTransformer_inverse     | 12197    |    1244.99  | PASSED       |     0.692353 |  2.95442   |          |
+2018-06-05 13:18:15,895 C:   █ D:584.8GB M:6.8GB 320   INFO   : |           9 | TargetTransformer_sigmoid     | 27499.6  |    4667.88  | PASSED       |     0.307083 | 15.0029    |          |
+2018-06-05 13:18:15,898 C:   █ D:584.8GB M:6.8GB 320   INFO   : +-------------+-------------------------------+----------+-------------+--------------+--------------+------------+----------+
+2018-06-05 13:18:15,903 C:   █ D:584.8GB M:6.8GB 320   INFO   : Target transform search: end : Duration: 44.856 s
+2018-06-05 13:18:15,907 C:   █ D:584.8GB M:6.8GB 320   INFO   : Target transform: TargetTransformer_sqrt
+2018-06-05 13:18:15,910 C:   █ D:584.8GB M:6.8GB 320   INFO   : Model and feature tuning...
+2018-06-05 13:18:16,131 C:   █ D:584.8GB M:6.8GB 320   INFO   : Pre-adding 5 gene(s) to 13 active base genes
+2018-06-05 13:18:16,181 C:   █ D:584.8GB M:6.8GB 320   INFO   : Pre-adding 5 gene(s) to 13 active base genes
+2018-06-05 13:18:16,226 C:   █ D:584.8GB M:6.8GB 320   INFO   : Pre-adding 5 gene(s) to 13 active base genes
+2018-06-05 13:18:16,274 C:   █ D:584.8GB M:6.8GB 320   INFO   : Pre-adding 5 gene(s) to 13 active base genes
+2018-06-05 13:18:16,764 C:   █ D:584.8GB M:6.8GB 320   INFO   : parameter tuning iterations: 3
+2018-06-05 13:18:16,776 C:   █ D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:18:16,781 C:     D:584.8GB M:6.9GB 320   INFO   : ============================================================================
+2018-06-05 13:18:16,794 C:     D:584.8GB M:6.9GB 320   INFO   : Starting Iteration: 3
+2018-06-05 13:18:16,796 C:     D:584.8GB M:6.9GB 320   INFO   : ============================================================================
+2018-06-05 13:18:17,149 C:     D:584.8GB M:6.9GB 320   INFO   : Engineering features.
+2018-06-05 13:18:27,112 C: ███ D:584.8GB M:6.8GB 320   INFO   : Ping from experiment vurumudu. CPU memory usage: 243.9MB, max: 243.9MB. GPU memory usage: 0B, max: 0B. [h2oai-vurumudu-model_parameter_tuning-running-training_xgb_indiv_3_fold_0-wait_for_completion]
+2018-06-05 13:18:33,783 C:     D:584.8GB M:6.7GB 320   INFO   : Scored 45/329 models on 203 features
+2018-06-05 13:18:33,801 C:     D:584.8GB M:6.7GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:18:33,804 C:     D:584.8GB M:6.7GB 320   INFO   : ['8444.7', '8644.7', '8943.2', '9088.1']
+2018-06-05 13:18:33,806 C:     D:584.8GB M:6.7GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:18:33,813 C:     D:584.8GB M:6.7GB 320   INFO   : 
+2018-06-05 13:18:33,834 C:     D:584.8GB M:6.7GB 320   INFO   : ============================================================================
+2018-06-05 13:18:33,837 C:     D:584.8GB M:6.7GB 320   INFO   : Starting Iteration: 4
+2018-06-05 13:18:33,841 C:     D:584.8GB M:6.7GB 320   INFO   : ============================================================================
+2018-06-05 13:19:07,960 C:     D:584.8GB M:6.6GB 320   INFO   : Scored 49/329 models on 295 features
+2018-06-05 13:19:07,993 C:     D:584.8GB M:6.6GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:19:07,997 C:     D:584.8GB M:6.6GB 320   INFO   : ['8444.7', '8864.6', '8947.6', '8978.5', '9297.5']
+2018-06-05 13:19:08,001 C:     D:584.8GB M:6.6GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:19:08,009 C:     D:584.8GB M:6.6GB 320   INFO   : 
+2018-06-05 13:19:08,019 C:     D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:08,024 C:     D:584.8GB M:6.6GB 320   INFO   : Starting Iteration: 5
+2018-06-05 13:19:08,031 C:     D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:25,862 C:     D:584.8GB M:6.6GB 320   INFO   : Scored 51/329 models on 341 features
+2018-06-05 13:19:25,878 C:     D:584.8GB M:6.6GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:19:25,881 C:     D:584.8GB M:6.6GB 320   INFO   : ['8444.7', '9194.2', '9389.2']
+2018-06-05 13:19:25,884 C:     D:584.8GB M:6.6GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:19:25,925 C:     D:584.8GB M:6.6GB 320   INFO   : Picking the fastest model with a score within 952.57 (z-score <= 0.750) of the best score
+2018-06-05 13:19:25,977 C:     D:584.8GB M:6.6GB 320   INFO   : Model tuning leaderboard (scorer=RMSE):
+
+2018-06-05 13:19:25,981 C:     D:584.8GB M:6.6GB 320   INFO   : +-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+----------+-------------+------------------+------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------+--------------+-----------+----------+
+2018-06-05 13:19:25,985 C:     D:584.8GB M:6.6GB 320   INFO   : |   job order | booster   |   colsample_bytree |   gamma | grow_policy   |   max_bin |   max_delta_step |   max_depth |   max_leaves |   reg_alpha |   reg_lambda |   scale_pos_weight |   subsample | tree_method   |   scores |   scores_sd |   training_times |   rel_time |   num_trees |   rel_num_trees |   ngenes_start |   ngenes_max |   ngenes |   nfeatures_max |   nfeatures | job status   |   rel_scores |   complexity |   z-score | isbest   |
+2018-06-05 13:19:25,988 C:     D:584.8GB M:6.6GB 320   INFO   : |-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+----------+-------------+------------------+------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------+--------------+-----------+----------|
+2018-06-05 13:19:25,990 C:     D:584.8GB M:6.6GB 320   INFO   : |           1 | gbtree    |                0.8 |   0     | lossguide     |       256 |                0 |           0 |           64 |           0 |            1 |                  1 |         0.7 | hist          |  8444.65 |     1270.09 |          6.43149 |   0.252911 |         144 |        0.734694 |             13 |          984 |       13 |             984 |          13 | PASSED       |     1        |      611.265 |  0        |          |
+2018-06-05 13:19:25,992 C:     D:584.8GB M:6.6GB 320   INFO   : |           0 | gbtree    |                0.8 |   0     | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.9 | hist          |  8644.71 |     1048.84 |          6.9399  |   0.272904 |         185 |        0.943878 |             13 |          984 |       13 |             984 |          13 | PASSED       |     0.976857 |     1082.02  |  0.157517 |          |
+2018-06-05 13:19:25,994 C:     D:584.8GB M:6.6GB 320   INFO   : |           4 | gbtree    |                0.5 |   0.001 | lossguide     |       256 |                0 |           0 |           64 |           0 |            1 |                  1 |         0.7 | hist          |  8864.65 |     1500.28 |          7.33183 |   0.288316 |         135 |        0.688776 |             18 |          984 |       17 |             984 |          23 | PASSED       |     0.952621 |      749.388 |  0.330683 |          |
+2018-06-05 13:19:25,996 C:     D:584.8GB M:6.6GB 320   INFO   : |           2 | gbtree    |                0.7 |   0     | lossguide     |       256 |                0 |           0 |           16 |           0 |            1 |                  1 |         0.9 | hist          |  8943.2  |     1400.82 |          5.18426 |   0.203865 |         196 |        1        |             18 |         3514 |       17 |            3514 |          23 | PASSED       |     0.944254 |      272     |  0.392528 | *        |
+2018-06-05 13:19:25,999 C:     D:584.8GB M:6.6GB 320   INFO   : |           5 | gbtree    |                0.8 |   0     | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.9 | hist          |  8947.61 |     1270.97 |         10.5249  |   0.413878 |         156 |        0.795918 |             18 |          984 |       17 |             984 |          23 | PASSED       |     0.943789 |     1193.15  |  0.396    |          |
+2018-06-05 13:19:26,001 C:     D:584.8GB M:6.6GB 320   INFO   : |           6 | gbtree    |                0.8 |   0     | lossguide     |       256 |                0 |           0 |          256 |           0 |            1 |                  1 |         0.4 | hist          |  8978.55 |     1303.62 |         25.4299  |   1        |         107 |        0.545918 |             18 |          253 |       17 |             253 |          23 | PASSED       |     0.940536 |     2375.84  |  0.420362 |          |
+2018-06-05 13:19:26,003 C:     D:584.8GB M:6.6GB 320   INFO   : |           3 | gbtree    |                0.3 |   0.01  | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.4 | hist          |  9088.08 |     1247    |          6.31668 |   0.248396 |         193 |        0.984694 |             18 |          984 |       17 |             984 |          23 | PASSED       |     0.929201 |     1476.14  |  0.506598 |          |
+2018-06-05 13:19:26,005 C:     D:584.8GB M:6.6GB 320   INFO   : |           9 | gbtree    |                1   |   0.001 | depthwise     |       256 |                0 |          10 |            0 |           0 |            1 |                  1 |         0.8 | hist          |  9194.17 |     1233.41 |         18.4929  |   0.727212 |         110 |        0.561224 |             18 |           63 |       17 |              63 |          23 | PASSED       |     0.918479 |     3017.07  |  0.590132 |          |
+2018-06-05 13:19:26,007 C:     D:584.8GB M:6.6GB 320   INFO   : |           7 | gbtree    |                0.3 |   0.1   | lossguide     |       256 |                0 |           0 |          256 |           0 |            1 |                  1 |         1   | hist          |  9297.51 |     1416.49 |         22.9499  |   0.902478 |         121 |        0.617347 |             18 |          253 |       17 |             253 |          23 | PASSED       |     0.90827  |     2686.69  |  0.671496 |          |
+2018-06-05 13:19:26,008 C:     D:584.8GB M:6.6GB 320   INFO   : |           8 | gbtree    |                0.2 |   1     | depthwise     |       256 |                0 |          10 |            0 |           0 |            1 |                  1 |         0.9 | hist          |  9389.21 |     1294.36 |         18.0656  |   0.71041  |         161 |        0.821429 |             18 |           63 |       17 |              63 |          23 | PASSED       |     0.8994   |     4415.89  |  0.743693 |          |
+2018-06-05 13:19:26,011 C:     D:584.8GB M:6.6GB 320   INFO   : +-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+----------+-------------+------------------+------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------+--------------+-----------+----------+
+2018-06-05 13:19:26,015 C:     D:584.8GB M:6.6GB 320   INFO   : Best parameters:
+2018-06-05 13:19:26,017 C:     D:584.8GB M:6.6GB 320   INFO   : booster: gbtree
+2018-06-05 13:19:26,019 C:     D:584.8GB M:6.6GB 320   INFO   : tree_method: hist
+2018-06-05 13:19:26,021 C:     D:584.8GB M:6.6GB 320   INFO   : grow_policy: lossguide
+2018-06-05 13:19:26,023 C:     D:584.8GB M:6.6GB 320   INFO   : reg_alpha: 0
+2018-06-05 13:19:26,025 C:     D:584.8GB M:6.6GB 320   INFO   : reg_lambda: 1
+2018-06-05 13:19:26,027 C:     D:584.8GB M:6.6GB 320   INFO   : max_depth: 0
+2018-06-05 13:19:26,029 C:     D:584.8GB M:6.6GB 320   INFO   : max_leaves: 16
+2018-06-05 13:19:26,031 C:     D:584.8GB M:6.6GB 320   INFO   : colsample_bytree: 0.7
+2018-06-05 13:19:26,033 C:     D:584.8GB M:6.6GB 320   INFO   : subsample: 0.9
+2018-06-05 13:19:26,035 C:     D:584.8GB M:6.6GB 320   INFO   : max_bin: 256
+2018-06-05 13:19:26,037 C:     D:584.8GB M:6.6GB 320   INFO   : scale_pos_weight: 1.0
+2018-06-05 13:19:26,039 C:     D:584.8GB M:6.6GB 320   INFO   : max_delta_step: 0.0
+2018-06-05 13:19:26,040 C:     D:584.8GB M:6.6GB 320   INFO   : gamma: 0
+2018-06-05 13:19:26,042 C:     D:584.8GB M:6.6GB 320   INFO   : best_ntrees: 196
+2018-06-05 13:19:26,044 C:     D:584.8GB M:6.6GB 320   INFO   : best_ngenes: 17
+2018-06-05 13:19:26,046 C:     D:584.8GB M:6.6GB 320   INFO   : best_nfeatures: 23
+2018-06-05 13:19:26,052 C:     D:584.8GB M:6.6GB 320   INFO   : Model and feature tuning scores (RMSE, less is better):
+2018-06-05 13:19:26,054 C:     D:584.8GB M:6.6GB 320   INFO   : ['8444.7', '8644.7', '8864.6', '8943.2', '8947.6', '8978.5', '9088.1', '9194.2', '9297.5', '9389.2']
+2018-06-05 13:19:26,056 C:     D:584.8GB M:6.6GB 320   INFO   : Parameter tuning: end : Duration: 70.125 s
+2018-06-05 13:19:26,107 C:     D:584.8GB M:6.6GB 320   INFO   : Feature Evolution...
+2018-06-05 13:19:26,144 C:     D:584.8GB M:6.6GB 320   INFO   : 
+2018-06-05 13:19:26,147 C:     D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:26,149 C:     D:584.8GB M:6.6GB 320   INFO   : Starting Iteration: 6
+2018-06-05 13:19:26,151 C:     D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:26,728 C:     D:584.8GB M:6.6GB 320   INFO   : Engineering features.
+2018-06-05 13:19:27,424 C:█▄██ D:584.8GB M:6.9GB 320   INFO   : Ping from experiment vurumudu. CPU memory usage: 180.9MB, max: 553.1MB. GPU memory usage: 0B, max: 0B. [h2oai-vurumudu-AutoDL_feature_engineering_(iteration_6)-running-Engineering features-wait_for_completion]
+2018-06-05 13:19:41,374 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:19:41,379 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Scored 85/329 models on 385 features
+2018-06-05 13:19:41,390 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:19:41,393 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : ['8444.7', '8622.5', '8644.7', '8787.1']
+2018-06-05 13:19:41,396 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:19:41,398 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:19:41,400 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:19:41,404 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Starting Iteration: 7
+2018-06-05 13:19:41,407 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:19:41,910 C:▂▁▂▃ D:584.8GB M:6.8GB 320   INFO   : Engineering features.
+2018-06-05 13:19:59,188 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:19:59,197 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : Scored 93/329 models on 415 features
+2018-06-05 13:19:59,208 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:19:59,211 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : ['8444.7', '8580.2', '8644.7', '8886.3']
+2018-06-05 13:19:59,213 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:19:59,215 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : 
+2018-06-05 13:19:59,216 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:59,218 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : Starting Iteration: 8
+2018-06-05 13:19:59,220 C:▅▃▃▄ D:584.8GB M:6.6GB 320   INFO   : ============================================================================
+2018-06-05 13:19:59,939 C: ▁ ▇ D:584.8GB M:6.8GB 320   INFO   : Engineering features.
+2018-06-05 13:20:17,729 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:20:17,736 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Scored 101/329 models on 450 features
+2018-06-05 13:20:17,749 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:20:17,752 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : ['8444.7', '8580.2', '8831.5', '10129']
+2018-06-05 13:20:17,754 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:20:17,756 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:20:17,758 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:20:17,760 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Starting Iteration: 9
+2018-06-05 13:20:17,763 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:20:18,367 C:▄▂▃▄ D:584.8GB M:6.8GB 320   INFO   : Engineering features.
+2018-06-05 13:20:27,876 C:██ █ D:584.8GB M:6.7GB 320   INFO   : Ping from experiment vurumudu. CPU memory usage: 457.2MB, max: 553.1MB. GPU memory usage: 0B, max: 0B. [h2oai-vurumudu-AutoDL_feature_engineering_(iteration_9)-running-training_xgb_indiv_3_fold_1-wait_for_completion]
+2018-06-05 13:20:39,499 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:20:39,504 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : Scored 109/329 models on 480 features
+2018-06-05 13:20:39,517 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:20:39,520 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : ['8444.7', '8580.2', '8658', '8712.2']
+2018-06-05 13:20:39,523 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:20:39,526 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : 
+2018-06-05 13:20:39,529 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:20:39,531 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : Starting Iteration: 10
+2018-06-05 13:20:39,532 C:▁▃▁▃ D:584.8GB M:6.8GB 320   INFO   : ============================================================================
+2018-06-05 13:20:40,370 C:   ▇ D:584.8GB M:6.8GB 320   INFO   : Engineering features.
+2018-06-05 13:21:12,556 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:21:12,562 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : Scored 117/329 models on 528 features
+2018-06-05 13:21:12,576 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:21:12,578 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : ['8444.7', '8580.2', '8671', '8847.4']
+2018-06-05 13:21:12,580 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:21:12,586 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : 
+2018-06-05 13:21:12,588 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : ============================================================================
+2018-06-05 13:21:12,590 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : Starting Iteration: 11
+2018-06-05 13:21:12,592 C:▃▃▃▄ D:584.8GB M:6.7GB 320   INFO   : ============================================================================
+2018-06-05 13:21:13,225 C:  ▇  D:584.8GB M:6.7GB 320   INFO   : Engineering features.
+2018-06-05 13:21:28,561 C: █ █ D:584.8GB M:6.4GB 320   INFO   : Ping from experiment vurumudu. GPU memory usage: 0B, max: 0B. [h2oai-vurumudu-AutoDL_feature_engineering_(iteration_11)-running-scoring_xgb_indiv_2-wait_for_completion]
+2018-06-05 13:21:35,550 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Available space on file system containing temp dir: 584.8GB
+2018-06-05 13:21:35,556 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Scored 125/329 models on 581 features
+2018-06-05 13:21:35,570 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Scores (RMSE, less is better):
+2018-06-05 13:21:35,573 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : ['8444.7', '8671', '8887.4', '9043.8']
+2018-06-05 13:21:35,575 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-05 13:21:35,576 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Experiment has converged after 11 iteration(s). Last few scores: ['8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138', '8444.65138']
+2018-06-05 13:21:35,579 C:▃▅▃▃ D:584.8GB M:6.6GB 320   WARNING: Experiment was stopped early due to detected convergence (early stopping behavior depends on time knob settings).
+2018-06-05 13:21:35,613 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Exporting feature importances and descriptions to /tmp/h2oai_experiment_vurumudu/features.txt
+2018-06-05 13:21:35,628 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Exporting unfitted pipeline to /tmp/h2oai_experiment_vurumudu/unfitted_pipeline.pickle
+2018-06-05 13:21:35,662 C:▃▅▃▃ D:584.8GB M:6.6GB 320   INFO   : Training final scoring pipeline...
+2018-06-05 13:21:37,010 C:▆▅▅▅ D:584.8GB M:6.9GB 320   INFO   : Fitting feature pipeline for final ensemble.
+2018-06-05 13:21:37,883 C:▆▅▅▅ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 1/8 for ensemble.
+2018-06-05 13:21:38,781 C:▆▆▆▇ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 2/8 for ensemble.
+2018-06-05 13:21:39,678 C:▆▅▅▅ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 3/8 for ensemble.
+2018-06-05 13:21:40,588 C:▆▅▅▅ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 4/8 for ensemble.
+2018-06-05 13:21:41,505 C:▆▅▆▅ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 5/8 for ensemble.
+2018-06-05 13:21:42,447 C:▆▅▆▅ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 6/8 for ensemble.
+2018-06-05 13:21:43,301 C:▆▆▅▆ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 7/8 for ensemble.
+2018-06-05 13:21:44,271 C:▆▆▅▆ D:584.8GB M:6.9GB 320   INFO   : Fitted pipeline 8/8 for ensemble.
+2018-06-05 13:21:44,483 C:▆▆▇▃ D:584.8GB M:6.9GB 320   INFO   : Training 8 base learners for stacked ensemble (0 on GPU, 8 on CPU).
+2018-06-05 13:21:44,534 C:▆▆▇▃ D:584.8GB M:6.9GB 320   INFO   : Trained 1/8 ensemble base learners.
+2018-06-05 13:21:44,568 C:▆▆▇▃ D:584.8GB M:6.9GB 320   INFO   : Trained 2/8 ensemble base learners.
+2018-06-05 13:21:48,943 C:██▇▂ D:584.8GB M:6.8GB 320   INFO   : Trained 3/8 ensemble base learners.
+2018-06-05 13:21:49,739 C:██▇▂ D:584.8GB M:6.8GB 320   INFO   : Trained 4/8 ensemble base learners.
+2018-06-05 13:21:49,909 C:▆▆▅▆ D:584.8GB M:6.8GB 320   INFO   : Trained 5/8 ensemble base learners.
+2018-06-05 13:21:52,667 C:██ █ D:584.8GB M:6.8GB 320   INFO   : Trained 6/8 ensemble base learners.
+2018-06-05 13:21:54,551 C: ██  D:584.8GB M:6.8GB 320   INFO   : Trained 7/8 ensemble base learners.
+2018-06-05 13:21:59,115 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : Processing ensemble holdout predictions.
+2018-06-05 13:21:59,838 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : Training ensemble meta learner...
+2018-06-05 13:21:59,916 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : LinearBlenderEx: final weights = [0.500, 0.500] (arithmetic_mean)
+2018-06-05 13:21:59,922 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : Finished training ensemble meta learner.
+2018-06-05 13:21:59,924 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : Completed training of the final scoring pipeline
+2018-06-05 13:21:59,925 C:▂▇▆▂ D:584.8GB M:6.8GB 320   INFO   : Exporting fitted model to /tmp/h2oai_experiment_vurumudu/fitted_model.pickle
+2018-06-05 13:22:00,153 C:     D:584.8GB M:6.9GB 320   INFO   : Scoring final pipeline...
+2018-06-05 13:22:00,169 C:     D:584.8GB M:6.9GB 320   INFO   : Writing csv train set (holdout) predictions to /tmp/h2oai_experiment_vurumudu/train_preds.csv
+2018-06-05 13:22:00,180 C:     D:584.8GB M:6.9GB 320   INFO   : Writing binary holdout train set (holdout) predictions to /tmp/h2oai_experiment_vurumudu/train_preds.bin
+2018-06-05 13:22:01,351 C:     D:584.8GB M:6.9GB 320   INFO   : GINI valid score=0.904165 fold_sd=0.00955948 bootstrap_sd=0.0131823 sd=0.0131823
+2018-06-05 13:22:02,438 C: █   D:584.8GB M:7.0GB 320   INFO   : R2 valid score=0.563068 fold_sd=0.0513631 bootstrap_sd=0.0594632 sd=0.0594632
+2018-06-05 13:22:03,432 C: █   D:584.8GB M:7.0GB 320   INFO   : MSE valid score=7.31846e+07 fold_sd=2.11661e+07 bootstrap_sd=1.68472e+07 sd=2.11661e+07
+2018-06-05 13:22:04,474 C:     D:584.8GB M:7.0GB 320   INFO   : RMSLE valid score=0.856892 fold_sd=0.0306782 bootstrap_sd=0.0251116 sd=0.0306782
+2018-06-05 13:22:05,416 C:     D:584.8GB M:7.0GB 320   INFO   : RMSPE valid score=5.01447 fold_sd=3.80239 bootstrap_sd=2.33553 sd=3.80239
+2018-06-05 13:22:06,410 C:     D:584.8GB M:7.0GB 320   INFO   : MAE valid score=2945.17 fold_sd=201.999 bootstrap_sd=239.019 sd=239.019
+2018-06-05 13:22:07,390 C:     D:584.8GB M:7.0GB 320   INFO   : MER valid score=47.6775 fold_sd=1.66795 bootstrap_sd=1.80443 sd=1.80443
+2018-06-05 13:22:08,344 C:     D:584.8GB M:7.0GB 320   INFO   : MAPE valid score=123.357 fold_sd=20.9154 bootstrap_sd=15.9279 sd=20.9154
+2018-06-05 13:22:09,334 C:     D:584.8GB M:7.0GB 320   INFO   : SMAPE valid score=56.9966 fold_sd=1.36548 bootstrap_sd=1.30956 sd=1.36548
+2018-06-05 13:22:10,534 C:     D:584.8GB M:7.0GB 320   INFO   : RMSE valid score=8418.99 fold_sd=1161.35 bootstrap_sd=964.812 sd=1161.35
+2018-06-05 13:22:10,551 C:     D:584.8GB M:7.0GB 320   INFO   : Validation scores (internal holdout) +/- stddev across folds:
+2018-06-05 13:22:10,554 C:     D:584.8GB M:7.0GB 320   INFO   :                    GINI                    R2                        MSE  \
+2018-06-05 13:22:10,556 C:     D:584.8GB M:7.0GB 320   INFO   : 0  0.89075 +/- 0.016463  0.49632 +/- 0.043308  6.5511e+07 +/- 1.2111e+07   
+2018-06-05 13:22:10,560 C:     D:584.8GB M:7.0GB 320   INFO   : 1  0.90601 +/- 0.012496  0.63237 +/- 0.061829  5.8149e+07 +/- 1.7327e+07   
+2018-06-05 13:22:10,562 C:     D:584.8GB M:7.0GB 320   INFO   : 2  0.90236 +/- 0.013409   0.5872 +/- 0.057265  5.9547e+07 +/- 1.3783e+07   
+2018-06-05 13:22:10,564 C:     D:584.8GB M:7.0GB 320   INFO   : 3   0.91754 +/- 0.01036  0.53638 +/- 0.075451  1.0953e+08 +/- 2.4168e+07   
+2018-06-05 13:22:10,566 C:     D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:10,568 C:     D:584.8GB M:7.0GB 320   INFO   :                   RMSLE               RMSPE                MAE  \
+2018-06-05 13:22:10,570 C:     D:584.8GB M:7.0GB 320   INFO   : 0   0.8839 +/- 0.021608  3.8727 +/- 0.77674  2816.3 +/- 210.22   
+2018-06-05 13:22:10,572 C:     D:584.8GB M:7.0GB 320   INFO   : 1  0.81076 +/- 0.025279  2.5714 +/- 0.52593  2778.3 +/- 232.53   
+2018-06-05 13:22:10,575 C:     D:584.8GB M:7.0GB 320   INFO   : 2  0.84743 +/- 0.023655  2.1092 +/- 0.17555  2899.4 +/- 238.04   
+2018-06-05 13:22:10,578 C:     D:584.8GB M:7.0GB 320   INFO   : 3  0.88548 +/- 0.029905   11.504 +/- 7.8639  3286.7 +/- 275.29   
+2018-06-05 13:22:10,580 C:     D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:10,582 C:     D:584.8GB M:7.0GB 320   INFO   :                  MER               MAPE              SMAPE               RMSE  
+2018-06-05 13:22:10,585 C:     D:584.8GB M:7.0GB 320   INFO   : 0       47 +/- 1.933   128.3 +/- 9.3275  57.592 +/- 1.1722  8060.1 +/- 739.11  
+2018-06-05 13:22:10,586 C:     D:584.8GB M:7.0GB 320   INFO   : 1    45.4 +/- 1.6393   102.8 +/- 7.5331    54.64 +/- 1.287  7547.4 +/- 1088.8  
+2018-06-05 13:22:10,588 C:     D:584.8GB M:7.0GB 320   INFO   : 2  49.902 +/- 1.3842  106.86 +/- 6.5272  57.904 +/- 1.4012    7665 +/- 891.28  
+2018-06-05 13:22:10,591 C:     D:584.8GB M:7.0GB 320   INFO   : 3  48.408 +/- 2.2612  155.46 +/- 40.324   57.85 +/- 1.3779     10403 +/- 1140  
+2018-06-05 13:22:10,594 C:     D:584.8GB M:7.0GB 320   INFO   : =============================================================================================
+2018-06-05 13:22:10,597 C:     D:584.8GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:10,599 C:     D:584.8GB M:7.0GB 320   INFO   : Final validation scores (internal holdout) +/- stddev:
+2018-06-05 13:22:10,601 C:     D:584.8GB M:7.0GB 320   INFO   :                   GINI = 0.90417 +/- 0.013182 (more is better)
+2018-06-05 13:22:10,603 C:     D:584.8GB M:7.0GB 320   INFO   :                     R2 = 0.56307 +/- 0.059463 (more is better)
+2018-06-05 13:22:10,605 C:     D:584.8GB M:7.0GB 320   INFO   :                    MSE = 7.3185e+07 +/- 2.1166e+07 (less is better)
+2018-06-05 13:22:10,607 C:     D:584.8GB M:7.0GB 320   INFO   :                  RMSLE = 0.85689 +/- 0.030678 (less is better)
+2018-06-05 13:22:10,614 C:     D:584.8GB M:7.0GB 320   INFO   :                  RMSPE = 5.0145 +/- 3.8024 (less is better)
+2018-06-05 13:22:10,617 C:     D:584.8GB M:7.0GB 320   INFO   :                    MAE = 2945.2 +/- 239.02 (less is better)
+2018-06-05 13:22:10,620 C:     D:584.8GB M:7.0GB 320   INFO   :                    MER = 47.678 +/- 1.8044 (less is better)
+2018-06-05 13:22:10,622 C:     D:584.8GB M:7.0GB 320   INFO   :                   MAPE = 123.36 +/- 20.915 (less is better)
+2018-06-05 13:22:10,624 C:     D:584.8GB M:7.0GB 320   INFO   :                  SMAPE = 56.997 +/- 1.3655 (less is better)
+2018-06-05 13:22:10,627 C:     D:584.8GB M:7.0GB 320   INFO   :        optimized: RMSE = 8419 +/- 1161.4 (less is better)
+2018-06-05 13:22:10,630 C:     D:584.8GB M:7.0GB 320   INFO   : =============================================================================================
+2018-06-05 13:22:10,686 C:     D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/genes_summary0/#Experiment: vurumudu, 2018-06-05 13:22, num_folds=4, epochs=36 @@@ #Genes in Best Indiv #0: oCols=14 nCols=13 active_len=13 | Gene-Time Count | Times (min|max|mean|median|std) | Gene-Gain Count | Gains (min|max|mean|median|std) @@@            cv_target_encode_single_transformer             1.000     0.247 0.382 0.322 0.330 0.059             0.667     543757.250 1165436.750 894770.646 956516.875 274057.952 @@@                             filter_transformer            12.000     0.052 0.131 0.087 0.085 0.019            13.333     274951.250 23435725.000 4406441.780 3199870.000 4289254.827|AutoDL features summary 0|
+2018-06-05 13:22:10,688 C:     D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/genes_summary1/#Experiment: vurumudu, 2018-06-05 13:22, num_folds=4, epochs=36 @@@ #Genes left in Indiv #1: oCols=14 nCols=19 active_len=14 | Gene-Time Count | Times (min|max|mean|median|std) | Gene-Gain Count | Gains (min|max|mean|median|std) @@@       num_cat_target_encode_single_transformer             2.000     0.274 0.378 0.329 0.329 0.032             0.056     283308.750 10417732.500 5350520.625 5350520.625 5067211.875 @@@    num_to_cat_target_encode_single_transformer             2.000     0.202 0.445 0.284 0.270 0.072             0.056     2649140.000 7713285.000 5181212.500 5181212.500 2532072.500 @@@                  bulk_interactions_transformer             1.000     0.096 0.123 0.109 0.108 0.012             0.028     2053080.000 2053080.000 2053080.000 2053080.000 0.000 @@@                      trunc_svd_num_transformer             1.000     0.143 0.178 0.162 0.163 0.013             0.056     1854027.500 2340145.000 2097086.250 2097086.250 243058.750 @@@                  cv_cat_num_encode_transformer             1.000     0.944 1.120 1.061 1.090 0.070             0.139     248315.500 606839.500 408002.250 462638.750 138799.144|AutoDL features summary 1|
+2018-06-05 13:22:10,692 C:     D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/genes_summary2/#Experiment: vurumudu, 2018-06-05 13:22, num_folds=4, epochs=36 @@@ #Genes left in Indiv #2: oCols=14 nCols=30 active_len=10 | Gene-Time Count | Times (min|max|mean|median|std) | Gene-Gain Count | Gains (min|max|mean|median|std) @@@                       cluster_dist_transformer             3.000     0.182 0.360 0.231 0.222 0.050             5.611     182956.225 5078280.000 1588225.438 1214920.125 1173724.446 @@@       num_cat_target_encode_single_transformer             1.000     0.264 0.504 0.398 0.412 0.088             0.111     4269532.500 7079925.000 6377326.875 7079925.000 1216935.650 @@@                      trunc_svd_num_transformer             1.000     0.099 0.130 0.113 0.111 0.012             0.111     5562327.500 7195200.000 5970545.625 5562327.500 707054.533 @@@    cluster_id_target_encode_single_transformer             1.000     0.299 0.380 0.344 0.348 0.032             0.028     1478506.250 1478506.250 1478506.250 1478506.250 0.000|AutoDL features summary 2|
+2018-06-05 13:22:10,695 C:     D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/genes_summary3/#Experiment: vurumudu, 2018-06-05 13:22, num_folds=4, epochs=36 @@@ #Genes left in Indiv #3: oCols=14 nCols=32 active_len=16 | Gene-Time Count | Times (min|max|mean|median|std) | Gene-Gain Count | Gains (min|max|mean|median|std) @@@       num_cat_target_encode_single_transformer             1.000     0.188 0.321 0.246 0.238 0.059             0.083     1083130.250 1083130.250 1083130.250 1083130.250 0.000 @@@                  cv_cat_num_encode_transformer             2.000     0.507 1.418 0.921 0.846 0.367             0.611     0.000 435590.000 213566.486 237532.750 149819.781|AutoDL features summary 3|
+2018-06-05 13:22:10,698 C:     D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/genes_summary4/#Experiment: vurumudu, 2018-06-05 13:22, num_folds=4, epochs=36 @@@ #Genes not in Final Population                | Gene-Time Count | Times (min|max|mean|median|std) | Gene-Gain Count | Gains (min|max|mean|median|std) @@@            cv_target_encode_single_transformer             7.000     0.154 0.366 0.232 0.224 0.051             0.750     499592.500 2068427.500 1183762.500 1201686.750 585259.604 @@@       num_cat_target_encode_single_transformer             5.000     0.287 0.774 0.426 0.408 0.127             0.278     1182272.500 8490917.500 4404959.500 2613250.000 3100966.200 @@@    cluster_id_target_encode_single_transformer             5.000     0.262 0.641 0.441 0.459 0.099             0.444     924264.250 15431575.000 4043877.250 1536807.500 4609386.252 @@@                       cluster_dist_transformer             6.000     0.132 0.532 0.244 0.209 0.114             2.444     245626.000 3912577.500 1074542.878 876304.750 836953.249 @@@                  bulk_interactions_transformer             4.000     0.070 0.212 0.131 0.132 0.039             0.222     438595.000 1654370.000 1069374.656 1078064.000 430901.425 @@@                           frequent_transformer             2.000     0.097 0.170 0.137 0.133 0.028             0.278     14000.132 159084.600 130067.706 159084.600 58033.787 @@@                  cv_cat_num_encode_transformer             4.000     0.474 1.071 0.771 0.717 0.168             1.444     0.000 539571.500 186657.502 163755.925 171628.296 @@@    num_to_cat_target_encode_single_transformer             3.000     0.220 0.490 0.309 0.285 0.080             0.167     1432695.000 5002352.500 2930678.333 2356987.500 1512713.797 @@@                      trunc_svd_num_transformer             1.000     0.137 0.322 0.239 0.249 0.066             0.056     1352710.750 1352710.750 1352710.750 1352710.750 0.000|AutoDL features summary 4|
+2018-06-05 13:22:10,705 C:     D:584.8GB M:7.0GB 320   INFO   : Building scoring pipeline...
+2018-06-05 13:22:10,715 C:     D:584.8GB M:7.0GB 320   INFO   : Creating scoring pipeline named scoring_h2oai_experiment_vurumudu
+2018-06-05 13:22:10,727 C:     D:584.8GB M:7.0GB 320   INFO   : Creating thrift IDL...
+2018-06-05 13:22:10,735 C:     D:584.8GB M:7.0GB 320   INFO   : Collecting wheels...
+2018-06-05 13:22:10,738 C:     D:584.8GB M:7.0GB 320   INFO   : Writing requirements.txt...
+2018-06-05 13:22:10,744 C:     D:584.8GB M:7.0GB 320   INFO   : Writing example.py...
+2018-06-05 13:22:10,750 C:     D:584.8GB M:7.0GB 320   INFO   : Writing http_server.py...
+2018-06-05 13:22:10,754 C:     D:584.8GB M:7.0GB 320   INFO   : Writing tcp_server.py...
+2018-06-05 13:22:10,759 C:     D:584.8GB M:7.0GB 320   INFO   : Writing setup.py...
+2018-06-05 13:22:10,765 C:     D:584.8GB M:7.0GB 320   INFO   : Writing example_client.py
+2018-06-05 13:22:10,770 C:     D:584.8GB M:7.0GB 320   INFO   : Writing run_http_client.sh
+2018-06-05 13:22:10,776 C:     D:584.8GB M:7.0GB 320   INFO   : Building scoring wheel...
+2018-06-05 13:22:29,153 C:     D:584.7GB M:7.0GB 320   INFO   : Ping from experiment vurumudu. CPU memory usage: 114.4MB, max: 576.9MB. GPU memory usage: 0B, max: 0B. [h2oai-vurumudu-create_scoring_pipelines-running]
+2018-06-05 13:22:39,937 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Scoring wheel build completed successfully in 29.222 seconds.
+2018-06-05 13:22:39,942 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Finished building scoring pipeline
+2018-06-05 13:22:39,954 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:39,956 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : ==============================================================================================
+2018-06-05 13:22:39,958 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Experiment vurumudu FINISHED
+2018-06-05 13:22:39,959 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : ==============================================================================================
+2018-06-05 13:22:39,961 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:39,963 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:39,966 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Number of features created: 581
+2018-06-05 13:22:39,968 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Number of model and feature tuning iterations: 3
+2018-06-05 13:22:39,970 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Number of feature evolution iterations: 5
+2018-06-05 13:22:39,971 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Number of models trained
+2018-06-05 13:22:39,973 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Backend tuning: 1
+2018-06-05 13:22:39,974 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Target transform tuning: 40
+2018-06-05 13:22:39,976 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Model and feature tuning: 36
+2018-06-05 13:22:39,977 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Feature pre-pruning: 0
+2018-06-05 13:22:39,979 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Feature evolution: 48
+2018-06-05 13:22:39,982 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Final pipeline: 8
+2018-06-05 13:22:39,984 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:39,986 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Collecting system info during process shutdown
+/bin/sh: 1: nvidia-smi: not found
+2018-06-05 13:22:40,050 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Experiment: vurumudu, 2018-06-05 13:22, 1.1.3
+2018-06-05 13:22:40,052 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Settings: 6/3/3, seed=1058615181, GPUs disabled
+2018-06-05 13:22:40,054 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Train data: [XXXXX] (4408, 14)
+2018-06-05 13:22:40,056 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Validation data: N/A
+2018-06-05 13:22:40,058 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Test data: N/A
+2018-06-05 13:22:40,059 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Target column: [XXXXX] (regression, sqrt-transformed)
+2018-06-05 13:22:40,061 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : System specs: Docker/Darwin, 8 GB, 4 CPU cores, 0/0 GPU
+2018-06-05 13:22:40,064 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Max memory usage: 0.563 GB, 0 GB GPU
+2018-06-05 13:22:40,067 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Recipe: AutoDL (11 iterations, 4 individuals)
+2018-06-05 13:22:40,068 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Validation scheme: random, 4 internal holdouts (4-fold CV)
+2018-06-05 13:22:40,070 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Feature engineering: 581 features tested (13 selected)
+2018-06-05 13:22:40,072 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Timing:
+2018-06-05 13:22:40,074 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Data preparation: 2.60 secs
+2018-06-05 13:22:40,076 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Model and feature tuning: 117.34 secs (77 models trained)
+2018-06-05 13:22:40,077 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Feature evolution: 129.47 secs (48 of 248 models trained)
+2018-06-05 13:22:40,079 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :   Final pipeline training: 35.08 secs (8 models trained)
+2018-06-05 13:22:40,082 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Validation score: RMSE = 8479.9 +/- 1400.8 (baseline)
+2018-06-05 13:22:40,085 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Validation score: RMSE = 8419 +/- 1161.4 (final pipeline)
+2018-06-05 13:22:40,087 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Test score:       RMSE = N/A
+2018-06-05 13:22:40,089 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:40,091 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:40,092 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Final validation scores (internal holdout) +/- stddev:
+2018-06-05 13:22:40,094 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                   GINI = 0.90417 +/- 0.013182 (more is better)
+2018-06-05 13:22:40,096 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                     R2 = 0.56307 +/- 0.059463 (more is better)
+2018-06-05 13:22:40,099 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                    MSE = 7.3185e+07 +/- 2.1166e+07 (less is better)
+2018-06-05 13:22:40,101 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                  RMSLE = 0.85689 +/- 0.030678 (less is better)
+2018-06-05 13:22:40,103 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                  RMSPE = 5.0145 +/- 3.8024 (less is better)
+2018-06-05 13:22:40,105 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                    MAE = 2945.2 +/- 239.02 (less is better)
+2018-06-05 13:22:40,106 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                    MER = 47.678 +/- 1.8044 (less is better)
+2018-06-05 13:22:40,108 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                   MAPE = 123.36 +/- 20.915 (less is better)
+2018-06-05 13:22:40,110 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :                  SMAPE = 56.997 +/- 1.3655 (less is better)
+2018-06-05 13:22:40,111 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   :        optimized: RMSE = 8419 +/- 1161.4 (less is better)
+2018-06-05 13:22:40,113 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : 
+2018-06-05 13:22:40,116 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : [usage] |/autodl/results/experiment_summary/Experiment: vurumudu, 2018-06-05 13:22, 1.1.3 @@@   Settings: 6/3/3, seed=1058615181, GPUs disabled @@@   Train data: [XXXXX] (4408, 14) @@@   Validation data: N/A @@@   Test data: N/A @@@   Target column: [XXXXX] (regression, sqrt-transformed) @@@ System specs: Docker/Darwin, 8 GB, 4 CPU cores, 0/0 GPU @@@   Max memory usage: 0.563 GB, 0 GB GPU @@@ Recipe: AutoDL (11 iterations, 4 individuals) @@@   Validation scheme: random, 4 internal holdouts (4-fold CV) @@@   Feature engineering: 581 features tested (13 selected) @@@ Timing: @@@   Data preparation: 2.60 secs @@@   Model and feature tuning: 117.34 secs (77 models trained) @@@   Feature evolution: 129.47 secs (48 of 248 models trained) @@@   Final pipeline training: 35.08 secs (8 models trained) @@@ Validation score: RMSE = 8479.9 +/- 1400.8 (baseline) @@@ Validation score: RMSE = 8419 +/- 1161.4 (final pipeline) @@@ Test score:       RMSE = N/A @@@  @@@ Final validation scores (internal holdout) +/- stddev: @@@                   GINI = 0.90417 +/- 0.013182 (more is better) @@@                     R2 = 0.56307 +/- 0.059463 (more is better) @@@                    MSE = 7.3185e+07 +/- 2.1166e+07 (less is better) @@@                  RMSLE = 0.85689 +/- 0.030678 (less is better) @@@                  RMSPE = 5.0145 +/- 3.8024 (less is better) @@@                    MAE = 2945.2 +/- 239.02 (less is better) @@@                    MER = 47.678 +/- 1.8044 (less is better) @@@                   MAPE = 123.36 +/- 20.915 (less is better) @@@                  SMAPE = 56.997 +/- 1.3655 (less is better) @@@        optimized: RMSE = 8419 +/- 1161.4 (less is better) @@@ |AutoDL experiment summary|
+2018-06-05 13:22:40,118 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Collecting logs
+2018-06-05 13:22:40,123 C:▁▃▁  D:584.7GB M:7.0GB 320   INFO   : Archiving experiment summary to /./tmp/h2oai_experiment_vurumudu/h2oai_experiment_summary_vurumudu.zip
+2018-06-05 13:22:40,589 C:▁▁ ▁ D:584.7GB M:7.0GB 320   INFO   : Archiving logs to /./tmp/h2oai_experiment_vurumudu/h2oai_experiment_logs_vurumudu.zip
+2018-06-05 13:22:47,091 C:     D:584.7GB M:7.0GB 320   INFO   : Deleting temporary files
+2018-06-05 13:22:52,448 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/stats/iter_num/11|AutoDL number of evaluated iterations|
+2018-06-05 13:22:52,455 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL number of evaluated iterations|H2O.ai|11|
+2018-06-05 13:22:52,457 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/results/valid/rmse/8418.990|AutoDL valid result RMSE|
+2018-06-05 13:22:52,459 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL valid result RMSE|H2O.ai|8418989|
+2018-06-05 13:22:52,460 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/stopped|AutoDL stopped|
+2018-06-05 13:22:52,461 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL stopped|H2O.ai|326|
+2018-06-05 13:22:52,463 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/stats/time_in_s/326|AutoDL time in seconds|
+2018-06-05 13:22:52,465 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL time in seconds|H2O.ai|326|
+2018-06-05 13:22:52,467 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [usage] |/autodl/success|AutoDL success|
+2018-06-05 13:22:52,468 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : [event] |AutoDL|AutoDL success|H2O.ai|326|
+2018-06-05 13:22:53,248 C:▁▁▁  D:584.8GB M:7.0GB 320   INFO   : Returning from experiment vurumudu after 327 seconds.
+2018-06-05 13:22:56,515 C:▆ ▄▂ D:584.8GB M:7.1GB 1922  INFO   : Creating MOJO pipeline in '/./tmp/h2oai_experiment_vurumudu/mojo_pipeline'...
+2018-06-05 13:22:56,523 C:▆ ▄▂ D:584.8GB M:7.1GB 1922  INFO   : Building MOJO runtime environment...
+2018-06-05 13:22:56,567 C:▆ ▄▂ D:584.8GB M:7.1GB 1922  INFO   : Building MOJO...
+2018-06-05 13:22:56,571 C:▆ ▄▂ D:584.8GB M:7.1GB 1922  INFO   : Going into subprocess...
+2018-06-05 13:22:58,025 C:     D:584.8GB M:7.1GB 1922  INFO   : Assembling MOJO pipeline...
+2018-06-05 13:22:58,320 C:     D:584.8GB M:7.1GB 1922  INFO   : MOJO pipeline build completed successfully in 1.8073 seconds.
+2018-06-05 13:23:03,270 C:     D:584.8GB M:7.1GB 7     INFO   : [usage] |/app/event/download_mojo_pipeline|App event download_mojo_pipeline|
+2018-06-05 13:26:21,416 C:     D:584.5GB M:7.0GB 7     INFO   : Stopping server
+2018-06-05 13:26:21,422 C:     D:584.5GB M:7.0GB 7     INFO   : Will shutdown in 1 seconds ...
+2018-06-05 13:26:21,424 C:     D:584.5GB M:7.0GB 7     INFO   : Exit...
