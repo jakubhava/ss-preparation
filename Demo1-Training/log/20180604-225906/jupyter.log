@@ -1,0 +1,26 @@
+config:
+    /jupyter/.jupyter
+    /h2oai_env/etc/jupyter
+    /usr/local/etc/jupyter
+    /etc/jupyter
+data:
+    /jupyter/.local/share/jupyter
+    /h2oai_env/share/jupyter
+    /usr/local/share/jupyter
+    /usr/share/jupyter
+runtime:
+    /jupyter/.local/share/jupyter/runtime
+[I 22:59:08.761 NotebookApp] Writing notebook server cookie secret to /jupyter/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 22:59:09.091 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 22:59:09.101 NotebookApp] Serving notebooks from local directory: /jupyter
+[I 22:59:09.102 NotebookApp] 0 active kernels
+[I 22:59:09.102 NotebookApp] The Jupyter Notebook is running at:
+[I 22:59:09.103 NotebookApp] http://4ad86767c688:8888/?token=c28d792edcd9311677608aa680246985a04a25296d754c25
+[I 22:59:09.103 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:59:09.104 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://4ad86767c688:8888/?token=c28d792edcd9311677608aa680246985a04a25296d754c25&token=c28d792edcd9311677608aa680246985a04a25296d754c25
+[I 23:00:13.112 NotebookApp] Interrupted...
+[I 23:00:13.114 NotebookApp] Shutting down 0 kernels

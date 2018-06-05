@@ -1,0 +1,871 @@
+2018-06-04 23:01:33,653 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,655 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   :      __ _____  ____        _    H2O.ai 1.1.3 (build 18)
+2018-06-04 23:01:33,657 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   :     / // /_  |/ __ \ ___ _(_)   
+2018-06-04 23:01:33,662 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   :    / _  / __// /_/ // _ `/ /    IP   : 127.0.0.1
+2018-06-04 23:01:33,665 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   :   /_//_/____/\____(_)_,_/_/     Port : 12345
+2018-06-04 23:01:33,667 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   :                                 PID  : 7
+2018-06-04 23:01:33,669 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,670 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : App Version            : 1.1.3
+2018-06-04 23:01:33,672 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : App Build              : 18
+2018-06-04 23:01:33,673 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : App Address            : http://127.0.0.1:12345
+2018-06-04 23:01:33,675 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Auth Enabled           : True
+2018-06-04 23:01:33,678 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Python Version         : 3.6.4
+2018-06-04 23:01:33,680 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Python Implementation  : CPython
+2018-06-04 23:01:33,683 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Python Compiler        : GCC 5.4.0 20160609
+2018-06-04 23:01:33,685 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Python Build Number    : default
+2018-06-04 23:01:33,686 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Python Build Date      : Mar  7 2018 22:23:19
+2018-06-04 23:01:33,687 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Procsy Address         : http://127.0.0.1:8080
+2018-06-04 23:01:33,689 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : H2O Address            : http://127.0.0.1:54321
+2018-06-04 23:01:33,690 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Docker                 : True
+2018-06-04 23:01:33,693 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Docker Host System     : Darwin
+2018-06-04 23:01:33,695 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : System                 : Linux
+2018-06-04 23:01:33,697 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Node                   : c6ce7d0637d6
+2018-06-04 23:01:33,699 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Release                : 4.9.87-linuxkit-aufs
+2018-06-04 23:01:33,701 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Version                : #1 SMP Wed Mar 14 15:12:16 UTC 2018
+2018-06-04 23:01:33,702 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Machine                : x86_64
+2018-06-04 23:01:33,704 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Processor              : x86_64
+2018-06-04 23:01:33,705 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,709 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : License manager initialized
+2018-06-04 23:01:33,712 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,714 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Checking whether we have a valid license...
+2018-06-04 23:01:33,717 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : No Cloud provider found
+2018-06-04 23:01:33,719 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : Read License from file as it was invalidated from environment
+2018-06-04 23:01:33,722 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : License file exists (/license/license.sig)
+2018-06-04 23:01:33,733 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : 
+2018-06-04 23:01:33,735 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : license_version:1
+2018-06-04 23:01:33,737 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : serial_number:26
+2018-06-04 23:01:33,738 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : licensee_organization:H2O.ai
+2018-06-04 23:01:33,739 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : licensee_email:magnus@h2o.ai
+2018-06-04 23:01:33,740 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : licensee_user_id:26
+2018-06-04 23:01:33,744 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : is_h2o_internal_use:true
+2018-06-04 23:01:33,747 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : created_by_email:magnus@h2o.ai
+2018-06-04 23:01:33,749 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : creation_date:2017/12/22
+2018-06-04 23:01:33,751 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : product:DriverlessAI
+2018-06-04 23:01:33,753 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : license_type:developer
+2018-06-04 23:01:33,754 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : expiration_date:2018/07/01
+2018-06-04 23:01:33,755 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : 
+2018-06-04 23:01:33,760 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : License is valid
+2018-06-04 23:01:33,763 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,767 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : [usage] |/license/stats/expiration_date/2018-07-01|License expiration date|
+2018-06-04 23:01:33,769 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : [usage] |/license/valid|License valid|
+2018-06-04 23:01:33,771 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : [event] |License|License valid|H2O.ai|0|
+2018-06-04 23:01:33,772 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,773 C:▃▄▃▇ D:590.6GB M:7.4GB 7     INFO   : [usage] |/version/1.1.3|Software version|
+2018-06-04 23:01:33,780 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/host/memory_in_gb/8|Host memory in GB|
+2018-06-04 23:01:33,786 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Host memory in GB|H2O.ai|8|
+2018-06-04 23:01:33,788 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/host/num_cpus/4|Number of CPUs|
+2018-06-04 23:01:33,789 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Number of CPUs|H2O.ai|4|
+2018-06-04 23:01:33,790 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/gpu/present/false|Whether GPUs are present|
+2018-06-04 23:01:33,794 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Whether GPUs are present|H2O.ai|0|
+2018-06-04 23:01:33,797 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/gpu/num_gpus/0|Number of GPUs|
+2018-06-04 23:01:33,799 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Number of GPUs|H2O.ai|0|
+2018-06-04 23:01:33,802 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/gpu/memory_in_gb/0|GPU memory in GB|
+2018-06-04 23:01:33,803 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|GPU memory in GB|H2O.ai|0|
+2018-06-04 23:01:33,804 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/gpu/gpu_type/0|Type of GPUs if present|
+2018-06-04 23:01:33,806 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/host/os/Linux|Host System|
+2018-06-04 23:01:33,807 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Host System|H2O.ai|Linux|
+2018-06-04 23:01:33,811 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/docker/True|Whether Docker is used|
+2018-06-04 23:01:33,813 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Whether Docker is used|H2O.ai|True|
+2018-06-04 23:01:33,816 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [usage] |/system/docker_host/Darwin|Docker Host System|
+2018-06-04 23:01:33,819 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : [event] |System|Docker Host System|H2O.ai|Darwin|
+2018-06-04 23:01:33,820 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,822 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : 
+
+PLEASE READ THIS H2O.AI DRIVERLESS AI EVALUATION AGREEMENT ('AGREEMENT') CAREFULLY BEFORE USING THE EVALUATION SOFTWARE OFFERED BY H2O.AI, INC. ('H2O.AI').  BY CLICKING THE 'AGREE' (OR SIMILAR) BUTTON ON AN ONLINE ORDER FORM, BY USING THE EVALUATION SOFTWARE IN ANY MANNER, OR BY SIGNING AN ORDER FORM WHICH REFERENCES THESE EVALUATION TERMS AND CONDITIONS (AS APPLICABLE) YOU OR THE ENTITY YOU REPRESENT ('LICENSEE') AGREE THAT YOU HAVE READ AND AGREE TO BE BOUND BY AND A PARTY TO THE TERMS AND CONDITIONS OF THIS AGREEMENT TO THE EXCLUSION OF ALL OTHER TERMS, YOU REPRESENT AND WARRANT THAT YOU ARE AUTHORIZED TO BIND LICENSEE.  IF THE TERMS OF THIS AGREEMENT ARE CONSIDERED AN OFFER, ACCEPTANCE IS EXPRESSLY LIMITED TO SUCH TERMS.
+
+H2O.AI DRIVERLESS AI EVALUATION AGREEMENT
+
+  WHEREAS, H2O.ai is willing to supply, within the protection of a confidential relationship, the software, services and related materials provided in connection with this Agreement (collectively, the 'Evaluation Software') to Licensee solely for internal evaluation purposes and not for any production use ('Evaluation');
+
+  NOW, THEREFORE, in consideration of the foregoing and the mutual covenants hereinafter set forth, the parties hereby agree as follows:
+      1. Use of Evaluation Software. Subject to the terms of this Agreement, H2O.ai hereby grants to Licensee a personal, nontransferable, nonsublicensable, nonexclusive, revocable license to access and use the Evaluation Software only in accordance with all documentation supplied by H2O.ai solely for Licensee's internal Evaluation purposes during the term of this Agreement. H2O.ai shall at all times retain all title to and ownership of the Evaluation Software and all intellectual property rights relating thereto. Licensee agrees to use the Evaluation Software only in the ordinary course of its Evaluation. Licensee shall not (and shall not allow any third party to): (a) decompile, disassemble, or otherwise reverse engineer any portion of the Evaluation Software; (b) remove, alter or obscure any product identification, copyright or other notices contained on or in the Evaluation Software; (c) disclose, provide, distribute, resell, lease, lend or allow access to the Evaluation Software to any third party; (d) use the Evaluation Software for timesharing or service bureau purposes, or otherwise for the benefit of any third party; (e) copy, modify, adapt or create a derivative work of any part of the Evaluation Software; (f) use the Evaluation Software in excess of any limitations provided by H2O.ai;(g) use the Evaluation Software to help develop any competitive product or service; (h) remove or export the Evaluation Software or any direct product thereof from the United States. H2O
+      2. Feedback. If Licensee proposes any modifications, derivatives, enhancements or improvements to the Evaluation Software ('Feedback'), then notwithstanding anything else, Licensee hereby grants H2O.ai a perpetual, irrevocable, royalty free, fully paid-up, sub-licensable, right and license to use, display, reproduce, distribute and otherwise fully exploit such Feedback for any purposes.
+      3. Warning. THE EVALUATION SOFTWARE MAY CONTAIN A ROUTINE THAT CAUSES THE EVALUATION SOFTWARE TO CEASE PROPER FUNCTIONING AFTER A CERTAIN PERIOD OF TIME. THIS MAY OCCUR BEFORE OR AFTER TERMINATION OF THE LICENSE, SO LICENSEE MUST BE PREPARED AT ALL TIMES AND MAY NOT RELY ON THE EVALUATION SOFTWARE
+      4. Warranty Disclaimer.  The parties acknowledge that the Evaluation Software are provided 'AS IS' and may not be functional on any machine or in any environment. H2O.AI DISCLAIMS ALL WARRANTIES RELATING TO THE EVALUATION SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AGAINST INFRINGEMENT OF THIRD-PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+      5. Limitation of Remedies and Damages. H2O.AI SHALL NOT BE RESPONSIBLE OR LIABLE TO THE OTHER PARTY WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY (A) FOR LOSS OR INACCURACY OF DATA OR COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY, (B) FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, RELIANCE, OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO LOSS OF REVENUES AND LOSS OF PROFITS, OR (C) FOR DAMAGES OF ANY KIND WHATSOEVER ARISING OUT OF THIS AGREEMENT IN EXCESS OF $100. H2O.AI SHALL NOT BE RESPONSIBLE FOR ANY MATTER BEYOND ITS REASONABLE CONTROL.
+      6. Nonassignability. Although fully assignable and transferable by H2O.ai, neither the rights nor the obligations arising under this Agreement are assignable or transferable by Licensee, and any such attempted assignment or transfer shall be void and without effect.
+      7. Controlling Law, Attorneys' Fees and Severability. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of laws provisions therein. In any action to enforce this Agreement the prevailing party will be entitled to costs and attorneys' fees. In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.
+      8. Entire Agreement. This Agreement constitutes the entire agreement between the parties pertaining to the subject matter hereof.  Any modifications of this Agreement must be in writing and signed by both parties.
+      9. Term; Termination. This Agreement shall become effective upon Licensee's first access to or use of the Evaluation Software ('Start Date'). This Agreement may be terminated by either party for any reason or no reason upon written notice to the other party, or immediately upon notice of any breach by Licensee of the provisions of this Agreement, and in any case will terminate twenty-one (21) days from the Start Date, unless extended by H2O.ai in writing.  Upon termination, the license granted hereunder will terminate and Licensee shall promptly cease accessing the Evaluation Software, and shall return any and all documents, notes and other materials regarding the Evaluation Software to H2O.ai, including, without limitation, all copies and extracts of the foregoing, but the terms of this Agreement will otherwise remain in effect.
+
+GDSVF&H\2472254.1
+
+
+
+2018-06-04 23:01:33,823 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,825 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Driverless AI Config Settings
+2018-06-04 23:01:33,829 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Modify config.toml or set DRIVERLESS_AI_<KEY>=<VALUE> to override (double-quote arrays)
+2018-06-04 23:01:33,831 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : 
+2018-06-04 23:01:33,834 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : process_server_ip                                  : 127.0.0.1 
+2018-06-04 23:01:33,836 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : process_server_port                                : 8080 
+2018-06-04 23:01:33,837 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : h2o_ip                                             : 127.0.0.1 
+2018-06-04 23:01:33,838 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : h2o_port                                           : 54321 
+2018-06-04 23:01:33,839 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : ip                                                 : 127.0.0.1 
+2018-06-04 23:01:33,841 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : port                                               : 12345 
+2018-06-04 23:01:33,844 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : data_directory                                     : ./tmp 
+2018-06-04 23:01:33,847 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : debug                                              : False 
+2018-06-04 23:01:33,849 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : enable_benchmark                                   : False 
+2018-06-04 23:01:33,851 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : enable_startup_checks                              : True 
+2018-06-04 23:01:33,853 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : usage_stats_opt_in                                 : False 
+2018-06-04 23:01:33,854 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : datatable_verbose_log                              : False 
+2018-06-04 23:01:33,855 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : make_python_scoring_pipeline                       : True 
+2018-06-04 23:01:33,856 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : make_mojo_scoring_pipeline                         : False 
+2018-06-04 23:01:33,859 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : authentication_method                              : unvalidated 
+2018-06-04 23:01:33,862 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : ldap_server                                        :  
+2018-06-04 23:01:33,864 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : ldap_port                                          :  
+2018-06-04 23:01:33,867 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : ldap_dc                                            :  
+2018-06-04 23:01:33,868 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : supported_file_types                               : ['csv', 'tsv', 'txt', 'dat', 'tgz', 'gz', 'zip', 'xz', 'xls', 'xlsx', 'nff', 'feather', 'bin', 'arff'] 
+2018-06-04 23:01:33,870 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : enabled_file_systems                               : ['file', 'hdfs', 's3'] 
+2018-06-04 23:01:33,871 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : do_not_log_list                                    : local_htpasswd_file, aws_access_key_id, aws_secret_access_key 
+2018-06-04 23:01:33,872 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_cores                                          : 0 
+2018-06-04 23:01:33,874 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : num_gpus                                           : 1 
+2018-06-04 23:01:33,875 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : gpu_id_start                                       : 0 
+2018-06-04 23:01:33,878 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_workers                                        : 1 
+2018-06-04 23:01:33,880 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : ping_period                                        : 60 
+2018-06-04 23:01:33,882 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : disk_limit_gb                                      : 5 
+2018-06-04 23:01:33,884 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : memory_limit_gb                                    : 5 
+2018-06-04 23:01:33,886 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : min_num_rows                                       : 100 
+2018-06-04 23:01:33,887 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : data_precision                                     : float64 
+2018-06-04 23:01:33,889 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : transformer_precision                              : auto 
+2018-06-04 23:01:33,890 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : missing_values                                     : ['', '?', 'None', 'nan', 'NA', 'N/A', 'inf', '-inf', '1.7976931348623157e+308', '-1.7976931348623157e+308'] 
+2018-06-04 23:01:33,894 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : statistical_threshold_data_size_small              : 100000 
+2018-06-04 23:01:33,896 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : statistical_threshold_data_size_large              : 100000000 
+2018-06-04 23:01:33,899 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_cols                                           : 10000 
+2018-06-04 23:01:33,901 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_fold_uniques                                   : 100000 
+2018-06-04 23:01:33,903 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : num_folds                                          : 3 
+2018-06-04 23:01:33,905 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : full_cv_accuracy_switch                            : 8 
+2018-06-04 23:01:33,906 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : num_ensemble_folds                                 : 5 
+2018-06-04 23:01:33,908 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : fold_reps                                          : 1 
+2018-06-04 23:01:33,911 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_int_as_cat_uniques                             : 100000 
+2018-06-04 23:01:33,913 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_num_classes                                    : 100 
+2018-06-04 23:01:33,916 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : early_stopping                                     : True 
+2018-06-04 23:01:33,918 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : string_col_as_text_threshold                       : 0.5 
+2018-06-04 23:01:33,920 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : monotonicity_constraints_interpretability_switch   : 7 
+2018-06-04 23:01:33,921 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : tune_target_transform_accuracy_switch              : 3 
+2018-06-04 23:01:33,922 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : tune_parameters_accuracy_switch                    : 3 
+2018-06-04 23:01:33,924 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : num_individuals                                    : 2 
+2018-06-04 23:01:33,926 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : black_list_transformers                            :  
+2018-06-04 23:01:33,933 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : black_list_genes                                   :  
+2018-06-04 23:01:33,935 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : glm_interpretability_switch                        : 10 
+2018-06-04 23:01:33,937 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : glm_interpretability_exclusive_switch              : 10 
+2018-06-04 23:01:33,938 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : glm_enable_exclusive                               : False 
+2018-06-04 23:01:33,939 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : time_series_recipe                                 : True 
+2018-06-04 23:01:33,940 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : check_distribution_shift                           : True 
+2018-06-04 23:01:33,944 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : max_nestimators                                    : 2000 
+2018-06-04 23:01:33,947 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : mli_fast_approx                                    : True 
+2018-06-04 23:01:33,950 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : mli_sample_above                                   : 100000 
+2018-06-04 23:01:33,952 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : mli_sample_size                                    : 100000 
+2018-06-04 23:01:33,954 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : mli_num_quantiles                                  : 10 
+2018-06-04 23:01:33,957 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : core_site_xml_path                                 :  
+2018-06-04 23:01:33,959 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : key_tab_path                                       :  
+2018-06-04 23:01:33,963 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : hdfs_auth_type                                     : noauth 
+2018-06-04 23:01:33,965 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : hdfs_app_principal_user                            :  
+2018-06-04 23:01:33,968 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : hdfs_app_login_user                                :  
+2018-06-04 23:01:33,971 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : hdfs_app_jvm_args                                  :  
+2018-06-04 23:01:33,972 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : hdfs_app_classpath                                 :  
+2018-06-04 23:01:33,973 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : aws_auth                                           : False 
+2018-06-04 23:01:33,980 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : gcs_path_to_service_account_json                   :  
+2018-06-04 23:01:33,983 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : 
+2018-06-04 23:01:33,985 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:33,987 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Environment Variables                                            
+2018-06-04 23:01:33,988 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :                                                                  
+2018-06-04 23:01:33,990 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CUDNN_VERSION               : 5.1.10 
+2018-06-04 23:01:33,991 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : HOSTNAME                    : c6ce7d0637d6 
+2018-06-04 23:01:33,995 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : NVIDIA_REQUIRE_CUDA         : cuda>=8.0 
+2018-06-04 23:01:33,998 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : TERM                        : xterm 
+2018-06-04 23:01:34,000 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : DISABLETRACE                : 0 
+2018-06-04 23:01:34,002 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : LLVM4                       : /opt/clang 
+2018-06-04 23:01:34,003 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : NVIDIA_VISIBLE_DEVICES      : all 
+2018-06-04 23:01:34,004 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : LD_LIBRARY_PATH             : /usr/local/cuda/lib64:/opt/clang/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64 
+2018-06-04 23:01:34,005 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : NVIDIA_DRIVER_CAPABILITIES  : compute,utility 
+2018-06-04 23:01:34,007 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : VIRTUAL_ENV                 : /h2oai_env 
+2018-06-04 23:01:34,009 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : PATH                        : /h2oai_env/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin 
+2018-06-04 23:01:34,013 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : PWD                         : / 
+2018-06-04 23:01:34,016 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : JAVA_HOME                   : /opt/java 
+2018-06-04 23:01:34,018 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : LANG                        : en_US.utf8 
+2018-06-04 23:01:34,021 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CUDA_PKG_VERSION            : 8-0=8.0.61-1 
+2018-06-04 23:01:34,022 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : PS1                         : (h2oai_env)  
+2018-06-04 23:01:34,024 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : LLVM_CONFIG                 : /opt/clang/llvm-config 
+2018-06-04 23:01:34,028 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CUDA_VERSION                : 8.0.61 
+2018-06-04 23:01:34,031 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CLANG                       : /opt/clang/bin/clang 
+2018-06-04 23:01:34,034 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : SHLVL                       : 0 
+2018-06-04 23:01:34,036 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : HOME                        : / 
+2018-06-04 23:01:34,038 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : DEBIAN_FRONTEND             : noninteractive 
+2018-06-04 23:01:34,039 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : MPLCONFIGDIR                : /tmp/matplotlib-5esm1h_n 
+2018-06-04 23:01:34,040 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : DRIVERLESS_AI_INSTANCE_ID   : 2808ad6a-508b-4c90-b08a-58019c72c0a2 
+2018-06-04 23:01:34,041 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : DRIVERLESS_AI_LICENSE_KEY   : oLqLZXMI0ym2sn0S9tPbeMnFVe6yj7YngPzy1TOi9680u1_YVup7SlEzN_p9nlMRUyztOmRE7UjakCiXbklEk58DIjO2NI4vgaRq7lFVSRN6LgfLyyJxTI71ib-M9UjHJtjKAqm3Om72-VwoCqlpa-aZdvSAKkgeapTbpWPCcz9AsguU3N3X0XjOxbzTdMcxJpj_L39Q_tYa5-saJo2OMejsbRpVhZzWs-RMvusbxh8afoiTeH2ltP9h1hBLY4SfBLl7FP9UhYfDX439VNzM4uMBT1nsROpR-aqQN-ty7-j10q3zGftTxKS8V_hkecx2Rvt4BJfS1vaaaQuCPNFbM2xpY2Vuc2VfdmVyc2lvbjoxCnNlcmlhbF9udW1iZXI6MjYKbGljZW5zZWVfb3JnYW5pemF0aW9uOkgyTy5haQpsaWNlbnNlZV9lbWFpbDptYWdudXNAaDJvLmFpCmxpY2Vuc2VlX3VzZXJfaWQ6MjYKaXNfaDJvX2ludGVybmFsX3VzZTp0cnVlCmNyZWF0ZWRfYnlfZW1haWw6bWFnbnVzQGgyby5haQpjcmVhdGlvbl9kYXRlOjIwMTcvMTIvMjIKcHJvZHVjdDpEcml2ZXJsZXNzQUkKbGljZW5zZV90eXBlOmRldmVsb3BlcgpleHBpcmF0aW9uX2RhdGU6MjAxOC8wNy8wMQo=
+2018-06-04 23:01:34,045 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :  
+2018-06-04 23:01:34,047 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : 
+2018-06-04 23:01:34,049 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,062 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Architecture:          x86_64
+2018-06-04 23:01:34,066 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CPU op-mode(s):        32-bit, 64-bit
+2018-06-04 23:01:34,069 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Byte Order:            Little Endian
+2018-06-04 23:01:34,070 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CPU(s):                4
+2018-06-04 23:01:34,071 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : On-line CPU(s) list:   0-3
+2018-06-04 23:01:34,072 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Thread(s) per core:    1
+2018-06-04 23:01:34,074 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Core(s) per socket:    1
+2018-06-04 23:01:34,077 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Socket(s):             4
+2018-06-04 23:01:34,080 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Vendor ID:             GenuineIntel
+2018-06-04 23:01:34,083 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CPU family:            6
+2018-06-04 23:01:34,085 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Model:                 70
+2018-06-04 23:01:34,087 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Model name:            Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+2018-06-04 23:01:34,088 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Stepping:              1
+2018-06-04 23:01:34,090 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : CPU MHz:               2793.054
+2018-06-04 23:01:34,093 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : BogoMIPS:              5587.52
+2018-06-04 23:01:34,096 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Hypervisor vendor:     vertical
+2018-06-04 23:01:34,098 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Virtualization type:   full
+2018-06-04 23:01:34,100 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : L1d cache:             32K
+2018-06-04 23:01:34,102 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : L1i cache:             32K
+2018-06-04 23:01:34,103 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : L2 cache:              256K
+2018-06-04 23:01:34,104 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : L3 cache:              6144K
+2018-06-04 23:01:34,106 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : L4 cache:              131072K
+2018-06-04 23:01:34,122 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht pbe syscall nx pdpe1gb lm constant_tsc rep_good nopl xtopology nonstop_tsc eagerfpu pni pclmulqdq dtes64 ds_cpl ssse3 sdbg fma cx16 xtpr pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm kaiser fsgsbase bmi1 avx2 bmi2 erms xsaveopt arat
+2018-06-04 23:01:34,123 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : 
+2018-06-04 23:01:34,126 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,139 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,141 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,145 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :      System check:                                               
+2018-06-04 23:01:34,149 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :      - Memory: PASSED                                        
+2018-06-04 23:01:34,152 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :      - Disk:   PASSED                                        
+2018-06-04 23:01:34,583 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :      - Java:   PASSED                                        
+2018-06-04 23:01:34,587 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,588 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:34,589 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   :      Connect to Driverless AI:  http://127.0.0.1:12345
+2018-06-04 23:01:34,591 C:▂▁▆▆ D:590.6GB M:7.3GB 7     INFO   : -----------------------------------------------------------------
+2018-06-04 23:01:41,015 C: ▁▁▁ D:590.6GB M:7.3GB 7     INFO   : Reload: user=h2oai, ip=172.17.0.1
+2018-06-04 23:02:10,254 C:     D:590.6GB M:7.1GB 7     INFO   : Dataset file dai_exp_munged_0509181.csv was uploaded successfully!
+2018-06-04 23:02:10,261 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/start|Parse start|
+2018-06-04 23:02:10,266 C:     D:590.6GB M:7.1GB 133   INFO   : Parsing data: /tmp/uploads/dai_exp_munged_050918.csv
+2018-06-04 23:02:10,275 C:     D:590.6GB M:7.1GB 133   INFO   : Datatable dt.options.nthreads = 0
+2018-06-04 23:02:10,277 C:     D:590.6GB M:7.1GB 133   DATA   : Input is assumed to be a file name.
+2018-06-04 23:02:10,280 C:     D:590.6GB M:7.1GB 133   DATA   : Using default 4 threads
+2018-06-04 23:02:10,282 C:     D:590.6GB M:7.1GB 133   DATA   : fill=True (incomplete lines will be padded with NAs)
+2018-06-04 23:02:10,283 C:     D:590.6GB M:7.1GB 133   DATA   : sep = <auto-detect>
+2018-06-04 23:02:10,284 C:     D:590.6GB M:7.1GB 133   DATA   : Decimal separator = '.'
+2018-06-04 23:02:10,285 C:     D:590.6GB M:7.1GB 133   DATA   : Quote char = (")
+2018-06-04 23:02:10,286 C:     D:590.6GB M:7.1GB 133   DATA   : na_strings = ["", "?", "None", "nan", "NA", "N/A", "inf", "-inf", "1.7976931348623157e+308", "-1.7976931348623157e+308"]
+2018-06-04 23:02:10,287 C:     D:590.6GB M:7.1GB 133   DATA   :   + some na strings look like numbers
+2018-06-04 23:02:10,287 C:     D:590.6GB M:7.1GB 133   DATA   :   + empty string is considered an NA
+2018-06-04 23:02:10,288 C:     D:590.6GB M:7.1GB 133   DATA   : strip_whitespace = True
+2018-06-04 23:02:10,289 C:     D:590.6GB M:7.1GB 133   DATA   : skip_blank_lines = False
+2018-06-04 23:02:10,293 C:     D:590.6GB M:7.1GB 133   DATA   : File "/tmp/uploads/dai_exp_munged_050918.csv" opened, size: 271841
+2018-06-04 23:02:10,294 C:     D:590.6GB M:7.1GB 133   DATA   : ==== file sample ====
+2018-06-04 23:02:10,296 C:     D:590.6GB M:7.1GB 133   DATA   : AAA,aaa_AAA,aaa_AAA,aaaaaa_aaaa,aaaaaa_aaaa,aaaaaa_AAA,aaaaa_aaaaa,aaaaa_aaaaa,aaaaaa_aaaaaa_aaaa...
+2018-06-04 23:02:10,297 C:     D:590.6GB M:7.1GB 133   DATA   : aaaaaaaa,11,0,1,1,1,11111.0,11.0,,,1,111111.0,1,101.11000000000001
+2018-06-04 23:02:10,297 C:     D:590.6GB M:7.1GB 133   DATA   : aaaaaaa,1,1,1,1,1,11111.0,11.0,,,1,111111.0,1,111.11
+2018-06-04 23:02:10,298 C:     D:590.6GB M:7.1GB 133   DATA   : aaaaaaa,1,1,1,1,1,11111.0,11.0,,,1,111111.0,1,111.1
+2018-06-04 23:02:10,299 C:     D:590.6GB M:7.1GB 133   DATA   : aaaaaaaa,11,0,1,1,1,11111.0,11.0,,,1,111111.0,1,111.11
+2018-06-04 23:02:10,300 C:     D:590.6GB M:7.1GB 133   DATA   : =====================
+2018-06-04 23:02:10,300 C:     D:590.6GB M:7.1GB 133   DATA   : LF character (\n) found in input, \r-only newlines will not be recognized
+2018-06-04 23:02:10,301 C:     D:590.6GB M:7.1GB 133   DATA   : [2] Detect separator, quoting rule, and ncolumns
+2018-06-04 23:02:10,302 C:     D:590.6GB M:7.1GB 133   DATA   : sep=',' with 100 lines of 14 fields using quote rule 0
+2018-06-04 23:02:10,303 C:     D:590.6GB M:7.1GB 133   DATA   : Detected 14 columns
+2018-06-04 23:02:10,304 C:     D:590.6GB M:7.1GB 133   DATA   : sep = ','
+2018-06-04 23:02:10,304 C:     D:590.6GB M:7.1GB 133   DATA   : Quote rule = 0
+2018-06-04 23:02:10,305 C:     D:590.6GB M:7.1GB 133   DATA   : [3] Detect column types and header
+2018-06-04 23:02:10,306 C:     D:590.6GB M:7.1GB 133   DATA   : Number of threads reduced to 1 because data is small
+2018-06-04 23:02:10,308 C:     D:590.6GB M:7.1GB 133   DATA   : Number of sampling jump points = 11 because the first chunk was 46.3 times smaller than the entire file
+2018-06-04 23:02:10,308 C:     D:590.6GB M:7.1GB 133   DATA   : Type codes (jump 000): siiiiiFF?FiFbF
+2018-06-04 23:02:10,310 C:     D:590.6GB M:7.1GB 133   DATA   : `header` determined to be True due to column 2 containing a string on row 1 and type Int32 in the rest of the sample.
+2018-06-04 23:02:10,311 C:     D:590.6GB M:7.1GB 133   DATA   : =====
+2018-06-04 23:02:10,312 C:     D:590.6GB M:7.1GB 133   DATA   : Sampled 100 rows (handled \n inside quoted fields) at 11 jump point(s)
+2018-06-04 23:02:10,312 C:     D:590.6GB M:7.1GB 133   DATA   : Bytes from first data row to the end of last row: 271841
+2018-06-04 23:02:10,313 C:     D:590.6GB M:7.1GB 133   DATA   : Line length: mean=57.70 sd=5.78 min=47 max=69
+2018-06-04 23:02:10,314 C:     D:590.6GB M:7.1GB 133   DATA   : Estimated number of rows: 271841 / 57.70 = 4712
+2018-06-04 23:02:10,315 C:     D:590.6GB M:7.1GB 133   DATA   : Initial alloc = 5783 rows (4712 + 22%) using bytes/max(mean-2*sd,min) clamped between [1.1*estn, 2.0*estn]
+2018-06-04 23:02:10,315 C:     D:590.6GB M:7.1GB 133   DATA   : =====
+2018-06-04 23:02:10,317 C:     D:590.6GB M:7.1GB 133   DATA   : [4] Assign column names
+2018-06-04 23:02:10,317 C:     D:590.6GB M:7.1GB 133   DATA   : [5] Apply user overrides on column types
+2018-06-04 23:02:10,318 C:     D:590.6GB M:7.1GB 133   DATA   : After 0 type and 0 drop user overrides : siiiiiFF?FiFbF
+2018-06-04 23:02:10,319 C:     D:590.6GB M:7.1GB 133   DATA   : Allocating 14 column slots with 5783 rows
+2018-06-04 23:02:10,320 C:     D:590.6GB M:7.1GB 133   DATA   : [6] Read the data
+2018-06-04 23:02:10,320 C:     D:590.6GB M:7.1GB 133   DATA   : Number of threads reduced to 1 because data is small
+2018-06-04 23:02:10,327 C:     D:590.6GB M:7.1GB 133   DATA   : 2 columns need to be re-read because their types have changed
+2018-06-04 23:02:10,329 C:     D:590.6GB M:7.1GB 133   DATA   : Number of threads reduced to 1 because data is small
+2018-06-04 23:02:10,333 C:     D:590.6GB M:7.1GB 133   DATA   : [7] Finalize the datatable
+2018-06-04 23:02:10,334 C:     D:590.6GB M:7.1GB 133   DATA   : =============================
+2018-06-04 23:02:10,336 C:     D:590.6GB M:7.1GB 133   DATA   : Read 4,408 rows x 14 columns from 265.5KB input in 00:00.034s
+2018-06-04 23:02:10,337 C:     D:590.6GB M:7.1GB 133   DATA   :  = 0.004s (12%) detecting parse parameters
+2018-06-04 23:02:10,338 C:     D:590.6GB M:7.1GB 133   DATA   :  + 0.012s (36%) detecting column types using 100 sample rows
+2018-06-04 23:02:10,339 C:     D:590.6GB M:7.1GB 133   DATA   :  + 0.002s ( 7%) allocating [5,783 x 14] frame (396.3KB) of which 4,408 (76%) rows used
+2018-06-04 23:02:10,340 C:     D:590.6GB M:7.1GB 133   DATA   :  + 0.007s (22%) reading data using 1 thread
+2018-06-04 23:02:10,341 C:     D:590.6GB M:7.1GB 133   DATA   :  + 0.006s (16%) Rereading 2 columns due to out-of-sample type exceptions
+2018-06-04 23:02:10,342 C:     D:590.6GB M:7.1GB 133   DATA   :     = 0.005s (15%) reading into row-major buffers
+2018-06-04 23:02:10,342 C:     D:590.6GB M:7.1GB 133   DATA   :     + 0.001s ( 2%) saving into the output frame
+2018-06-04 23:02:10,343 C:     D:590.6GB M:7.1GB 133   DATA   :     + 0.007s (21%) waiting
+2018-06-04 23:02:10,344 C:     D:590.6GB M:7.1GB 133   DATA   :  + 0.002s ( 5%) creating the final Frame
+2018-06-04 23:02:10,345 C:     D:590.6GB M:7.1GB 133   DATA   : =============================
+2018-06-04 23:02:10,346 C:     D:590.6GB M:7.1GB 133   DATA   : Column 13 (aaaaaa) bumped from Bool8/numeric to Int32 due to <<3>> on row 237
+2018-06-04 23:02:10,347 C:     D:590.6GB M:7.1GB 133   DATA   : Column 9 (aaaaaa_aaaaaa_aaaa) bumped from Unknown to Float64 due to <<22.372>> on row 2025
+2018-06-04 23:02:10,348 C:     D:590.6GB M:7.1GB 133   DATA   : Data of size (4408, 14) loaded successfully. Original features (values of first and last 5 rows):
+2018-06-04 23:02:10,370 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 1: GPU str ['disabled' 'enabled' 'enabled' 'disabled' 'enabled'] ... ['enabled' 'enabled' 'enabled' 'enabled' 'enabled']
+2018-06-04 23:02:10,378 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 2: sys_CPU int [16  4  4 16 32] ... [4 4 4 4 4]
+2018-06-04 23:02:10,382 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 3: sys_GPU int [0 1 1 0 8] ... [1 1 1 1 1]
+2018-06-04 23:02:10,385 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 4: config_accu int [5 5 5 1 5] ... [7 7 7 7 7]
+2018-06-04 23:02:10,388 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 5: config_time int [5 5 5 1 5] ... [3 3 3 3 3]
+2018-06-04 23:02:10,392 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 6: config_MLI int [5 5 5 5 5] ... [6 6 6 6 6]
+2018-06-04 23:02:10,396 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 7: nrows_train real [23999. 23999. 23999. 23999. 23999.] ... [23999. 23999. 23999. 23999. 23999.]
+2018-06-04 23:02:10,399 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 8: ncols_train real [25. 25. 25. 25. 25.] ... [23. 23. 23. 23. 23.]
+2018-06-04 23:02:10,402 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 9: target_binary_dist real [nan nan nan nan nan] ... [22.372 22.372 22.372 22.372 22.372]
+2018-06-04 23:02:10,405 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 10: target_nclasses real [nan nan nan nan nan] ... [nan nan nan nan nan]
+2018-06-04 23:02:10,408 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 11: recipe_individuals int [ 4  4  4  4 16] ... [4 4 4 4 4]
+2018-06-04 23:02:10,411 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 12: train_data_size real [599975. 599975. 599975. 599975. 599975.] ... [551977. 551977. 551977. 551977. 551977.]
+2018-06-04 23:02:10,414 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 13: weight int [1 1 1 1 1] ... [10 10 10 10 10]
+2018-06-04 23:02:10,417 C:     D:590.6GB M:7.1GB 133   DATA   :   Feature 14: t_total real [302.78 498.72 352.1  113.76 516.92] ... [491.05 529.09 505.99 506.73 611.31]
+2018-06-04 23:02:10,418 C:     D:590.6GB M:7.1GB 133   INFO   : Done parsing data.
+2018-06-04 23:02:10,419 C:     D:590.6GB M:7.1GB 133   INFO   : Saving binary data to disk.
+2018-06-04 23:02:10,455 C:     D:590.6GB M:7.1GB 133   INFO   : Computing column statistics.
+/h2oai_env/lib/python3.6/site-packages/numpy/lib/arraysetops.py:285: RuntimeWarning: invalid value encountered in not_equal
+  flag = np.concatenate(([True], aux[1:] != aux[:-1]))
+/h2oai_env/lib/python3.6/site-packages/numpy/lib/arraysetops.py:285: RuntimeWarning: invalid value encountered in not_equal
+  flag = np.concatenate(([True], aux[1:] != aux[:-1]))
+2018-06-04 23:02:10,714 C:     D:590.6GB M:7.1GB 133   INFO   : Computed column statistics in 0.25942 seconds.
+2018-06-04 23:02:10,716 C:     D:590.6GB M:7.1GB 133   INFO   : Begin dataset store.
+2018-06-04 23:02:10,719 C:     D:590.6GB M:7.1GB 133   INFO   : End dataset store.
+2018-06-04 23:02:10,747 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/disk_size_in_mb/0|Dataset size in MB on disk|
+2018-06-04 23:02:10,749 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Dataset size in MB on disk|H2O.ai|0|
+2018-06-04 23:02:10,752 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/memory_size_in_mb/0|Dataset size in MB in memory|
+2018-06-04 23:02:10,753 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Dataset size in MB in memory|H2O.ai|0|
+2018-06-04 23:02:10,755 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_rows/4408|Number of rows|
+2018-06-04 23:02:10,756 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of rows|H2O.ai|4408|
+2018-06-04 23:02:10,758 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_cols/14|Number of cols|
+2018-06-04 23:02:10,759 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of cols|H2O.ai|14|
+2018-06-04 23:02:10,760 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_int_cols/7|Number of int cols|
+2018-06-04 23:02:10,761 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of int cols|H2O.ai|7|
+2018-06-04 23:02:10,763 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_str_cols/1|Number of str cols|
+2018-06-04 23:02:10,764 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of str cols|H2O.ai|1|
+2018-06-04 23:02:10,765 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_real_cols/6|Number of real cols|
+2018-06-04 23:02:10,766 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of real cols|H2O.ai|6|
+2018-06-04 23:02:10,767 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/num_bool_cols/0|Number of bool cols|
+2018-06-04 23:02:10,768 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Number of bool cols|H2O.ai|0|
+2018-06-04 23:02:10,769 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/stats/time_in_s/0|Parse time in seconds|
+2018-06-04 23:02:10,770 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Parse time in seconds|H2O.ai|0|
+2018-06-04 23:02:10,771 C:     D:590.6GB M:7.1GB 133   INFO   : [usage] |/parse/success|Parse success|
+2018-06-04 23:02:10,772 C:     D:590.6GB M:7.1GB 133   INFO   : [event] |Parse|Parse success|H2O.ai|0|
+2018-06-04 23:02:33,053 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/start|AutoDL start|
+2018-06-04 23:02:33,057 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/classification/false|AutoDL classification parameter|
+2018-06-04 23:02:33,060 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL classification parameter|H2O.ai|0|
+2018-06-04 23:02:33,063 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/num_dropped_cols/0|AutoDL number of dropped cols parameter|
+2018-06-04 23:02:33,065 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL number of dropped cols parameter|H2O.ai|0|
+2018-06-04 23:02:33,066 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/disable_gpus/true|AutoDL disable GPUs parameter|
+2018-06-04 23:02:33,068 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL disable GPUs parameter|H2O.ai|1|
+2018-06-04 23:02:33,070 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/accuracy/8|AutoDL accuracy parameter|
+2018-06-04 23:02:33,073 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL accuracy parameter|H2O.ai|8|
+2018-06-04 23:02:33,075 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/time/2|AutoDL time parameter|
+2018-06-04 23:02:33,078 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL time parameter|H2O.ai|2|
+2018-06-04 23:02:33,080 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [usage] |/autodl/params/interpretability/5|AutoDL interpretability parameter|
+2018-06-04 23:02:33,082 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : [event] |AutoDL|AutoDL interpretability parameter|H2O.ai|5|
+2018-06-04 23:02:33,083 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Selected Accuracy: 8 / 10
+2018-06-04 23:02:33,086 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Selected Time: 2 / 10
+2018-06-04 23:02:33,090 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Selected Interpretability: 5 / 10
+2018-06-04 23:02:33,116 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Data shape: (4408, 14)
+2018-06-04 23:02:33,118 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Time to read the training dataset with datatable: 0.022251
+2018-06-04 23:02:33,378 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Turning accuracy/time/interpretability into:
+2018-06-04 23:02:33,382 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   individuals: 4
+2018-06-04 23:02:33,383 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   iterations=10
+2018-06-04 23:02:33,385 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   early_stopping_rounds=5
+2018-06-04 23:02:33,388 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   only_first_fold_model=False
+2018-06-04 23:02:33,391 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   num_folds=5
+2018-06-04 23:02:33,393 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   fold_reps=1
+2018-06-04 23:02:33,395 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   monotonicity_constraints=False
+2018-06-04 23:02:33,397 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   parameter_tune_level=2
+2018-06-04 23:02:33,399 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   auto_tune_target_transform=True
+2018-06-04 23:02:33,400 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   auto_tune_backend=True
+2018-06-04 23:02:33,402 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   ensemble_level=2
+2018-06-04 23:02:33,404 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   num_ensemble_folds=5
+2018-06-04 23:02:33,407 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   max_rows=71400000
+2018-06-04 23:02:33,410 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   :   strategy=None
+fatal: Not a git repository (or any of the parent directories): .git
+2018-06-04 23:02:33,454 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Using 3 threads.
+2018-06-04 23:02:33,459 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Using seed: 749762277 that is random
+2018-06-04 23:02:33,462 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Size of file system containing temp dir: 931.6GB
+2018-06-04 23:02:33,464 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Available space on file system containing temp dir: 590.6GB
+2018-06-04 23:02:33,466 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Temporary directory: /./tmp/h2oai_experiment_ninelefo
+2018-06-04 23:02:33,484 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Physical device for temporary directory: osxfs
+2018-06-04 23:02:33,490 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Pinging every 60 seconds.
+2018-06-04 23:02:33,497 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Using datatable 'write' strategy.
+2018-06-04 23:02:33,501 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Ingesting training data...
+2018-06-04 23:02:33,509 C:█  ▂ D:590.6GB M:7.1GB 370   DATA   : Training data file name: dai_exp_munged_050918.csv
+2018-06-04 23:02:33,512 C:█  ▂ D:590.6GB M:7.1GB 370   DATA   : Reading training data from: ./tmp/vufebura/dai_exp_munged_050918.csv.1528153330.4199314.bin
+2018-06-04 23:02:33,531 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Data shape: (4408, 14)
+2018-06-04 23:02:33,533 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Time to read the training dataset with datatable: 0.017491
+2018-06-04 23:02:33,618 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Checking data integrity...
+2018-06-04 23:02:33,812 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Checking for columns with constant values.
+2018-06-04 23:02:33,920 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : No columns with constant values found.
+2018-06-04 23:02:33,926 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Training data (with target): (4408, 14)
+2018-06-04 23:02:33,960 C:█  ▂ D:590.6GB M:7.1GB 370   DATA   : First 5 rows of training data:
+        GPU  sys_CPU  sys_GPU  config_accu  config_time  config_MLI  \
+0  disabled     16.0      0.0          5.0          5.0         5.0   
+1   enabled      4.0      1.0          5.0          5.0         5.0   
+2   enabled      4.0      1.0          5.0          5.0         5.0   
+3  disabled     16.0      0.0          1.0          1.0         5.0   
+4   enabled     32.0      8.0          5.0          5.0         5.0   
+
+   nrows_train  ncols_train  target_binary_dist  target_nclasses  \
+0      23999.0         25.0                 NaN              NaN   
+1      23999.0         25.0                 NaN              NaN   
+2      23999.0         25.0                 NaN              NaN   
+3      23999.0         25.0                 NaN              NaN   
+4      23999.0         25.0                 NaN              NaN   
+
+   recipe_individuals  train_data_size  weight  t_total  
+0                 4.0         599975.0     1.0   302.78  
+1                 4.0         599975.0     1.0   498.72  
+2                 4.0         599975.0     1.0   352.10  
+3                 4.0         599975.0     1.0   113.76  
+4                16.0         599975.0     1.0   516.92  
+2018-06-04 23:02:33,963 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Using fold_reps=1
+2018-06-04 23:02:33,967 C:█  ▂ D:590.6GB M:7.1GB 370   WARNING: GPU(s): None visible.  If unexpected and running nvidia-docker, try: sudo systemctl start nvidia-docker
+2018-06-04 23:02:33,969 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Early stopping enabled.
+2018-06-04 23:02:33,998 C:█  ▂ D:590.6GB M:7.1GB 370   DATA   : Stats for target column 't_total':
+count      4408.000000
+mean       5147.132049
+std       12742.571881
+min          20.310000
+25%         462.605000
+50%        1107.390000
+75%        3749.732500
+max      166400.590000
+Name: t_total, dtype: float64
+2018-06-04 23:02:34,001 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Checking target column...
+2018-06-04 23:02:34,016 C:█  ▂ D:590.6GB M:7.1GB 370   INFO   : Scorer: RMSE (less is better)
+2018-06-04 23:02:34,060 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Detecting column types...
+('Exception in subprocess',)
+('concurrent.futures.process._RemoteTraceback: \n"""\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.6/concurrent/futures/process.py", line 175, in _process_worker\n    r = call_item.fn(*call_item.args, **call_item.kwargs)\n  File "h2oaicore/auto_dl_support.py", line 2718, in h2oaicore.auto_dl_support.column_schema_maker\n  File "/h2oai_env/lib/python3.6/site-packages/typesentry/config.py", line 155, in fdecorated\n    ret = f(*args, **kws)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/nff.py", line 115, in open\n    f0 = dt.fread(metafile, sep=",", columns=coltypes)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 68, in fread\n    freader = GenericReader(**params)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 127, in __init__\n    self._resolve_source(anysource, file, text, cmd, url)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 179, in _resolve_source\n    self._resolve_source_any(anysource)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 220, in _resolve_source_any\n    self._resolve_source_file(src)\n  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 303, in _resolve_source_file\n    raise TValueError("Path `%s` is not a file" % file)\ndatatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file\n"""\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal\n  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result\n    return self.__get_result()\n  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result\n    raise self._exception\ndatatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file\n',)
+2018-06-04 23:02:34,272 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : 
+2018-06-04 23:02:34,280 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : ==============================================================================================
+2018-06-04 23:02:34,284 C:▆▅▆▃ D:590.6GB M:7.0GB 370   DATA   : Experiment ninelefo FAILED with Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+2018-06-04 23:02:34,287 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : Experiment ninelefo FAILED with Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+2018-06-04 23:02:34,291 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : ==============================================================================================
+2018-06-04 23:02:34,298 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : 
+2018-06-04 23:02:34,307 C:▆▅▆▃ D:590.6GB M:7.0GB 370   DATA   : concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/concurrent/futures/process.py", line 175, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "h2oaicore/auto_dl_support.py", line 2718, in h2oaicore.auto_dl_support.column_schema_maker
+  File "/h2oai_env/lib/python3.6/site-packages/typesentry/config.py", line 155, in fdecorated
+    ret = f(*args, **kws)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/nff.py", line 115, in open
+    f0 = dt.fread(metafile, sep=",", columns=coltypes)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 68, in fread
+    freader = GenericReader(**params)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 127, in __init__
+    self._resolve_source(anysource, file, text, cmd, url)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 179, in _resolve_source
+    self._resolve_source_any(anysource)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 220, in _resolve_source_any
+    self._resolve_source_file(src)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 303, in _resolve_source_file
+    raise TValueError("Path `%s` is not a file" % file)
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "h2oaicore/systemutils.py", line 1367, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/auto_dl_support.py", line 2705, in h2oaicore.auto_dl_support.capture_dataframe_schema
+  File "h2oaicore/systemutils.py", line 901, in h2oaicore.systemutils.mppool.submit_tryget
+  File "h2oaicore/systemutils.py", line 817, in h2oaicore.systemutils.mppool.try_get_internal
+  File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "h2oaicore/auto_dl.py", line 1043, in h2oaicore.auto_dl.do_auto_dl
+  File "h2oaicore/systemutils.py", line 1264, in h2oaicore.systemutils.trace.f
+  File "h2oaicore/systemutils.py", line 1376, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/systemutils.py", line 1615, in h2oaicore.systemutils.find_raise_exception
+  File "h2oaicore/systemutils.py", line 1367, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/auto_dl_support.py", line 2705, in h2oaicore.auto_dl_support.capture_dataframe_schema
+  File "h2oaicore/systemutils.py", line 901, in h2oaicore.systemutils.mppool.submit_tryget
+  File "h2oaicore/systemutils.py", line 817, in h2oaicore.systemutils.mppool.try_get_internal
+  File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+
+2018-06-04 23:02:34,310 C:▆▅▆▃ D:590.6GB M:7.0GB 370   ERROR  : concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/concurrent/futures/process.py", line 175, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "h2oaicore/auto_dl_support.py", line 2718, in h2oaicore.auto_dl_support.column_schema_maker
+  File "/h2oai_env/lib/python3.6/site-packages/typesentry/config.py", line 155, in fdecorated
+    ret = f(*args, **kws)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/nff.py", line 115, in open
+    f0 = dt.fread(metafile, sep=",", columns=coltypes)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 68, in fread
+    freader = GenericReader(**params)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 127, in __init__
+    self._resolve_source(anysource, file, text, cmd, url)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 179, in _resolve_source
+    self._resolve_source_any(anysource)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 220, in _resolve_source_any
+    self._resolve_source_file(src)
+  File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 303, in _resolve_source_file
+    raise TValueError("Path `%s` is not a file" % file)
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "h2oaicore/systemutils.py", line 1367, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/auto_dl_support.py", line 2705, in h2oaicore.auto_dl_support.capture_dataframe_schema
+  File "h2oaicore/systemutils.py", line 901, in h2oaicore.systemutils.mppool.submit_tryget
+  File "h2oaicore/systemutils.py", line 817, in h2oaicore.systemutils.mppool.try_get_internal
+  File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "h2oaicore/auto_dl.py", line 1043, in h2oaicore.auto_dl.do_auto_dl
+  File "h2oaicore/systemutils.py", line 1264, in h2oaicore.systemutils.trace.f
+  File "h2oaicore/systemutils.py", line 1376, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/systemutils.py", line 1615, in h2oaicore.systemutils.find_raise_exception
+  File "h2oaicore/systemutils.py", line 1367, in h2oaicore.systemutils.traced_func
+  File "h2oaicore/auto_dl_support.py", line 2705, in h2oaicore.auto_dl_support.capture_dataframe_schema
+  File "h2oaicore/systemutils.py", line 901, in h2oaicore.systemutils.mppool.submit_tryget
+  File "h2oaicore/systemutils.py", line 817, in h2oaicore.systemutils.mppool.try_get_internal
+  File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+
+2018-06-04 23:02:34,314 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : 
+2018-06-04 23:02:34,317 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Number of features created: 0
+2018-06-04 23:02:34,319 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Number of model and feature tuning iterations: 0
+2018-06-04 23:02:34,320 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Number of feature evolution iterations: 0
+2018-06-04 23:02:34,324 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Number of models trained
+2018-06-04 23:02:34,327 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Backend tuning: 0
+2018-06-04 23:02:34,329 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Target transform tuning: 0
+2018-06-04 23:02:34,331 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Model and feature tuning: 0
+2018-06-04 23:02:34,333 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Feature pre-pruning: 0
+2018-06-04 23:02:34,334 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Feature evolution: 0
+2018-06-04 23:02:34,336 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Final pipeline: 0
+2018-06-04 23:02:34,338 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : 
+2018-06-04 23:02:34,341 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Collecting system info during process shutdown
+/bin/sh: 1: nvidia-smi: not found
+2018-06-04 23:02:34,423 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Experiment: ninelefo, 2018-06-04 23:02, 1.1.3
+2018-06-04 23:02:34,428 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Settings: 8/2/5, seed=749762277, GPUs disabled
+2018-06-04 23:02:34,432 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Train data: [XXXXX] (4408, 14)
+2018-06-04 23:02:34,434 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Validation data: N/A
+2018-06-04 23:02:34,436 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Test data: N/A
+2018-06-04 23:02:34,438 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Target column: [XXXXX] (regression, unit_box-transformed)
+2018-06-04 23:02:34,441 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : System specs: Docker/Darwin, 8 GB, 4 CPU cores, 0/0 GPU
+2018-06-04 23:02:34,444 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   :   Max memory usage: 0 GB, 0 GB GPU
+2018-06-04 23:02:34,446 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Recipe: AutoDL (0 iterations, 4 individuals)
+2018-06-04 23:02:34,448 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Experiment failed: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file
+2018-06-04 23:02:34,450 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : 
+2018-06-04 23:02:34,451 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : 
+2018-06-04 23:02:34,453 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : 
+2018-06-04 23:02:34,456 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : [usage] |/autodl/results/experiment_summary/Experiment: ninelefo, 2018-06-04 23:02, 1.1.3 @@@   Settings: 8/2/5, seed=749762277, GPUs disabled @@@   Train data: [XXXXX] (4408, 14) @@@   Validation data: N/A @@@   Test data: N/A @@@   Target column: [XXXXX] (regression, unit_box-transformed) @@@ System specs: Docker/Darwin, 8 GB, 4 CPU cores, 0/0 GPU @@@   Max memory usage: 0 GB, 0 GB GPU @@@ Recipe: AutoDL (0 iterations, 4 individuals) @@@ Experiment failed: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file @@@  @@@ |AutoDL experiment summary|
+2018-06-04 23:02:34,458 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Collecting logs
+2018-06-04 23:02:34,464 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Archiving experiment summary to /./tmp/h2oai_experiment_ninelefo/h2oai_experiment_summary_ninelefo.zip
+2018-06-04 23:02:34,487 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Archiving logs to /./tmp/h2oai_experiment_ninelefo/h2oai_experiment_logs_ninelefo.zip
+2018-06-04 23:02:34,534 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : Deleting temporary files
+2018-06-04 23:02:34,604 C:▆▅▆▃ D:590.6GB M:7.0GB 370   WARNING: [usage] |/exception/autodl/type/ValueError|AutoDL failure type|
+2018-06-04 23:02:34,608 C:▆▅▆▃ D:590.6GB M:7.0GB 370   WARNING: [usage] |/exception/autodl/message/Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file|AutoDL failure message|
+2018-06-04 23:02:34,611 C:▆▅▆▃ D:590.6GB M:7.0GB 370   WARNING: [usage] |/exception/autodl/traceback/concurrent.futures.process._RemoteTraceback:  @@@ """ @@@ Traceback (most recent call last): @@@   File "/usr/local/lib/python3.6/concurrent/futures/process.py", line 175, in _process_worker @@@     r = call_item.fn(*call_item.args, **call_item.kwargs) @@@   File "h2oaicore/auto_dl_support.py", line 2718, in h2oaicore.auto_dl_support.column_schema_maker @@@   File "/h2oai_env/lib/python3.6/site-packages/typesentry/config.py", line 155, in fdecorated @@@     ret = f(*args, **kws) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/nff.py", line 115, in open @@@     f0 = dt.fread(metafile, sep=",", columns=coltypes) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 68, in fread @@@     freader = GenericReader(**params) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 127, in __init__ @@@     self._resolve_source(anysource, file, text, cmd, url) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 179, in _resolve_source @@@     self._resolve_source_any(anysource) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 220, in _resolve_source_any @@@     self._resolve_source_file(src) @@@   File "/h2oai_env/lib/python3.6/site-packages/datatable/fread.py", line 303, in _resolve_source_file @@@     raise TValueError("Path `%s` is not a file" % file) @@@ datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file @@@ """ @@@  @@@ The ab......thon3.6/concurrent/futures/_base.py", line 384, in __get_result @@@     raise self._exception @@@ datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file @@@  @@@ During handling of the above exception, another exception occurred: @@@  @@@ Traceback (most recent call last): @@@   File "h2oaicore/auto_dl.py", line 1043, in h2oaicore.auto_dl.do_auto_dl @@@   File "h2oaicore/systemutils.py", line 1264, in h2oaicore.systemutils.trace.f @@@   File "h2oaicore/systemutils.py", line 1376, in h2oaicore.systemutils.traced_func @@@   File "h2oaicore/systemutils.py", line 1615, in h2oaicore.systemutils.find_raise_exception @@@   File "h2oaicore/systemutils.py", line 1367, in h2oaicore.systemutils.traced_func @@@   File "h2oaicore/auto_dl_support.py", line 2705, in h2oaicore.auto_dl_support.capture_dataframe_schema @@@   File "h2oaicore/systemutils.py", line 901, in h2oaicore.systemutils.mppool.submit_tryget @@@   File "h2oaicore/systemutils.py", line 817, in h2oaicore.systemutils.mppool.try_get_internal @@@   File "h2oaicore/systemutils.py", line 782, in h2oaicore.systemutils.mppool.try_get_internal @@@   File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 432, in result @@@     return self.__get_result() @@@   File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result @@@     raise self._exception @@@ datatable.ValueError: Path `/tmp/h2oai_experiment_ninelefo/orig_train.bin/_meta.nff` is not a file @@@ |AutoDL failure traceback|
+2018-06-04 23:02:34,614 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : [usage] |/autodl/stats/time_in_s/1|AutoDL time in seconds|
+2018-06-04 23:02:34,616 C:▆▅▆▃ D:590.6GB M:7.0GB 370   INFO   : [event] |AutoDL|AutoDL time in seconds|H2O.ai|1|
+2018-06-04 23:02:34,618 C:▆▅▆▃ D:590.6GB M:7.0GB 370   WARNING: [event] |Exception|AutoDL failed|H2O.ai|1|
+2018-06-04 23:02:35,502 C:▄  █ D:590.6GB M:7.0GB 370   INFO   : Returning from experiment ninelefo after 2.07 seconds.
+2018-06-04 23:02:57,807 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/start|AutoDL start|
+2018-06-04 23:02:57,811 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/classification/false|AutoDL classification parameter|
+2018-06-04 23:02:57,813 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL classification parameter|H2O.ai|0|
+2018-06-04 23:02:57,816 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/num_dropped_cols/0|AutoDL number of dropped cols parameter|
+2018-06-04 23:02:57,817 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL number of dropped cols parameter|H2O.ai|0|
+2018-06-04 23:02:57,820 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/disable_gpus/true|AutoDL disable GPUs parameter|
+2018-06-04 23:02:57,822 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL disable GPUs parameter|H2O.ai|1|
+2018-06-04 23:02:57,824 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/accuracy/8|AutoDL accuracy parameter|
+2018-06-04 23:02:57,826 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL accuracy parameter|H2O.ai|8|
+2018-06-04 23:02:57,828 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/time/2|AutoDL time parameter|
+2018-06-04 23:02:57,830 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL time parameter|H2O.ai|2|
+2018-06-04 23:02:57,831 C:████ D:590.6GB M:6.8GB 499   INFO   : [usage] |/autodl/params/interpretability/7|AutoDL interpretability parameter|
+2018-06-04 23:02:57,833 C:████ D:590.6GB M:6.8GB 499   INFO   : [event] |AutoDL|AutoDL interpretability parameter|H2O.ai|7|
+2018-06-04 23:02:57,834 C:████ D:590.6GB M:6.8GB 499   INFO   : Selected Accuracy: 8 / 10
+2018-06-04 23:02:57,838 C:████ D:590.6GB M:6.8GB 499   INFO   : Selected Time: 2 / 10
+2018-06-04 23:02:57,841 C:████ D:590.6GB M:6.8GB 499   INFO   : Selected Interpretability: 7 / 10
+2018-06-04 23:02:57,923 C:████ D:590.6GB M:6.8GB 499   INFO   : Data shape: (4408, 14)
+2018-06-04 23:02:57,933 C:████ D:590.6GB M:6.8GB 499   INFO   : Time to read the training dataset with datatable: 0.086716
+2018-06-04 23:02:58,722 C:████ D:590.6GB M:6.8GB 499   INFO   : Turning accuracy/time/interpretability into:
+2018-06-04 23:02:58,738 C:████ D:590.6GB M:6.8GB 499   INFO   :   individuals: 4
+2018-06-04 23:02:58,744 C:████ D:590.6GB M:6.8GB 499   INFO   :   iterations=10
+2018-06-04 23:02:58,749 C:████ D:590.6GB M:6.8GB 499   INFO   :   early_stopping_rounds=5
+2018-06-04 23:02:58,753 C:████ D:590.6GB M:6.8GB 499   INFO   :   only_first_fold_model=False
+2018-06-04 23:02:58,760 C:████ D:590.6GB M:6.8GB 499   INFO   :   num_folds=5
+2018-06-04 23:02:58,765 C:████ D:590.6GB M:6.8GB 499   INFO   :   fold_reps=1
+2018-06-04 23:02:58,768 C:████ D:590.6GB M:6.8GB 499   INFO   :   monotonicity_constraints=True
+2018-06-04 23:02:58,775 C:████ D:590.6GB M:6.8GB 499   INFO   :   parameter_tune_level=2
+2018-06-04 23:02:58,782 C:████ D:590.6GB M:6.8GB 499   INFO   :   auto_tune_target_transform=True
+2018-06-04 23:02:58,801 C:████ D:590.6GB M:6.8GB 499   INFO   :   auto_tune_backend=True
+2018-06-04 23:02:58,810 C:████ D:590.6GB M:6.8GB 499   INFO   :   ensemble_level=2
+2018-06-04 23:02:58,816 C:████ D:590.6GB M:6.8GB 499   INFO   :   num_ensemble_folds=5
+2018-06-04 23:02:58,823 C:████ D:590.6GB M:6.8GB 499   INFO   :   max_rows=71400000
+2018-06-04 23:02:58,833 C:████ D:590.6GB M:6.8GB 499   INFO   :   strategy=FS
+fatal: Not a git repository (or any of the parent directories): .git
+2018-06-04 23:02:58,931 C:████ D:590.6GB M:6.8GB 499   INFO   : Using 3 threads.
+2018-06-04 23:02:58,937 C:████ D:590.6GB M:6.8GB 499   INFO   : Using seed: 250360526 that is random
+2018-06-04 23:02:58,947 C:████ D:590.6GB M:6.8GB 499   INFO   : Size of file system containing temp dir: 931.6GB
+2018-06-04 23:02:58,953 C:████ D:590.6GB M:6.8GB 499   INFO   : Available space on file system containing temp dir: 590.6GB
+2018-06-04 23:02:58,962 C:████ D:590.6GB M:6.8GB 499   INFO   : Temporary directory: /./tmp/h2oai_experiment_litokote
+2018-06-04 23:02:58,995 C:████ D:590.6GB M:6.8GB 499   INFO   : Physical device for temporary directory: osxfs
+2018-06-04 23:02:59,000 C:████ D:590.6GB M:6.8GB 499   INFO   : Pinging every 60 seconds.
+2018-06-04 23:02:59,056 C:████ D:590.6GB M:6.8GB 499   INFO   : Using datatable 'write' strategy.
+2018-06-04 23:02:59,065 C:████ D:590.6GB M:6.8GB 499   INFO   : Ingesting training data...
+2018-06-04 23:02:59,083 C:████ D:590.6GB M:6.8GB 499   DATA   : Training data file name: dai_exp_munged_050918.csv
+2018-06-04 23:02:59,090 C:████ D:590.6GB M:6.8GB 499   DATA   : Reading training data from: ./tmp/vufebura/dai_exp_munged_050918.csv.1528153330.4199314.bin
+2018-06-04 23:02:59,134 C:████ D:590.6GB M:6.8GB 499   INFO   : Data shape: (4408, 14)
+2018-06-04 23:02:59,137 C:████ D:590.6GB M:6.8GB 499   INFO   : Time to read the training dataset with datatable: 0.036589
+2018-06-04 23:02:59,383 C:████ D:590.6GB M:6.8GB 499   INFO   : Checking data integrity...
+2018-06-04 23:02:59,963 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Checking for columns with constant values.
+2018-06-04 23:03:00,219 C:██ █ D:590.6GB M:6.8GB 499   INFO   : No columns with constant values found.
+2018-06-04 23:03:00,225 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Training data (with target): (4408, 14)
+2018-06-04 23:03:00,313 C:██ █ D:590.6GB M:6.8GB 499   DATA   : First 5 rows of training data:
+        GPU  sys_CPU  sys_GPU  config_accu  config_time  config_MLI  \
+0  disabled     16.0      0.0          5.0          5.0         5.0   
+1   enabled      4.0      1.0          5.0          5.0         5.0   
+2   enabled      4.0      1.0          5.0          5.0         5.0   
+3  disabled     16.0      0.0          1.0          1.0         5.0   
+4   enabled     32.0      8.0          5.0          5.0         5.0   
+
+   nrows_train  ncols_train  target_binary_dist  target_nclasses  \
+0      23999.0         25.0                 NaN              NaN   
+1      23999.0         25.0                 NaN              NaN   
+2      23999.0         25.0                 NaN              NaN   
+3      23999.0         25.0                 NaN              NaN   
+4      23999.0         25.0                 NaN              NaN   
+
+   recipe_individuals  train_data_size  weight  t_total  
+0                 4.0         599975.0     1.0   302.78  
+1                 4.0         599975.0     1.0   498.72  
+2                 4.0         599975.0     1.0   352.10  
+3                 4.0         599975.0     1.0   113.76  
+4                16.0         599975.0     1.0   516.92  
+2018-06-04 23:03:00,318 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Using fold_reps=1
+2018-06-04 23:03:00,321 C:██ █ D:590.6GB M:6.8GB 499   WARNING: GPU(s): None visible.  If unexpected and running nvidia-docker, try: sudo systemctl start nvidia-docker
+2018-06-04 23:03:00,329 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Early stopping enabled.
+2018-06-04 23:03:00,439 C:██ █ D:590.6GB M:6.8GB 499   DATA   : Stats for target column 't_total':
+count      4408.000000
+mean       5147.132049
+std       12742.571881
+min          20.310000
+25%         462.605000
+50%        1107.390000
+75%        3749.732500
+max      166400.590000
+Name: t_total, dtype: float64
+2018-06-04 23:03:00,466 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Checking target column...
+2018-06-04 23:03:00,498 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Scorer: RMSE (less is better)
+2018-06-04 23:03:00,605 C:██ █ D:590.6GB M:6.8GB 499   INFO   : Detecting column types...
+2018-06-04 23:03:01,799 C:▇▇█▇ D:590.6GB M:6.8GB 499   INFO   : Data shape: (4408, 14)
+2018-06-04 23:03:01,805 C:▇▇█▇ D:590.6GB M:6.8GB 499   INFO   : Time to read the train dataset with datatable: 0.030617
+2018-06-04 23:03:01,946 C:▇▇█▇ D:590.6GB M:6.8GB 499   INFO   : Time-series check disabled.
+2018-06-04 23:03:01,951 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : Date cols: []
+2018-06-04 23:03:01,952 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : DateTime cols: []
+2018-06-04 23:03:01,953 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : ID cols: []
+2018-06-04 23:03:01,954 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : Categorical cols: ['GPU']
+2018-06-04 23:03:01,956 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : Numerical cols: ['config_MLI', 'config_accu', 'config_time', 'ncols_train', 'nrows_train', 'recipe_individuals', 'sys_CPU', 'sys_GPU', 'target_binary_dist', 'target_nclasses', 'train_data_size', 'weight']
+2018-06-04 23:03:01,957 C:▇▇█▇ D:590.6GB M:6.8GB 499   DATA   : Text cols: []
+2018-06-04 23:03:02,593 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,598 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Number of individuals: 4
+2018-06-04 23:03:02,601 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated target transform tuning iterations: 2
+2018-06-04 23:03:02,604 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated model and feature parameter tuning iterations: 4
+2018-06-04 23:03:02,606 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated total (tuning + feature evolution) number of iterations: 16
+2018-06-04 23:03:02,608 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated total (backend + tuning + feature evolution + final) number of models to train: 245
+2018-06-04 23:03:02,611 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Backend tuning: 0 model(s)
+2018-06-04 23:03:02,614 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Target transform tuning: 30 model(s)
+2018-06-04 23:03:02,616 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Model and feature tuning: 80 model(s)
+2018-06-04 23:03:02,618 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Feature pre-pruning: 0 model(s)
+2018-06-04 23:03:02,620 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Feature evolution: 110 model(s)
+2018-06-04 23:03:02,622 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Final pipeline: 25 model(s)
+2018-06-04 23:03:02,624 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,661 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,667 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Experiment: litokote
+2018-06-04 23:03:02,669 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,670 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : ACCURACY [8/10]:
+2018-06-04 23:03:02,672 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Training data size: *4,408 rows, 14 cols*
+2018-06-04 23:03:02,673 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature evolution: *XGBoost*, *5-fold CV*
+2018-06-04 23:03:02,675 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Final pipeline: *Ensemble (5 x XGBoost), 5-fold CV*
+2018-06-04 23:03:02,678 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,681 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : TIME [2/10]:
+2018-06-04 23:03:02,684 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature evolution: *4 individuals*, up to *16 iterations*
+2018-06-04 23:03:02,686 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Early stopping: After *5* iterations of no improvement
+2018-06-04 23:03:02,688 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,690 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : INTERPRETABILITY [7/10]:
+2018-06-04 23:03:02,691 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature pre-pruning strategy: FS
+2018-06-04 23:03:02,695 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Monotonicity constraints: enabled
+2018-06-04 23:03:02,697 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature engineering search space (where applicable): ['Date', 'FrequencyEncoding', 'Identity', 'Interactions', 'TargetEncoding', 'Text', 'WeightOfEvidence']
+2018-06-04 23:03:02,699 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,701 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : XGBoost models to train:
+2018-06-04 23:03:02,703 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Target transform tuning: *30*
+2018-06-04 23:03:02,705 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Model and feature tuning: *80*
+2018-06-04 23:03:02,706 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature evolution: *110*
+2018-06-04 23:03:02,708 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Final pipeline: *25*
+2018-06-04 23:03:02,711 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,713 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated max. total memory usage:
+2018-06-04 23:03:02,715 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - Feature engineering: *8.0MB*
+2018-06-04 23:03:02,717 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : - CPU XGBoost: *112.0MB*
+2018-06-04 23:03:02,719 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,720 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Estimated runtime: *10 minutes*
+2018-06-04 23:03:02,722 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:02,724 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : [usage] |/autodl/results/experiment_preview/Experiment: litokote @@@  @@@ ACCURACY [8/10]: @@@ - Training data size: *4,408 rows, 14 cols* @@@ - Feature evolution: *XGBoost*, *5-fold CV* @@@ - Final pipeline: *Ensemble (5 x XGBoost), 5-fold CV* @@@  @@@ TIME [2/10]: @@@ - Feature evolution: *4 individuals*, up to *16 iterations* @@@ - Early stopping: After *5* iterations of no improvement @@@  @@@ INTERPRETABILITY [7/10]: @@@ - Feature pre-pruning strategy: FS @@@ - Monotonicity constraints: enabled @@@ - Feature engineering search space (where applicable): ['Date', 'FrequencyEncoding', 'Identity', 'Interactions', 'TargetEncoding', 'Text', 'WeightOfEvidence'] @@@  @@@ XGBoost models to train: @@@ - Target transform tuning: *30* @@@ - Model and feature tuning: *80* @@@ - Feature evolution: *110* @@@ - Final pipeline: *25* @@@  @@@ Estimated max. total memory usage: @@@ - Feature engineering: *8.0MB* @@@ - CPU XGBoost: *112.0MB* @@@  @@@ Estimated runtime: *10 minutes*|AutoDL experiment preview|
+2018-06-04 23:03:02,725 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Preparing validation splits...
+2018-06-04 23:03:02,736 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Not doing time-based splits.
+2018-06-04 23:03:02,745 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Feature engineering validation split #1: 3526 / 882
+2018-06-04 23:03:02,836 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Doing backend (and target transform) tuning on data of shape (3526, 14) / (882, 14)
+2018-06-04 23:03:03,089 C:▃▁▁▆ D:590.6GB M:6.9GB 499   INFO   : Feature engineering validation split #2: 3526 / 882
+2018-06-04 23:03:03,350 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Feature engineering validation split #3: 3526 / 882
+2018-06-04 23:03:03,613 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Feature engineering validation split #4: 3527 / 881
+2018-06-04 23:03:03,858 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Feature engineering validation split #5: 3527 / 881
+2018-06-04 23:03:04,140 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Final ensemble training / validation split #1: 3526 / 882
+2018-06-04 23:03:04,143 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Final ensemble training / validation split #2: 3526 / 882
+2018-06-04 23:03:04,148 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Final ensemble training / validation split #3: 3526 / 882
+2018-06-04 23:03:04,153 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Final ensemble training / validation split #4: 3527 / 881
+2018-06-04 23:03:04,158 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Final ensemble training / validation split #5: 3527 / 881
+2018-06-04 23:03:04,278 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Transformers used (accuracy=8, time=2, interpretability=7): ['BulkInteractionsTransformer', 'CVCatNumEncodeF', 'CVTargetEncodeF', 'DatesTransformer', 'EwmaLagsTransformer', 'FilterTransformer', 'FrequentTransformer', 'LagsTransformer', 'NumCatTETransformer', 'NumToCatTETransformer', 'NumToCatWoEMonotonicTransformer', 'NumToCatWoETransformer', 'TextLinModelTransformer', 'TextTransformer', 'WeightOfEvidenceTransformer']
+2018-06-04 23:03:04,284 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Genes used (accuracy=8, time=2, interpretability=7): ['BulkInteractionsGene', 'CvCatNumEncodeGene', 'CvTargetEncodeMultiGene', 'CvTargetEncodeSingleGene', 'DateGene', 'DateTimeGene', 'EwmaLagsGene', 'FilterGene', 'FrequentGene', 'LagsGene', 'NumCatTargetEncodeMultiGene', 'NumCatTargetEncodeSingleGene', 'NumToCatTargetEncodeMultiGene', 'NumToCatTargetEncodeSingleGene', 'NumToCatWeightOfEvidenceGene', 'NumToCatWeightOfEvidenceMonotonicGene', 'TextGene', 'TextLinClassifierGene', 'TextLinRegressorGene', 'WeightOfEvidenceGene']
+2018-06-04 23:03:04,288 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Tuning modeling backend...
+2018-06-04 23:03:04,297 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Auto-tuning modeling backend: start.
+2018-06-04 23:03:04,327 C:▆██▇ D:590.6GB M:7.0GB 499   INFO   : Pre-pruning 12 gene(s) from 13 active base genes
+2018-06-04 23:03:04,351 C:▅█▇▇ D:590.6GB M:6.9GB 499   INFO   : Engineering features.
+2018-06-04 23:03:06,545 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Auto-tuning modeling backend: end : Duration: 2.2479 s
+2018-06-04 23:03:07,065 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : 
+2018-06-04 23:03:07,070 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Number of individuals: 4
+2018-06-04 23:03:07,073 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Estimated target transform tuning iterations: 2
+2018-06-04 23:03:07,076 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Estimated model and feature parameter tuning iterations: 4
+2018-06-04 23:03:07,077 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Estimated total (tuning + feature evolution) number of iterations: 16
+2018-06-04 23:03:07,079 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Estimated total (backend + tuning + feature evolution + final) number of models to train: 246
+2018-06-04 23:03:07,081 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Backend tuning: 1 model(s)
+2018-06-04 23:03:07,084 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Target transform tuning: 30 model(s)
+2018-06-04 23:03:07,087 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Model and feature tuning: 80 model(s)
+2018-06-04 23:03:07,090 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Feature pre-pruning: 0 model(s)
+2018-06-04 23:03:07,092 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Feature evolution: 110 model(s)
+2018-06-04 23:03:07,095 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Final pipeline: 25 model(s)
+2018-06-04 23:03:07,097 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : 
+2018-06-04 23:03:07,191 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Regression target transformer tuning...
+2018-06-04 23:03:07,274 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : target transform tuning iterations: 2
+2018-06-04 23:03:07,281 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : 
+2018-06-04 23:03:07,286 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : ============================================================================
+2018-06-04 23:03:07,289 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Starting Iteration: 0
+2018-06-04 23:03:07,292 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : ============================================================================
+2018-06-04 23:03:07,342 C:▂▄▃▄ D:590.6GB M:7.0GB 499   INFO   : Engineering features.
+2018-06-04 23:03:39,262 C:     D:590.6GB M:6.8GB 499   INFO   : Scored 5/246 models on 53 features
+2018-06-04 23:03:39,284 C:     D:590.6GB M:6.8GB 499   INFO   : Scores (RMSE, less is better):
+2018-06-04 23:03:39,288 C:     D:590.6GB M:6.8GB 499   INFO   : ['8466', '8494.2', '9005.3', '10199']
+2018-06-04 23:03:39,290 C:     D:590.6GB M:6.8GB 499   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-04 23:03:39,306 C:     D:590.6GB M:6.8GB 499   INFO   : 
+2018-06-04 23:03:39,313 C:     D:590.6GB M:6.8GB 499   INFO   : ============================================================================
+2018-06-04 23:03:39,338 C:     D:590.6GB M:6.8GB 499   INFO   : Starting Iteration: 1
+2018-06-04 23:03:39,341 C:     D:590.6GB M:6.8GB 499   INFO   : ============================================================================
+2018-06-04 23:03:56,161 C:     D:590.6GB M:6.7GB 499   INFO   : Scored 7/246 models on 79 features
+2018-06-04 23:03:56,186 C:     D:590.6GB M:6.7GB 499   INFO   : Scores (RMSE, less is better):
+2018-06-04 23:03:56,191 C:     D:590.6GB M:6.7GB 499   INFO   : ['8359', '8500.9']
+2018-06-04 23:03:56,193 C:     D:590.6GB M:6.7GB 499   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-04 23:03:56,224 C:     D:590.6GB M:6.7GB 499   INFO   : Target transform tuning leaderboard (scorer=RMSE):
+
+2018-06-04 23:03:56,236 C:     D:590.6GB M:6.7GB 499   INFO   : +-------------+-------------------------------+----------+-------------+--------------+--------------+-----------+----------+
+2018-06-04 23:03:56,253 C:     D:590.6GB M:6.7GB 499   INFO   : |   job order | transformer                   |   scores |   scores_sd | job status   |   rel_scores |   z-score | isbest   |
+2018-06-04 23:03:56,258 C:     D:590.6GB M:6.7GB 499   INFO   : |-------------+-------------------------------+----------+-------------+--------------+--------------+-----------+----------|
+2018-06-04 23:03:56,263 C:     D:590.6GB M:6.7GB 499   INFO   : |           4 | TargetTransformer_sqrt        |  8358.99 |     820.061 | PASSED       |     1        |  0        | *        |
+2018-06-04 23:03:56,269 C:     D:590.6GB M:6.7GB 499   INFO   : |           0 | TargetTransformer_identity    |  8466.04 |     755.995 | PASSED       |     0.987356 |  0.130536 |          |
+2018-06-04 23:03:56,272 C:     D:590.6GB M:6.7GB 499   INFO   : |           1 | TargetTransformer_unit_box    |  8494.18 |     804.934 | PASSED       |     0.984085 |  0.16485  |          |
+2018-06-04 23:03:56,275 C:     D:590.6GB M:6.7GB 499   INFO   : |           5 | TargetTransformer_double_sqrt |  8500.86 |     801.97  | PASSED       |     0.983311 |  0.173002 |          |
+2018-06-04 23:03:56,277 C:     D:590.6GB M:6.7GB 499   INFO   : |           2 | TargetTransformer_log         |  9005.33 |     716.392 | PASSED       |     0.928227 |  0.78816  |          |
+2018-06-04 23:03:56,279 C:     D:590.6GB M:6.7GB 499   INFO   : |           3 | TargetTransformer_square      | 10199    |     829.308 | PASSED       |     0.81959  |  2.24374  |          |
+2018-06-04 23:03:56,282 C:     D:590.6GB M:6.7GB 499   INFO   : +-------------+-------------------------------+----------+-------------+--------------+--------------+-----------+----------+
+2018-06-04 23:03:56,288 C:     D:590.6GB M:6.7GB 499   INFO   : Target transform search: end : Duration: 49.089 s
+2018-06-04 23:03:56,290 C:     D:590.6GB M:6.7GB 499   INFO   : Target transform: TargetTransformer_sqrt
+2018-06-04 23:03:56,292 C:     D:590.6GB M:6.7GB 499   INFO   : Model and feature tuning...
+2018-06-04 23:03:56,840 C:     D:590.6GB M:6.7GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:56,963 C:     D:590.6GB M:6.7GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,076 C:     D:590.6GB M:6.7GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,217 C:▆▁▂▁ D:590.6GB M:6.8GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,387 C:▆▁▂▁ D:590.6GB M:6.8GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,545 C:▆▁▂▁ D:590.6GB M:6.8GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,691 C:▆▁▂▁ D:590.6GB M:6.8GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:57,815 C:▆▁▂▁ D:590.6GB M:6.8GB 499   INFO   : Pre-adding 15 gene(s) to 13 active base genes
+2018-06-04 23:03:58,578 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : parameter tuning iterations: 5
+2018-06-04 23:03:58,593 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : 
+2018-06-04 23:03:58,596 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : ============================================================================
+2018-06-04 23:03:58,600 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : Starting Iteration: 2
+2018-06-04 23:03:58,604 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : ============================================================================
+2018-06-04 23:03:59,036 C: ▁▆  D:590.6GB M:6.9GB 499   INFO   : Engineering features.
+2018-06-04 23:04:00,133 C:████ D:590.6GB M:6.8GB 499   INFO   : Ping from experiment litokote. CPU memory usage: 187.8MB, max: 301.4MB. GPU memory usage: 0B, max: 0B. [h2oai-litokote-model_parameter_tuning-running-Engineering features-wait_for_completion]
+2018-06-04 23:04:31,696 C:▅▅▅▅ D:590.6GB M:6.7GB 499   INFO   : Scored 35/246 models on 157 features
+2018-06-04 23:04:31,720 C:▅▅▅▅ D:590.6GB M:6.7GB 499   INFO   : Scores (RMSE, less is better):
+2018-06-04 23:04:31,723 C:▅▅▅▅ D:590.6GB M:6.7GB 499   INFO   : ['8359', '8489', '8734.9', '8806.5']
+2018-06-04 23:04:31,726 C:▅▅▅▅ D:590.6GB M:6.7GB 499   INFO   : Best individual has 13 transformers creating 13 features
+2018-06-04 23:04:31,815 C:▅▅▅▅ D:590.6GB M:6.7GB 499   INFO   : Picking the fastest model with a score within 287.02 (z-score <= 0.350) of the best score
+2018-06-04 23:04:31,851 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Model tuning leaderboard (scorer=RMSE):
+
+2018-06-04 23:04:31,857 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : +-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+-------------------+-------------------+--------------------+--------------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------------+--------------+---------------------+----------+
+2018-06-04 23:04:31,860 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |   job order | booster   |   colsample_bytree |   gamma | grow_policy   |   max_bin |   max_delta_step |   max_depth |   max_leaves |   reg_alpha |   reg_lambda |   scale_pos_weight |   subsample | tree_method   | scores            | scores_sd         | training_times     | rel_time           |   num_trees |   rel_num_trees |   ngenes_start |   ngenes_max |   ngenes |   nfeatures_max |   nfeatures | job status   | rel_scores         |   complexity | z-score             | isbest   |
+2018-06-04 23:04:31,864 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+-------------------+-------------------+--------------------+--------------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------------+--------------+---------------------+----------|
+2018-06-04 23:04:31,868 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           1 | gbtree    |                0.8 |   0     | lossguide     |       256 |                0 |           0 |           64 |           0 |            1 |                  1 |         0.7 | hist          | 8358.991695770135 | 820.0605977374222 | 11.744723796844482 | 0.9999999999999999 |         187 |        0.660777 |             13 |          989 |       13 |             989 |          13 | PASSED       | 0.9999999999999989 |      549.767 | 0.0                 |          |
+2018-06-04 23:04:31,870 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           0 | gbtree    |                0.8 |   0     | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.6 | hist          | 8488.99638723829  | 769.8203375809435 | 9.579327821731567  | 0.8156281907885561 |         248 |        0.876325 |             13 |          989 |       13 |             989 |          13 | PASSED       | 0.984685505148335  |     1004.59  | 0.15853059130854844 | *        |
+2018-06-04 23:04:31,872 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           2 | gbtree    |                1   |   0.001 | depthwise     |        64 |                0 |           4 |            0 |           0 |            1 |                  1 |         0.6 | hist          | 8734.864729135077 | 903.026144827195  | 7.461251974105835  | 0.6352854356703125 |         283 |        1        |             28 |        10316 |       25 |           10316 |          26 | PASSED       | 0.9569686486258648 |      800     | 0.4583478762447429  |          |
+2018-06-04 23:04:31,874 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           3 | gbtree    |                0.6 |   0     | lossguide     |        64 |                0 |           0 |           16 |           0 |            1 |                  1 |         0.6 | hist          | 8806.458974380965 | 958.6942183137436 | 7.486987113952637  | 0.6374766442752962 |         262 |        0.925795 |             28 |        10316 |       25 |           10316 |          26 | PASSED       | 0.9491887397746843 |      370.318 | 0.5456514797143143  |          |
+2018-06-04 23:04:31,876 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           4 | gbtree    |                0.9 |   0.001 | depthwise     |       128 |                0 |           4 |            0 |           0 |            1 |                  1 |         0.6 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |         6336 |       28 |            6336 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,880 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           5 | gbtree    |                0.8 |   0     | depthwise     |       128 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.5 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |         1910 |       28 |            1910 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,883 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           6 | gbtree    |                0.2 |   0     | lossguide     |       128 |                0 |           0 |           64 |           0 |            1 |                  1 |         0.6 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |         1910 |       28 |            1910 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,886 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           7 | gbtree    |                1   |   0     | depthwise     |       128 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.6 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |         1910 |       28 |            1910 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,888 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           8 | gbtree    |                0.3 |   0.001 | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.9 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          989 |       28 |             989 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,890 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |           9 | gbtree    |                0.8 |   0     | depthwise     |       256 |                0 |           6 |            0 |           0 |            1 |                  1 |         0.6 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          989 |       28 |             989 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,892 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          10 | gbtree    |                1   |   0     | depthwise     |       128 |                0 |           8 |            0 |           0 |            1 |                  1 |         0.6 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          503 |       28 |             503 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,895 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          11 | gbtree    |                0.8 |   0.001 | depthwise     |       128 |                0 |           8 |            0 |           0 |            1 |                  1 |         0.7 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          503 |       28 |             503 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,898 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          12 | gbtree    |                0.6 |   0.001 | depthwise     |       128 |                0 |           8 |            0 |           0 |            1 |                  1 |         0.7 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          503 |       28 |             503 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,901 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          13 | gbtree    |                0.3 |   0     | lossguide     |        64 |                0 |           0 |         1024 |           0 |            1 |                  1 |         0.8 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          252 |       28 |             252 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,904 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          14 | gbtree    |                0.8 |   0     | lossguide     |        64 |                0 |           0 |         1024 |           0 |            1 |                  1 |         0.8 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          252 |       28 |             252 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,907 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          15 | gbtree    |                0.8 |   1     | lossguide     |        64 |                0 |           0 |         1024 |           0 |            1 |                  1 |         1   | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          252 |       28 |             252 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,909 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          16 | gbtree    |                0.2 |   0.1   | depthwise     |        64 |                0 |          10 |            0 |           0 |            1 |                  1 |         0.4 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          252 |       28 |             252 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,913 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : |          17 | gbtree    |                0.2 |   0     | depthwise     |       128 |                0 |          10 |            0 |           0 |            1 |                  1 |         0.4 | hist          |                   |                   |                    |                    |           0 |        0        |             28 |          126 |       28 |             126 |           0 |              |                    |        0     |                     |          |
+2018-06-04 23:04:31,916 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : +-------------+-----------+--------------------+---------+---------------+-----------+------------------+-------------+--------------+-------------+--------------+--------------------+-------------+---------------+-------------------+-------------------+--------------------+--------------------+-------------+-----------------+----------------+--------------+----------+-----------------+-------------+--------------+--------------------+--------------+---------------------+----------+
+2018-06-04 23:04:31,922 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Best parameters:
+2018-06-04 23:04:31,925 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : booster: gbtree
+2018-06-04 23:04:31,928 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : tree_method: hist
+2018-06-04 23:04:31,932 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : grow_policy: depthwise
+2018-06-04 23:04:31,936 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : reg_alpha: 0
+2018-06-04 23:04:31,939 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : reg_lambda: 1
+2018-06-04 23:04:31,941 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : max_depth: 6
+2018-06-04 23:04:31,945 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : max_leaves: 0
+2018-06-04 23:04:31,948 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : colsample_bytree: 0.8
+2018-06-04 23:04:31,951 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : subsample: 0.6
+2018-06-04 23:04:31,953 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : max_bin: 256
+2018-06-04 23:04:31,956 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : scale_pos_weight: 1.0
+2018-06-04 23:04:31,958 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : max_delta_step: 0.0
+2018-06-04 23:04:31,962 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : gamma: 0
+2018-06-04 23:04:31,966 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : best_ntrees: 248
+2018-06-04 23:04:31,969 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : best_ngenes: 13
+2018-06-04 23:04:31,971 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : best_nfeatures: 13
+2018-06-04 23:04:31,980 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Model and feature tuning scores (RMSE, less is better):
+2018-06-04 23:04:31,984 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : ['8359', '8489', '8734.9', '8806.5']
+2018-06-04 23:04:31,987 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Parameter tuning: end : Duration: 35.678 s
+2018-06-04 23:04:32,087 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Feature Evolution...
+2018-06-04 23:04:32,139 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : 
+2018-06-04 23:04:32,142 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : ============================================================================
+2018-06-04 23:04:32,146 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : Starting Iteration: 3
+2018-06-04 23:04:32,151 C: ▇ ▄ D:590.6GB M:7.0GB 499   INFO   : ============================================================================
+2018-06-04 23:04:33,217 C: ▂ ▄ D:590.6GB M:7.0GB 499   INFO   : Engineering features.
+2018-06-04 23:04:36,917 C:▄█▅█ D:590.6GB M:6.9GB 7     WARNING: *** ABORTED EXPERIMENT litokote. IGNORE STACK TRACE BELOW, IF ANY. ***
+("Terminating all processes with names containing 'h2oai-litokote'",)
+2018-06-04 23:04:39,895 C:     D:590.6GB M:7.1GB 7     INFO   : Stopping server
+2018-06-04 23:04:39,904 C:     D:590.6GB M:7.1GB 7     INFO   : Will shutdown in 1 seconds ...
+2018-06-04 23:04:40,909 C:     D:590.6GB M:7.1GB 7     INFO   : Exit...

@@ -1,0 +1,80 @@
+2018-06-04 22:59:09.866:INFO::main: Logging initialized @1590ms
+06-04 22:59:09.989 127.0.0.1:54321       36     main      INFO: Found XGBoost backend with library: xgboost4j_gpu
+06-04 22:59:10.017 127.0.0.1:54321       36     main      INFO: ----- H2O started  -----
+06-04 22:59:10.018 127.0.0.1:54321       36     main      INFO: Build git branch: rel-wheeler
+06-04 22:59:10.019 127.0.0.1:54321       36     main      INFO: Build git hash: 502932fed736bbb21e9e156f3bc074acb464f775
+06-04 22:59:10.020 127.0.0.1:54321       36     main      INFO: Build git describe: jenkins-3.16.0.10-1-g502932fed7
+06-04 22:59:10.021 127.0.0.1:54321       36     main      INFO: Build project version: 3.16.0.11 (latest version: 3.18.0.11)
+06-04 22:59:10.022 127.0.0.1:54321       36     main      INFO: Build age: 19 days
+06-04 22:59:10.023 127.0.0.1:54321       36     main      INFO: Built by: 'jenkins'
+06-04 22:59:10.023 127.0.0.1:54321       36     main      INFO: Built on: '2018-05-16 05:00:20'
+06-04 22:59:10.024 127.0.0.1:54321       36     main      INFO: Watchdog Build git branch: (unknown)
+06-04 22:59:10.025 127.0.0.1:54321       36     main      INFO: Watchdog Build git hash: (unknown)
+06-04 22:59:10.026 127.0.0.1:54321       36     main      INFO: Watchdog Build git describe: (unknown)
+06-04 22:59:10.027 127.0.0.1:54321       36     main      INFO: Watchdog Build project version: (unknown)
+06-04 22:59:10.028 127.0.0.1:54321       36     main      INFO: Watchdog Built by: (unknown)
+06-04 22:59:10.029 127.0.0.1:54321       36     main      INFO: Watchdog Built on: (unknown)
+06-04 22:59:10.029 127.0.0.1:54321       36     main      INFO: XGBoost Build git branch: (unknown)
+06-04 22:59:10.030 127.0.0.1:54321       36     main      INFO: XGBoost Build git hash: (unknown)
+06-04 22:59:10.031 127.0.0.1:54321       36     main      INFO: XGBoost Build git describe: (unknown)
+06-04 22:59:10.032 127.0.0.1:54321       36     main      INFO: XGBoost Build project version: (unknown)
+06-04 22:59:10.033 127.0.0.1:54321       36     main      INFO: XGBoost Built by: (unknown)
+06-04 22:59:10.035 127.0.0.1:54321       36     main      INFO: XGBoost Built on: (unknown)
+06-04 22:59:10.036 127.0.0.1:54321       36     main      INFO: KrbStandalone Build git branch: (unknown)
+06-04 22:59:10.037 127.0.0.1:54321       36     main      INFO: KrbStandalone Build git hash: (unknown)
+06-04 22:59:10.038 127.0.0.1:54321       36     main      INFO: KrbStandalone Build git describe: (unknown)
+06-04 22:59:10.038 127.0.0.1:54321       36     main      INFO: KrbStandalone Build project version: (unknown)
+06-04 22:59:10.039 127.0.0.1:54321       36     main      INFO: KrbStandalone Built by: (unknown)
+06-04 22:59:10.040 127.0.0.1:54321       36     main      INFO: KrbStandalone Built on: (unknown)
+06-04 22:59:10.041 127.0.0.1:54321       36     main      INFO: Processed H2O arguments: [-port, 54321, -ip, 127.0.0.1]
+06-04 22:59:10.041 127.0.0.1:54321       36     main      INFO: Java availableProcessors: 4
+06-04 22:59:10.042 127.0.0.1:54321       36     main      INFO: Java heap totalMemory: 125.0 MB
+06-04 22:59:10.043 127.0.0.1:54321       36     main      INFO: Java heap maxMemory: 3.21 GB
+06-04 22:59:10.044 127.0.0.1:54321       36     main      INFO: Java version: Java 1.8.0_172 (from Oracle Corporation)
+06-04 22:59:10.045 127.0.0.1:54321       36     main      INFO: JVM launch parameters: [-Xmx3695m, -verbose:gc, -XX:+PrintGCDetails, -XX:+PrintGCTimeStamps]
+06-04 22:59:10.045 127.0.0.1:54321       36     main      INFO: OS version: Linux 4.9.87-linuxkit-aufs (amd64)
+06-04 22:59:10.046 127.0.0.1:54321       36     main      INFO: Machine physical memory: 8.02 GB
+06-04 22:59:10.047 127.0.0.1:54321       36     main      INFO: X-h2o-cluster-id: 1528153148520
+06-04 22:59:10.048 127.0.0.1:54321       36     main      INFO: User name: 'dai'
+06-04 22:59:10.049 127.0.0.1:54321       36     main      INFO: Opted out of sending usage metrics.
+06-04 22:59:10.050 127.0.0.1:54321       36     main      INFO: IPv6 stack selected: false
+06-04 22:59:10.050 127.0.0.1:54321       36     main      INFO: Possible IP Address: eth0 (eth0), 172.17.0.2
+06-04 22:59:10.051 127.0.0.1:54321       36     main      INFO: Possible IP Address: lo (lo), 127.0.0.1
+06-04 22:59:10.052 127.0.0.1:54321       36     main      INFO: Selected H2O.CLOUD_MULTICAST_IF: name:lo (lo) doesn't support multicast
+06-04 22:59:10.066 127.0.0.1:54321       36     main      INFO: H2O node running in unencrypted mode.
+06-04 22:59:10.070 127.0.0.1:54321       36     main      INFO: Internal communication uses port: 54322
+06-04 22:59:10.070 127.0.0.1:54321       36     main      INFO: Listening for HTTP and REST traffic on http://127.0.0.1:54321/
+06-04 22:59:10.072 127.0.0.1:54321       36     main      INFO: H2O cloud name: 'dai' on /127.0.0.1:54321, discovery address /225.1.131.140:57601
+06-04 22:59:10.072 127.0.0.1:54321       36     main      INFO: If you have trouble connecting, try SSH tunneling from your local machine (e.g., via port 55555):
+06-04 22:59:10.072 127.0.0.1:54321       36     main      INFO:   1. Open a terminal and run 'ssh -L 55555:localhost:54321 dai@127.0.0.1'
+06-04 22:59:10.072 127.0.0.1:54321       36     main      INFO:   2. Point your browser to http://localhost:55555
+06-04 22:59:10.789 127.0.0.1:54321       36     main      INFO: Log dir: '/tmp/h2o-dai/h2ologs'
+06-04 22:59:10.791 127.0.0.1:54321       36     main      INFO: Cur dir: '/'
+06-04 22:59:10.799 127.0.0.1:54321       36     main      INFO: HDFS subsystem successfully initialized
+06-04 22:59:10.800 127.0.0.1:54321       36     main      INFO: S3 subsystem not available
+06-04 22:59:10.801 127.0.0.1:54321       36     main      INFO: Flow dir: '/home/dai/h2oflows'
+06-04 22:59:10.824 127.0.0.1:54321       36     main      INFO: Cloud of size 1 formed [/127.0.0.1:54321]
+06-04 22:59:10.834 127.0.0.1:54321       36     main      INFO: Registered parsers: [GUESS, ARFF, XLS, SVMLight, CSV]
+06-04 22:59:10.835 127.0.0.1:54321       36     main      INFO: Watchdog extension initialized
+06-04 22:59:10.836 127.0.0.1:54321       36     main      INFO: XGBoost extension initialized
+06-04 22:59:10.836 127.0.0.1:54321       36     main      INFO: KrbStandalone extension initialized
+06-04 22:59:10.837 127.0.0.1:54321       36     main      INFO: Registered 3 core extensions in: 687ms
+06-04 22:59:10.838 127.0.0.1:54321       36     main      INFO: Registered H2O core extensions: [Watchdog, XGBoost, KrbStandalone]
+2.637: [GC (Allocation Failure) [PSYoungGen: 33792K->5118K(38912K)] 33792K->9153K(128000K), 0.0210998 secs] [Times: user=0.02 sys=0.01, real=0.02 secs] 
+06-04 22:59:11.245 127.0.0.1:54321       36     main      INFO: Registered: 171 REST APIs in: 406ms
+06-04 22:59:11.247 127.0.0.1:54321       36     main      INFO: Registered REST API extensions: [XGBoost, Algos, MLI, MLI-Driver, AutoML, Core V3, Core V4]
+06-04 22:59:11.351 127.0.0.1:54321       36     main      WARN: Raw Key (not KeySchema) in Schema: class water.api.InterpretV3 field: pdp_id
+06-04 22:59:11.361 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.isClassification
+06-04 22:59:11.362 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.leafRemovalMethod
+06-04 22:59:11.364 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.loggedResponse
+06-04 22:59:11.365 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.clusterCol
+06-04 22:59:11.366 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.weightCol
+06-04 22:59:11.367 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.klimeNfolds
+06-04 22:59:11.368 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.currentJob
+06-04 22:59:11.369 127.0.0.1:54321       36     main      WARN: Found schema field which violates the naming convention; name has mixed lowercase and uppercase characters: InterpretV3.runLOCO
+06-04 22:59:11.421 127.0.0.1:54321       36     main      INFO: Registered: 243 schemas in 173ms
+06-04 22:59:11.422 127.0.0.1:54321       36     main      INFO: H2O started in 2895ms
+06-04 22:59:11.423 127.0.0.1:54321       36     main      INFO: 
+06-04 22:59:11.424 127.0.0.1:54321       36     main      INFO: Open H2O Flow in your web browser: http://127.0.0.1:54321
+06-04 22:59:11.425 127.0.0.1:54321       36     main      INFO: 
+6.738: [GC (Allocation Failure) [PSYoungGen: 38910K->5104K(38912K)] 42945K->13153K(128000K), 0.0235678 secs] [Times: user=0.03 sys=0.00, real=0.02 secs] 

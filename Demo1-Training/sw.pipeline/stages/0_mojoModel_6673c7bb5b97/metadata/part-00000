@@ -1,1 +1,0 @@
-{"class":"py_sparkling.ml.models.H2OMOJOModel","timestamp":1528134504576,"sparkVersion":"2.3.0","uid":"mojoModel_6673c7bb5b97","paramMap":{"outputCol":"prediction_output","convertUnknownCategoricalLevelsToNa":true,"predictionCol":"t_total","featuresCols":[]}}
